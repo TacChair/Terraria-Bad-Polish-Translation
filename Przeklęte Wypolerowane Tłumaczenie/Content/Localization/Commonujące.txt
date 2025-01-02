@@ -1,0 +1,49 @@
+Amber - Poranne Piwo
+Amethyst - Jestem Twój
+Topaz - Góraz
+Sapphire - Wynajęty Soczek
+Emerald - Szmaragdowy
+Ruby - Krosta
+Diamond - Romb
+
+Gold - Złotko
+Silver - Sreberko
+Copper - Policjant
+
+Bat - Pałka
+Skeleton - Kościotrup
+Slime - Muł
+Zombie - Bałwan
+Fish - Żeton
+Golem - Cytrynowy Chodek
+Goblin - Banknot Jednofuntowy
+Elemental - Pierwiastkowiec
+
+Crimson - Purpur
+Corruption - Fałszowanie
+Jungle - Gąszcz
+Desert - Deser
+
+
+Ice - Lukier
+Granite - Wieczorna Babcia
+
+
+Red - Rudy
+Yellow - Tchórzliwy
+Golden - Zezłocony
+Green - Nieoświadczony
+Blue - Przygnębiony
+Purple - Szkarłatny
+Pink - Goździk
+Gray - Szpakowaty
+Black - Wrony
+
+Relic - Zbytek
+Trophy - Zdobycz
+Tresure Bag - Relic
+
+Nebula - Obłoczek
+Solar - Słońce
+Stardust - Pyłek Gwiazdora
+Vortex - Kłębowisko
