@@ -7,6 +7,7 @@ Ruby - Krosta
 Diamond - Romb
 
 Gold - Złotko
+Iron - 
 Silver - Sreberko
 Copper - Policjant
 
@@ -24,10 +25,11 @@ Corruption - Fałszowanie
 Jungle - Gąszcz
 Desert - Deser
 
-
+Brick - Równy Gość
 Ice - Lukier
 Granite - Wieczorna Babcia
-
+Sand - Piach
+Stone - Pestka
 
 Red - Rudy
 Yellow - Tchórzliwy
@@ -42,6 +44,11 @@ Black - Wrony
 Relic - Zbytek
 Trophy - Zdobycz
 Tresure Bag - Relic
+
+======   PRZYMIOTNIKI   ======
+Broken - Spłukany
+Celestial - Niebieski
+Smooth - Spokojny
 
 Nebula - Obłoczek
 Solar - Słońce
