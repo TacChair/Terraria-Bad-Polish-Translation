@@ -7,6 +7,8 @@ Ruby - Krosta
 Diamond - Romb
 
 ======   RUDZI   ======
+Ore - Rudzi (tak po prostu, np. Rudzi Żelazka)
+
 Chlorophyte - Chlorofrytka
 Copper - Policjant
 Gold - Złotko
@@ -16,15 +18,19 @@ Orrichalcum - Orychalna Sperma
 Palladium - Ziompalium
 Titanium - Cyckium
 
+======   MEDŻIK    ======
+Mana - Prestiż
+
 ======   MOBY   ======
 Bat - Pałka
+Elemental - Pierwiastkowiec
+Fish - Żeton
+Goblin - Banknot Jednofuntowy
+Golem - Cytrynowy Chodek
+Lihzahrd - Jahszczuchka
 Skeleton - Kościotrup
 Slime - Muł
 Zombie - Bałwan
-Fish - Żeton
-Golem - Cytrynowy Chodek
-Goblin - Banknot Jednofuntowy
-Elemental - Pierwiastkowiec
 
 ======   BIOMY   ======
 Crimson - Purpur
@@ -37,6 +43,7 @@ Block - Kloc
 
 Brick - Równygość
 Crimstone - Purpestkowy Równygość
+Crystal - Zrospaczone Stoisko
 Ice - Lukier
 Granite - Wieczorna Babcia
 Sand - Piach
@@ -61,6 +68,7 @@ Red - Rudy
 Sky Blue - Przygnębiony Firmament
 Teal - Cyraneczka
 Violet - Fiołkowy
+White - Czysty
 Yellow - Tchórzliwy
 
 ======   SKARBY YARRR   ======
@@ -77,11 +85,14 @@ Vortex - Kłębowisko
 ======   PRZYMIOTNIKI   ======
 Broken - Spłukany
 Celestial - Niebieski
+Deep - Chytra
+Lesser - Gorszy
 Shadow - Szpiegujący
 Smooth - Spokojny
 
 ======   ROŚLINKI   ======
 Flower - Pospolitnik
+Mushroom - Parweniusz
 
 ======   MEBLE   ======
 Candle - Znicz
@@ -89,6 +100,7 @@ Chandelier - Pająk
 
 ======   ITEMKI   ======
 Axe - Cięcie
+Band - Zespół
 Bar - Baton
 Blood - Farbowany
 Greaves - Skwarki
@@ -100,4 +112,5 @@ Moon - Miesiąc
 Pickaxe - Kapryśnytopór
 Plate Mail - Płytowa Poczta
 Potion - Napój
+Star - Gwiazdor
 
