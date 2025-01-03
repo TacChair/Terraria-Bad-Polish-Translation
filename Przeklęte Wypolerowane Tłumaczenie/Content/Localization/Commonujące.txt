@@ -32,6 +32,7 @@ Beetle - Chrząszcz
 Bird - Ptaszek
 Elemental - Pierwiastkowiec
 Fish - Żeton
+Grasshopper - Pchła z Murawy
 Goblin - Banknot Jednofuntowy
 Golem - Cytrynowy Chodek
 Lihzahrd - Reptilian
@@ -52,6 +53,7 @@ Skeletron - Szkieletor
 Skeletron Prime - Rozkwitnięty Szkieletor
 
 ======   BIOMY   ======
+Cave - Komora
 Corruption - Fałszowanie
 Crimson - Purpur
 Desert - Deser
