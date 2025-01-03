@@ -135,7 +135,7 @@ Enchanted - Zafascynowany
 Frozen - Skostniały
 Giant - Olbrzymi
 Glowing - Promieniujący
-Great - 
+Great - Hojny
 Guardian - Konduktor
 Intense - w Napięciu
 Lesser - Gorszy
@@ -191,6 +191,7 @@ Shirt - Podkoszulek
 Wings - Błotniki
 
 ======   BRONIE   ======
+Arrow - Opieprzacz
 Axe - Cięcie
 Bomb - Papieros
 Boomerang - Wybuchowy Odbijacz
@@ -199,9 +200,11 @@ Chainsaw - Dybowe Porzekadło
 Claymore - Bardziejtrup
 Dart - Fałdzik
 Drill - Świder
+Greataxe - Hojnyciach
 Grenade - Gaśnica
 Gun - Spluwa
 Halberd - Sieniobród
+Hammer - Kurek
 Rod - Rózga
 Partisan - Zwolennik
 Pickaxe - Cięty Kaprys
@@ -215,6 +218,7 @@ Sword - Szpada
 Trident - Trójszczerb
 Wand - Szczoteczka
 Waraxe - Warszawa
+Warhammer - Bojokurek
 
 ======   ITEMKI   ======
 Ball - Kłębek
@@ -248,8 +252,10 @@ Pygmy - Karzełski
 Pressure Plate - Napięty Talerz
 Potion - Napój
 Rainbow - Dżdżysty Ukłon
-Spike - Kłujka
+Skull - Skrzep
 Soul - Duch
+Spike - Kłujka
+Sphere - Gałka
 Star - Gwiazdor
 Trap - Bajzel
 
