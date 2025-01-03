@@ -15,6 +15,7 @@ Copper - Policjant
 Gold - Złotko
 Iron - Żelazko
 Lead - Ołówek
+Metorite - Spotkanioryt
 Silver - Sreberko
 Orrichalcum - Ruda Kreda
 Palladium - Ziompalium
@@ -23,6 +24,7 @@ Titanium - Kretynium
 ======   MEDŻIK    ======
 Magic - Magiczna (jak w Kapitanie Bomba "Magiczna Flet")
 Mana - Prestiż
+Orb - Jabłko
 
 ======   MOBY   ======
 Bat - Pałka
@@ -34,6 +36,7 @@ Golem - Cytrynowy Chodek
 Lihzahrd - Reptilian
 Mimic - Imitator
 Mummy - Miazga
+Piranha - Pani Lekkich Obyczajów
 Skeleton - Kościotrup
 Slime - Muł
 Zombie - Bałwan
@@ -43,7 +46,6 @@ Eye of Cthulu - Głuchy Judasz
 Brain of Cthulu - Głucha Muzgownica
 Skeletron - Szkieletor
 Skeletron Prime - Rozkwitnięty Szkieletor
-
 
 ======   BIOMY   ======
 Corruption - Fałszowanie
@@ -114,6 +116,7 @@ Cursed - Cholerny
 Enchanted - Zafascynowany
 Deep - Chytra
 Giant - Olbrzymi
+Guardian - Konduktor
 Intense - w Napięciu
 Lesser - Gorszy
 Rain - Dżdżysta
@@ -123,11 +126,14 @@ Spiky - Kłosokształtny
 Super - Kwadratowy
 Vile - Szmatławy
 Vicious - Okrutny
+Watcher - Zegarmistrz
+Wooden - Sztywny
 
 ======   ROŚLINKI   ======
 Berry - Ikra
 Flower - Pospolitnik
 Kelp - Listownicowce
+Leaf - Kartka
 Mushroom - Parweniusz
 Pear - Puszko
 Root - Źródłosłów
@@ -149,6 +155,7 @@ Hat - Kapelusz
 Headgear - Przyłbica
 Helmet - Szyszak
 Mask - Maszkaron
+Necklace - Karkówka
 Pants - Kalesony
 Plate Mail - Płytowa Poczta
 Scalemail - Złuszczona Poczta
@@ -161,7 +168,8 @@ Dart - Fałdzik
 Gun - Spluwa
 Rod - Rózga
 Pickaxe - Cięty Kaprys
-Spear - 
+Spear - Dzida
+Staff - Pała
 Sword - Szpada
 Wand - Szczoteczka
 
@@ -184,9 +192,12 @@ Husk - Wrak
 Key - Klawisz
 Moon - Miesiąc
 Nightmare - Nocna Klacz
+Pygmy - Karzełski
+Pressure Plate - Napięty Talerz
 Potion - Napój
 Rainbow - Dżdżysty Ukłon
-Star - Gwiazdor
+Spike - Kłujka
 Soul - Duch
+Star - Gwiazdor
 Trap - Bajzel
 
