@@ -79,7 +79,7 @@ Yellow - Tchórzliwy
 ======   SKARBY YARRR   ======
 Relic - Zbytek
 Trophy - Zdobycz
-Tresure Bag - Relic
+Tresure Bag - Woreczek Finansowy
 
 ======   PILLARY   ======
 Nebula - Obłoczek
@@ -110,7 +110,7 @@ Root - Źródłosłów
 Candle - Znicz
 Chair - Prezes
 Chandelier - Pająk
-Chest - Kufer
+Chest - Pódło
 Door - Podwoje
 Table - Tablica
 Work Bench - Ławka Robocza
