@@ -70,7 +70,7 @@ Tree - Choinka
 Wood - Lasek
 
 ======   KOLORY   ======
-Dye - Śmierć
+Dye - Barwidło
 Paint - Szminka
 
 Black - Wrony
@@ -106,6 +106,7 @@ Vortex - Kłębowisko
 
 ======   PRZYMIOTNIKI   ======
 Bottled - Pijany
+Bright - Bystre
 Broken - Spłukany
 Celestial - Niebieski
 Cursed - Cholerny
@@ -145,6 +146,7 @@ Headgear - Przyłbica
 Helmet - Szyszak
 Mask - Maszkaron
 Pants - Kalesony
+Scalemail - Złuszczona Poczta
 Shirt - Podkoszulek
 Wings - Błotniki
 
@@ -168,6 +170,7 @@ Honey - Rewelka
 Husk - Wrak
 Key - Klawisz
 Moon - Miesiąc
+Nightmare - Nocna Klacz
 Rod - Rózga
 Pickaxe - Cięty Kaprys
 Plate Mail - Płytowa Poczta
