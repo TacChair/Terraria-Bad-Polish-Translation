@@ -30,6 +30,7 @@ Fish - Żeton
 Goblin - Banknot Jednofuntowy
 Golem - Cytrynowy Chodek
 Lihzahrd - Jahszczuchka
+Mimic - Imitator
 Skeleton - Kościotrup
 Slime - Muł
 Zombie - Bałwan
@@ -99,6 +100,7 @@ Shadow - Szpiegujący
 Smooth - Spokojny
 Super - Kwadratowy
 Vile - Szmatławy
+Vicious - Okrutny
 
 ======   ROŚLINKI   ======
 Berry - Ikra
@@ -145,6 +147,7 @@ Pickaxe - Cięty Kaprys
 Plate Mail - Płytowa Poczta
 Potion - Napój
 Star - Gwiazdor
+Soul - Duch
 Trap - Bajzel
 Wand - Szczoteczka
 
