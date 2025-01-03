@@ -34,20 +34,26 @@ Butterfly - Latające Masło
 Fish - Żeton
 Fly - Lotnik
 Grasshopper - Pchła z Murawy
+Hoppin Jack - Dźwigarka do Zaprawiania Piwa Chmielem
 Lizard - Jaszczur
+Mosquito - Mszasty Rezygnant
 Parrot - Zgniła Gafa
+Squirrel - Prawdziwie Rządze
 Worm - Czerw
 
 ======   MOBY   ======
 Bat - Pałka
+Demon Eye - Judasz Diabeł
 Elemental - Pierwiastkowiec
 Elf - Psotnik
+Ghost - Cień
 Goblin - Banknot Jednofuntowy
 Golem - Cytrynowy Chodek
 Hornet - Sieciowy Klakson
 Lihzahrd - Reptilian
 Mimic - Imitator
 Mummy - Miazga
+Nimbus - Gimbus
 Piranha - Pani Lekkich Obyczajów
 Skeleton - Kościotrup
 Slime - Muł
@@ -81,6 +87,7 @@ Temple - Rozciągacz
 Block - Kloc
 
 Brick - Równygość
+Crimsand - Purpiach
 Crimstone - Purpestkowy
 Crystal - Zrospaczone Stoisko
 Ice - Lukier
@@ -178,6 +185,7 @@ Work Bench - Ławka Robocza
 ====== KOSTIUMY ========
 Bucket - Czerpak
 Breastplate - Piersiopłyt
+Cloak - Przykrywka
 Greaves - Skwarki
 Hat - Kapelusz
 Headgear - Przyłbica
@@ -232,6 +240,7 @@ Blizzard - Zadymka
 Blood - Farbowany
 Bone - Fiszbin
 Bundle - Tobół
+Caster - Pieprzniczka
 Coat - Kubraczek
 Egg - Jajco
 Fire - Przeciwpożarowy
@@ -260,5 +269,6 @@ Soul - Duch
 Spike - Kłujka
 Sphere - Gałka
 Star - Gwiazdor
+Torch - Żagiew
 Trap - Bajzel
 
