@@ -26,21 +26,25 @@ Magic - Magiczna (jak w Kapitanie Bomba "Magiczna Flet")
 Mana - Prestiż
 Orb - Jabłko
 
-======   MOBY   ======
-Bat - Pałka
+======   ZWIERZĘTA   ======
 Beetle - Chrząszcz
 Bird - Ptaszek
-Elemental - Pierwiastkowiec
+Bug - Pluskwa
 Fish - Żeton
 Grasshopper - Pchła z Murawy
+Lizard - Jaszczur
+Parrot - Zgniła Gafa
+Worm - Czerw
+
+======   MOBY   ======
+Bat - Pałka
+Elemental - Pierwiastkowiec
 Goblin - Banknot Jednofuntowy
 Golem - Cytrynowy Chodek
 Hornet - Sieciowy Klakson
 Lihzahrd - Reptilian
-Lizard - Jaszczur
 Mimic - Imitator
 Mummy - Miazga
-Parrot - Zgniła Gafa
 Piranha - Pani Lekkich Obyczajów
 Skeleton - Kościotrup
 Slime - Muł
@@ -188,16 +192,18 @@ Bomb - Papieros
 Boomerang - Wybuchowy Odbijacz
 Bullet - Byczek
 Chainsaw - Dybowe Porzekadło
-Claymore
+Claymore - Bardziejtrup
 Dart - Fałdzik
 Drill - Świder
 Grenade - Gaśnica
 Gun - Spluwa
 Halberd - Sieniobród
 Rod - Rózga
+Partisan - Zwolennik
 Pickaxe - Cięty Kaprys
 Pike - Szczupak
 Repeater - Kapuś
+Saber - Koncerz
 Spear - Dzida
 Staff - Pała
 Sword - Szpada
