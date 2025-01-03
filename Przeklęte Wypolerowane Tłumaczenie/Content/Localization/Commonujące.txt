@@ -98,6 +98,7 @@ Rain - Dżdżysta
 Shadow - Szpiegujący
 Smooth - Spokojny
 Super - Kwadratowy
+Vile - Szmatławy
 
 ======   ROŚLINKI   ======
 Berry - Ikra
