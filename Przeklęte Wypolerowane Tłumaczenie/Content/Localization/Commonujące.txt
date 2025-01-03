@@ -10,6 +10,7 @@ Diamond - Romb
 Ore - Rudzi (tak po prostu, np. Rudzi Żelazka)
 
 Chlorophyte - Chlorofrytka
+Cobalt - Inny Bochenek
 Copper - Policjant
 Gold - Złotko
 Iron - Żelazko
