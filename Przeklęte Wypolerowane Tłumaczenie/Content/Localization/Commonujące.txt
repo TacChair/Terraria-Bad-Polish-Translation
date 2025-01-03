@@ -41,6 +41,7 @@ Crimson - Purpur
 Desert - Deser
 Dungeon - Ciemnica
 Jungle - Gąszcz
+Hallow- Spuszczone Psy
 Sky - Firmament
 Temple - Rozciągacz
 
@@ -76,6 +77,9 @@ Teal - Cyraneczka
 Violet - Fiołkowy
 White - Czysty
 Yellow - Tchórzliwy
+
+Light - Znicz
+Dark - Śniady
 
 ======   SKARBY YARRR   ======
 Relic - Zbytek
