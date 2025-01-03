@@ -133,7 +133,7 @@ Root - Źródłosłów
 Candle - Znicz
 Chair - Prezes
 Chandelier - Pająk
-Chest - Pódło
+Chest - Pódełko
 Door - Podwoje
 Table - Tablica
 Work Bench - Ławka Robocza
