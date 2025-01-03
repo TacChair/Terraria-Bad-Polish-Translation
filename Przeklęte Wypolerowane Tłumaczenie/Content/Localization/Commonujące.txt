@@ -121,6 +121,7 @@ Celestial - Niebieski
 Cursed - Cholerny
 Deep - Chytra
 Enchanted - Zafascynowany
+Frozen - Skostniały
 Giant - Olbrzymi
 Glowing - Promieniujący
 Guardian - Konduktor
