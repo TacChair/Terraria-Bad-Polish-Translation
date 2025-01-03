@@ -47,7 +47,7 @@ Temple - Rozciągacz
 Block - Kloc
 
 Brick - Równygość
-Crimstone - Purpestkowy Równygość
+Crimstone - Purpestkowy
 Crystal - Zrospaczone Stoisko
 Ice - Lukier
 Granite - Wieczorna Babcia
