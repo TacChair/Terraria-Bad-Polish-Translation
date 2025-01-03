@@ -168,6 +168,7 @@ Multicolored - Stukrasny
 Rain - Dżdżysta
 Shadow - Szpiegujący
 Smooth - Spokojny
+Spiked - Wzbogacony
 Spiky - Kłosokształtny
 Stained - Zbejcowany
 Strange - Kuriozalny
@@ -202,8 +203,9 @@ Table - Biesiadnik
 Work Bench - Ławka Robocza
 
 ====== KOSTIUMY ========
-Bucket - Czerpak
+Boots - Czyścibut
 Breastplate - Piersiopłyt
+Bucket - Czerpak
 Cloak - Przykrywka
 Greaves - Skwarki
 Hat - Kapelusz
@@ -215,11 +217,13 @@ Necklace - Karkówka
 Pants - Kalesony
 Patch - Skrawek
 Plate Mail - Płytowa Poczta
+Robe - Szlafrok
 Scalemail - Złuszczona Poczta
 Shield - Puklerz
 Shirt - Podkoszulek
 Shoe - Trzewik
 Suit - Krawaciarz
+Tuxedo - Marynarka
 Wings - Błotniki
 
 ======   BRONIE   ======
