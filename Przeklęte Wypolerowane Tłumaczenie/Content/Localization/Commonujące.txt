@@ -97,7 +97,6 @@ Dark - Śniady
 Relic - Zbytek
 Trophy - Zdobycz
 Tresure Bag - Woreczek Finansowy
-Statue - Posążek
 
 ======   PILLARY   ======
 Nebula - Obłoczek
@@ -135,6 +134,7 @@ Chair - Prezes
 Chandelier - Pająk
 Chest - Pudełko
 Door - Podwoje
+Statue - Posążek
 Table - Tablica
 Work Bench - Ławka Robocza
 
@@ -142,6 +142,7 @@ Work Bench - Ławka Robocza
 Mask - Maszkaron
 Pants - Kalesony
 Shirt - Podkoszulek
+Wings - Błotniki
 
 ======   ITEMKI   ======
 Axe - Cięcie
