@@ -35,6 +35,7 @@ Fish - Żeton
 Grasshopper - Pchła z Murawy
 Goblin - Banknot Jednofuntowy
 Golem - Cytrynowy Chodek
+Hornet - Sieciowy Klakson
 Lihzahrd - Reptilian
 Lizard - Jaszczur
 Mimic - Imitator
@@ -174,6 +175,7 @@ Necklace - Karkówka
 Pants - Kalesony
 Plate Mail - Płytowa Poczta
 Scalemail - Złuszczona Poczta
+Shield - Puklerz
 Shirt - Podkoszulek
 Wings - Błotniki
 
