@@ -6,11 +6,16 @@ Emerald - Szmaragdowy
 Ruby - Krosta
 Diamond - Romb
 
-Gold - Złotko
-Iron - 
-Silver - Sreberko
+======   RUDZI   ======
 Copper - Policjant
+Gold - Złotko
+Iron - Żelazko
+Silver - Sreberko
+Orrichalcum - Orychalna Sperma
+Palladium - Ziompalium
+Titanium - Cyckium
 
+======   MOBY   ======
 Bat - Pałka
 Skeleton - Kościotrup
 Slime - Muł
@@ -20,37 +25,62 @@ Golem - Cytrynowy Chodek
 Goblin - Banknot Jednofuntowy
 Elemental - Pierwiastkowiec
 
+======   BIOMY   ======
 Crimson - Purpur
 Corruption - Fałszowanie
 Jungle - Gąszcz
 Desert - Deser
 
-Brick - Równy Gość
+======   KLOCKI   ======
+Block - Kloc
+
+Brick - Równygość
+Crimstone - Purpestkowy Równygość
 Ice - Lukier
 Granite - Wieczorna Babcia
 Sand - Piach
 Stone - Pestka
+Sandstone - Piachopestka
 
+======   KOLORY   ======
+Dye - Śmierć
+Paint - Szminka
+
+Black - Wrony
+Blue - Przygnębiony
+Gray - Szpakowaty
+Green - Nieoświadczony
+Golden - Zezłocony
+Pink - Goździk
+Purple - Szkarłatny
 Red - Rudy
 Yellow - Tchórzliwy
-Golden - Zezłocony
-Green - Nieoświadczony
-Blue - Przygnębiony
-Purple - Szkarłatny
-Pink - Goździk
-Gray - Szpakowaty
-Black - Wrony
 
+======   SKARBY YARRR   ======
 Relic - Zbytek
 Trophy - Zdobycz
 Tresure Bag - Relic
 
-======   PRZYMIOTNIKI   ======
-Broken - Spłukany
-Celestial - Niebieski
-Smooth - Spokojny
-
+======   PILLARY   ======
 Nebula - Obłoczek
 Solar - Słońce
 Stardust - Pyłek Gwiazdora
 Vortex - Kłębowisko
+
+======   PRZYMIOTNIKI   ======
+Broken - Spłukany
+Celestial - Niebieski
+Shadow - Szpiegujący
+Smooth - Spokojny
+
+======   ROŚLINKI   ======
+Flower - Pospolitnik
+
+======   ITEMKI   ======
+Axe - Cięcie
+Blood - Farbowany
+Greaves - Skwarki
+Moon - Miesiąc
+Pickaxe - Kapryśnytopór
+Potion - Napój
+
