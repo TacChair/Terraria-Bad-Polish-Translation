@@ -145,7 +145,7 @@ Bucket - Czerpak
 Coat - Kubraczek
 Dart - Fałdzik
 Fire - Przeciwpożarowy
-Flame - Płomień
+Flame - Miłość
 Gravity - Powaga
 Globe - Globus
 Greaves - Skwarki
