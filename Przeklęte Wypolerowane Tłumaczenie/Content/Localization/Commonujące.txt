@@ -80,6 +80,7 @@ Yellow - Tchórzliwy
 Relic - Zbytek
 Trophy - Zdobycz
 Tresure Bag - Woreczek Finansowy
+Statue - Posążek
 
 ======   PILLARY   ======
 Nebula - Obłoczek
