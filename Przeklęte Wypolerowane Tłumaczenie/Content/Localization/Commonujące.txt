@@ -97,7 +97,10 @@ Vortex - Kłębowisko
 Bottled - Pijany
 Broken - Spłukany
 Celestial - Niebieski
+Cursed - Cholerny
+Enchanted - Zafascynowany
 Deep - Chytra
+Giant - Olbrzymi
 Lesser - Gorszy
 Rain - Dżdżysta
 Shadow - Szpiegujący
@@ -138,6 +141,7 @@ Globe - Globus
 Greaves - Skwarki
 Gun - Spluwa
 Hat - Kapelusz
+Hammer - Iglica
 Headgear - Przyłbica
 Helmet - Szyszak
 Hive - Ośrodek Wielkiego Ożywienia
@@ -151,6 +155,7 @@ Pickaxe - Cięty Kaprys
 Plate Mail - Płytowa Poczta
 Potion - Napój
 Star - Gwiazdor
+Sword - Szpada
 Soul - Duch
 Trap - Bajzel
 Wand - Szczoteczka
