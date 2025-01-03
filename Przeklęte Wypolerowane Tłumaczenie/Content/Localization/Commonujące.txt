@@ -66,6 +66,8 @@ Granite - Wieczorna Babcia
 Sand - Piach
 Stone - Pestka
 Sandstone - Piachopestka
+Tree - Choinka
+Wood - Lasek
 
 ======   KOLORY   ======
 Dye - Śmierć
