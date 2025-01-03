@@ -13,6 +13,7 @@ Chlorophyte - Chlorofrytka
 Copper - Policjant
 Gold - Złotko
 Iron - Żelazko
+Lead - Ołówek
 Silver - Sreberko
 Orrichalcum - Orychalna Sperma
 Palladium - Ziompalium
@@ -34,10 +35,13 @@ Slime - Muł
 Zombie - Bałwan
 
 ======   BIOMY   ======
-Crimson - Purpur
 Corruption - Fałszowanie
-Jungle - Gąszcz
+Crimson - Purpur
 Desert - Deser
+Dungeon - Ciemnica
+Jungle - Gąszcz
+Sky - Firmament
+Temple - Rozciągacz
 
 ======   KLOCKI   ======
 Block - Kloc
@@ -84,12 +88,15 @@ Stardust - Pyłek Gwiazdora
 Vortex - Kłębowisko
 
 ======   PRZYMIOTNIKI   ======
+Bottled - Pijany
 Broken - Spłukany
 Celestial - Niebieski
 Deep - Chytra
 Lesser - Gorszy
+Rain - Dżdżysta
 Shadow - Szpiegujący
 Smooth - Spokojny
+Super - Kwadratowy
 
 ======   ROŚLINKI   ======
 Berry - Ikra
@@ -101,7 +108,12 @@ Root - Źródłosłów
 
 ======   MEBLE   ======
 Candle - Znicz
+Chair - Prezes
 Chandelier - Pająk
+Chest - Kufer
+Door - Podwoje
+Table - Tablica
+Work Bench - Ławka Robocza
 
 ======   ITEMKI   ======
 Axe - Cięcie
@@ -109,21 +121,28 @@ Band - Zespół
 Bar - Baton
 Blood - Farbowany
 Bucket - Czerpak
+Coat - Kubraczek
+Dart - Fałdzik
 Fire - Przeciwpożarowy
+Flame - Płomień
 Gravity - Powaga
 Globe - Globus
 Greaves - Skwarki
 Gun - Spluwa
+Hat - Kapelusz
 Headgear - Przyłbica
 Helmet - Szyszak
 Hive - Ośrodek Wielkiego Ożywienia
 Honey - Rewelka
 Husk - Wrak
+Key - Klawisz
 Mask - Maszkaron
 Moon - Miesiąc
+Rod - Rózga
 Pickaxe - Kapryśnytopór
 Plate Mail - Płytowa Poczta
 Potion - Napój
 Star - Gwiazdor
+Trap - Bajzel
 Wand - Szczoteczka
 
