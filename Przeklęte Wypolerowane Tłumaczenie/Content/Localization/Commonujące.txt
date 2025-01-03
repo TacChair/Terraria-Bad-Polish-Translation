@@ -19,6 +19,7 @@ Palladium - Ziompalium
 Titanium - Cyckium
 
 ======   MEDŻIK    ======
+Magic - Magiczna (jak w Kapitanie Bomba "Magiczna Flet")
 Mana - Prestiż
 
 ======   MOBY   ======
@@ -91,8 +92,12 @@ Shadow - Szpiegujący
 Smooth - Spokojny
 
 ======   ROŚLINKI   ======
+Berry - Ikra
 Flower - Pospolitnik
+Kelp - Listownicowce
 Mushroom - Parweniusz
+Pear - Puszko
+Root - Źródłosłów
 
 ======   MEBLE   ======
 Candle - Znicz
@@ -103,14 +108,22 @@ Axe - Cięcie
 Band - Zespół
 Bar - Baton
 Blood - Farbowany
+Bucket - Czerpak
+Fire - Przeciwpożarowy
+Gravity - Powaga
+Globe - Globus
 Greaves - Skwarki
 Gun - Spluwa
 Headgear - Przyłbica
 Helmet - Szyszak
+Hive - Ośrodek Wielkiego Ożywienia
+Honey - Rewelka
+Husk - Wrak
 Mask - Maszkaron
 Moon - Miesiąc
 Pickaxe - Kapryśnytopór
 Plate Mail - Płytowa Poczta
 Potion - Napój
 Star - Gwiazdor
+Wand - Szczoteczka
 
