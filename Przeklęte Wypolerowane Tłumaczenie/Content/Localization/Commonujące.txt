@@ -30,7 +30,9 @@ Orb - Jabłko
 Beetle - Chrząszcz
 Bird - Ptaszek
 Bug - Pluskwa
+Butterfly - Latające Masło
 Fish - Żeton
+Fly - Lotnik
 Grasshopper - Pchła z Murawy
 Lizard - Jaszczur
 Parrot - Zgniła Gafa
@@ -39,6 +41,7 @@ Worm - Czerw
 ======   MOBY   ======
 Bat - Pałka
 Elemental - Pierwiastkowiec
+Elf - Psotnik
 Goblin - Banknot Jednofuntowy
 Golem - Cytrynowy Chodek
 Hornet - Sieciowy Klakson
@@ -132,6 +135,7 @@ Enchanted - Zafascynowany
 Frozen - Skostniały
 Giant - Olbrzymi
 Glowing - Promieniujący
+Great - 
 Guardian - Konduktor
 Intense - w Napięciu
 Lesser - Gorszy
@@ -204,6 +208,7 @@ Pickaxe - Cięty Kaprys
 Pike - Szczupak
 Repeater - Kapuś
 Saber - Koncerz
+Shotbow - Strzelecki Ukłon
 Spear - Dzida
 Staff - Pała
 Sword - Szpada
