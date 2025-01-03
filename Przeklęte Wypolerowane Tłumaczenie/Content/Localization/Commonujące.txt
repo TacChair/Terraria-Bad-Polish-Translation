@@ -76,7 +76,7 @@ Pumpking - Król Pompka
 
 ======   CZĘŚCI CIAŁA BOSSÓW   ======
 Head - Czoło
-Hand - Marynarz (przenieś to bo jest w innej zakładce)
+Hand - Marynarz
 Fist - Kułak
 
 ======   BIOMY   ======
@@ -161,6 +161,7 @@ Guardian - Konduktor
 Intense - w Napięciu
 Lesser - Gorszy
 Molten - Ciekły
+Multicolored - Stukrasny
 Rain - Dżdżysta
 Shadow - Szpiegujący
 Smooth - Spokojny
@@ -209,6 +210,7 @@ Leggings - Rajtuzy
 Mask - Maszkaron
 Necklace - Karkówka
 Pants - Kalesony
+Patch - Skrawek
 Plate Mail - Płytowa Poczta
 Scalemail - Złuszczona Poczta
 Shield - Puklerz
@@ -270,7 +272,6 @@ Grave - Mogiła
 Gravity - Powaga
 Globe - Globus
 Gradient - Nachylenie
-Hand - Marynarz
 Hammer - Iglica
 Hive - Ośrodek Wielkiego Ożywienia
 Honey - Rewelka
@@ -278,6 +279,7 @@ Hook - Atrakcja
 Horseshoe - 
 Husk - Wrak
 Ichor - Posoka
+Jelly - Kisiel
 Key - Klawisz
 Magnet - Potentat
 Moon - Miesiąc
