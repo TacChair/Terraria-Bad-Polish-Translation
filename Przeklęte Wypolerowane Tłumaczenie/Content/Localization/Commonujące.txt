@@ -138,6 +138,11 @@ Door - Podwoje
 Table - Tablica
 Work Bench - Ławka Robocza
 
+====== KOSTIUMY ========
+Mask - Maszkaron
+Pants - Kalesony
+Shirt - Podkoszulek
+
 ======   ITEMKI   ======
 Axe - Cięcie
 Band - Zespół
