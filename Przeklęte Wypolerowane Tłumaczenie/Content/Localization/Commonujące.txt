@@ -48,10 +48,13 @@ Wisp - Wiecheć
 Zombie - Bałwan
 
 ======   BOSSY   ======
+Slime King - Król Mułu
 Eye of Cthulu - Głuchy Judasz
 Brain of Cthulu - Głucha Muzgownica
 Skeletron - Szkieletor
 Skeletron Prime - Rozkwitnięty Szkieletor
+Duke Fishron - Książe Romek Żeton
+
 
 ======   BIOMY   ======
 Cave - Komora
