@@ -42,6 +42,7 @@ Parrot - Zgniła Gafa
 Piranha - Pani Lekkich Obyczajów
 Skeleton - Kościotrup
 Slime - Muł
+Wisp - Wiecheć
 Zombie - Bałwan
 
 ======   BOSSY   ======
@@ -116,16 +117,19 @@ Bright - Bystre
 Broken - Spłukany
 Celestial - Niebieski
 Cursed - Cholerny
-Enchanted - Zafascynowany
 Deep - Chytra
+Enchanted - Zafascynowany
 Giant - Olbrzymi
+Glowing - Promieniujący
 Guardian - Konduktor
 Intense - w Napięciu
 Lesser - Gorszy
+Molten - Ciekły
 Rain - Dżdżysta
 Shadow - Szpiegujący
 Smooth - Spokojny
 Spiky - Kłosokształtny
+Strange - Kuriozalny
 Super - Kwadratowy
 Vile - Szmatławy
 Vicious - Okrutny
@@ -140,6 +144,7 @@ Leaf - Kartka
 Mushroom - Parweniusz
 Pear - Puszko
 Root - Źródłosłów
+Seed - Plemię
 
 ======   MEBLE   ======
 Candle - Znicz
@@ -153,10 +158,12 @@ Work Bench - Ławka Robocza
 
 ====== KOSTIUMY ========
 Bucket - Czerpak
+Breastplate - Piersiopłyt
 Greaves - Skwarki
 Hat - Kapelusz
 Headgear - Przyłbica
 Helmet - Szyszak
+Leggings - Rajtuzy
 Mask - Maszkaron
 Necklace - Karkówka
 Pants - Kalesony
@@ -168,15 +175,22 @@ Wings - Błotniki
 ======   BRONIE   ======
 Axe - Cięcie
 Bomb - Papieros
+Boomerang - Wybuchowy Odbijacz
 Bullet - Byczek
+Chainsaw - Dybowe Porzekadło
 Dart - Fałdzik
+Drill - Świder
 Grenade - Gaśnica
 Gun - Spluwa
+Halberd - Sieniobród
 Rod - Rózga
 Pickaxe - Cięty Kaprys
+Pike - Szczupak
+Repeater - Kapuś
 Spear - Dzida
 Staff - Pała
 Sword - Szpada
+Trident - Trójszczerb
 Wand - Szczoteczka
 
 ======   ITEMKI   ======
@@ -192,6 +206,7 @@ Coat - Kubraczek
 Egg - Jajco
 Fire - Przeciwpożarowy
 Flame - Miłość
+Fury - Megiera
 Grave - Mogiła
 Gravity - Powaga
 Globe - Globus
