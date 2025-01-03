@@ -181,9 +181,11 @@ Wooden - Sztywny
 ======   ROŚLINKI   ======
 Berry - Ikra
 Flower - Pospolitnik
+Fruit - Pedzio
 Fungus - Grzybek
 Kelp - Listownicowce
 Leaf - Kartka
+Moss - Torfowisko
 Mushroom - Parweniusz
 Pear - Puszko
 Root - Źródłosłów
@@ -191,6 +193,7 @@ Seed - Plemię
 Spore - Rozmnóżka
 
 ======   MEBLE   ======
+Altar - Ołtarz
 Anvil - Zło
 Candle - Znicz
 Chair - Prezes
@@ -299,6 +302,7 @@ Rainbow - Dżdżysty Ukłon
 Skull - Skrzep
 Shell - Łupina
 Sniper - Szperacz
+Snow - Pianka
 Soul - Duch
 Spike - Kłujka
 Sphere - Gałka
