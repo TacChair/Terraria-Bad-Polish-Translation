@@ -28,13 +28,14 @@ Mana - Prestiż
 Orb - Jabłko
 
 ======   ZWIERZĘTA   ======
-Beetle - Chrząszcz
+Beetle - Młotek Drewniany
 Bird - Ptaszek
 Bug - Pluskwa
 Butterfly - Latające Masło
 Fish - Żeton
 Fly - Lotnik
 Grasshopper - Pchła z Murawy
+Guide - Harcerka
 Hoppin Jack - Dźwigarka do Zaprawiania Piwa Chmielem
 Horse - Skoczek
 Ladybug - Boża Krówka
@@ -42,6 +43,7 @@ Lizard - Jaszczur
 Mosquito - Mszasty Rezygnant
 Mouse - Podbite Oko
 Parrot - Zgniła Gafa
+Snail - Pomrowik
 Squirrel - Prawdziwie Rządze
 Turtle - Żółw
 Worm - Czerw
@@ -73,6 +75,7 @@ Skeletron - Szkieletor
 Skeletron Prime - Rozkwitnięty Szkieletor
 Duke Fishron - Książe Romek Żeton
 Pumpking - Król Pompka
+Queen Bee - Pszczela Dama
 
 ======   CZĘŚCI CIAŁA BOSSÓW   ======
 Head - Czoło
@@ -261,7 +264,7 @@ Blood - Farbowany
 Bone - Fiszbin
 Bundle - Tobół
 Caster - Pieprzniczka
-Coat - Kubraczek
+Coat - Owłosienie
 Crimtane - Puropalony
 Egg - Jajco
 Fire - Przeciwpożarowy
