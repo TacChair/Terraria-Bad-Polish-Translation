@@ -28,14 +28,17 @@ Orb - Jabłko
 
 ======   MOBY   ======
 Bat - Pałka
+Beetle - Chrząszcz
 Bird - Ptaszek
 Elemental - Pierwiastkowiec
 Fish - Żeton
 Goblin - Banknot Jednofuntowy
 Golem - Cytrynowy Chodek
 Lihzahrd - Reptilian
+Lizard - Jaszczur
 Mimic - Imitator
 Mummy - Miazga
+Parrot - Zgniła Gafa
 Piranha - Pani Lekkich Obyczajów
 Skeleton - Kościotrup
 Slime - Muł
@@ -164,7 +167,10 @@ Wings - Błotniki
 
 ======   BRONIE   ======
 Axe - Cięcie
+Bomb - Papieros
+Bullet - Byczek
 Dart - Fałdzik
+Grenade - Gaśnica
 Gun - Spluwa
 Rod - Rózga
 Pickaxe - Cięty Kaprys
@@ -175,12 +181,18 @@ Wand - Szczoteczka
 
 ======   ITEMKI   ======
 Ball - Kłębek
+Balloon - Dymek
 Band - Zespół
 Bar - Baton
+Blizzard - Zadymka
 Blood - Farbowany
+Bone - Fiszbin
+Bundle - Tobół
 Coat - Kubraczek
+Egg - Jajco
 Fire - Przeciwpożarowy
 Flame - Miłość
+Grave - Mogiła
 Gravity - Powaga
 Globe - Globus
 Gradient - Nachylenie
@@ -188,10 +200,12 @@ Hand - Marynarz
 Hammer - Iglica
 Hive - Ośrodek Wielkiego Ożywienia
 Honey - Rewelka
+Hook - Atrakcja
 Husk - Wrak
 Key - Klawisz
 Moon - Miesiąc
 Nightmare - Nocna Klacz
+Obelisk - Słuchacz Krocza
 Pygmy - Karzełski
 Pressure Plate - Napięty Talerz
 Potion - Napój
