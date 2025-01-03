@@ -221,6 +221,7 @@ Grenade - Gaśnica
 Gun - Spluwa
 Halberd - Sieniobród
 Hammer - Kurek
+Jackhammer - Jackurek
 Rod - Rózga
 Partisan - Zwolennik
 Pickaxe - Cięty Kaprys
@@ -248,9 +249,11 @@ Bone - Fiszbin
 Bundle - Tobół
 Caster - Pieprzniczka
 Coat - Kubraczek
+Crimtane - Puropalony
 Egg - Jajco
 Fire - Przeciwpożarowy
 Flame - Miłość
+Frost - Fiasko
 Fury - Megiera
 Grave - Mogiła
 Gravity - Powaga
@@ -263,6 +266,7 @@ Honey - Rewelka
 Hook - Atrakcja
 Horseshoe - 
 Husk - Wrak
+Ichor - Posoka
 Key - Klawisz
 Moon - Miesiąc
 Nightmare - Nocna Klacz
@@ -280,4 +284,5 @@ Sphere - Gałka
 Star - Gwiazdor
 Torch - Żagiew
 Trap - Bajzel
+Water - Jezioro
 
