@@ -57,7 +57,7 @@ Crimson - Purpur
 Desert - Deser
 Dungeon - Ciemnica
 Jungle - Gąszcz
-Hallow- Spuszczone Psy
+Hallow - Spuszczone Psy
 Hell - Cholera
 Sky - Firmament
 Temple - Rozciągacz
@@ -147,11 +147,13 @@ Root - Źródłosłów
 Seed - Plemię
 
 ======   MEBLE   ======
+Anvil - Zło
 Candle - Znicz
 Chair - Prezes
 Chandelier - Pająk
 Chest - Pudełko
 Door - Podwoje
+Forge - Kuźnia
 Statue - Posążek
 Table - Biesiadnik
 Work Bench - Ławka Robocza
@@ -178,6 +180,7 @@ Bomb - Papieros
 Boomerang - Wybuchowy Odbijacz
 Bullet - Byczek
 Chainsaw - Dybowe Porzekadło
+Claymore
 Dart - Fałdzik
 Drill - Świder
 Grenade - Gaśnica
@@ -192,6 +195,7 @@ Staff - Pała
 Sword - Szpada
 Trident - Trójszczerb
 Wand - Szczoteczka
+Waraxe - Warszawa
 
 ======   ITEMKI   ======
 Ball - Kłębek
