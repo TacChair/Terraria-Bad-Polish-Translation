@@ -141,7 +141,7 @@ Key - Klawisz
 Mask - Maszkaron
 Moon - Miesiąc
 Rod - Rózga
-Pickaxe - Kapryśnytopór
+Pickaxe - Cięty Kaprys
 Plate Mail - Płytowa Poczta
 Potion - Napój
 Star - Gwiazdor
