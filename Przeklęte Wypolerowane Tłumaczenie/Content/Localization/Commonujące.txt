@@ -61,6 +61,7 @@ Brain of Cthulu - Głucha Muzgownica
 Skeletron - Szkieletor
 Skeletron Prime - Rozkwitnięty Szkieletor
 Duke Fishron - Książe Romek Żeton
+Pumpking - Król Pompka
 
 
 ======   BIOMY   ======
@@ -69,6 +70,7 @@ Corruption - Fałszowanie
 Crimson - Purpur
 Desert - Deser
 Dungeon - Ciemnica
+Forest - Knieja
 Jungle - Gąszcz
 Hallow - Spuszczone Psy
 Hell - Cholera
@@ -188,6 +190,7 @@ Plate Mail - Płytowa Poczta
 Scalemail - Złuszczona Poczta
 Shield - Puklerz
 Shirt - Podkoszulek
+Suit - Krawaciarz
 Wings - Błotniki
 
 ======   BRONIE   ======
