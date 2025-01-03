@@ -15,9 +15,9 @@ Gold - Złotko
 Iron - Żelazko
 Lead - Ołówek
 Silver - Sreberko
-Orrichalcum - Orychalna Sperma
+Orrichalcum - Ruda Kreda
 Palladium - Ziompalium
-Titanium - Cyckium
+Titanium - Kretynium
 
 ======   MEDŻIK    ======
 Magic - Magiczna (jak w Kapitanie Bomba "Magiczna Flet")
@@ -139,6 +139,10 @@ Table - Tablica
 Work Bench - Ławka Robocza
 
 ====== KOSTIUMY ========
+Bucket - Czerpak
+Greaves - Skwarki
+Headgear - Przyłbica
+Helmet - Szyszak
 Mask - Maszkaron
 Pants - Kalesony
 Shirt - Podkoszulek
@@ -149,25 +153,20 @@ Axe - Cięcie
 Band - Zespół
 Bar - Baton
 Blood - Farbowany
-Bucket - Czerpak
 Coat - Kubraczek
 Dart - Fałdzik
 Fire - Przeciwpożarowy
 Flame - Miłość
 Gravity - Powaga
 Globe - Globus
-Greaves - Skwarki
 Gun - Spluwa
 Hat - Kapelusz
 Hand - Marynarz
 Hammer - Iglica
-Headgear - Przyłbica
-Helmet - Szyszak
 Hive - Ośrodek Wielkiego Ożywienia
 Honey - Rewelka
 Husk - Wrak
 Key - Klawisz
-Mask - Maszkaron
 Moon - Miesiąc
 Rod - Rózga
 Pickaxe - Cięty Kaprys
