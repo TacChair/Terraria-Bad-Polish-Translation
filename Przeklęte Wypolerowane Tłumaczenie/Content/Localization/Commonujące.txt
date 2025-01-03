@@ -74,6 +74,10 @@ Skeletron Prime - Rozkwitnięty Szkieletor
 Duke Fishron - Książe Romek Żeton
 Pumpking - Król Pompka
 
+======   CZĘŚCI CIAŁA BOSSÓW   ======
+Head - Czoło
+Hand - Marynarz (przenieś to bo jest w innej zakładce)
+Fist - Kułak
 
 ======   BIOMY   ======
 Cave - Komora
@@ -86,6 +90,7 @@ Jungle - Gąszcz
 Hallow - Spuszczone Psy
 Hell - Cholera
 Sky - Firmament
+Space - Spacja
 Temple - Rozciągacz
 
 ======   KLOCKI   ======
@@ -96,7 +101,7 @@ Crimsand - Purpiach
 Crimstone - Purpestkowy
 Crystal - Zrospaczone Stoisko
 Ice - Lukier
-Glass - 
+Glass - Barometr
 Granite - Wieczorna Babcia
 Sand - Piach
 Stone - Pestka
@@ -148,6 +153,7 @@ Cursed - Cholerny
 Deep - Chytra
 Enchanted - Zafascynowany
 Frozen - Skostniały
+Fungi - Grzybiasty
 Giant - Olbrzymi
 Glowing - Promieniujący
 Great - Hojny
@@ -159,6 +165,7 @@ Rain - Dżdżysta
 Shadow - Szpiegujący
 Smooth - Spokojny
 Spiky - Kłosokształtny
+Stained - Zbejcowany
 Strange - Kuriozalny
 Super - Kwadratowy
 Vile - Szmatławy
