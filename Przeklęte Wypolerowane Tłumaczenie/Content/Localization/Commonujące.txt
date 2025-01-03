@@ -7,6 +7,7 @@ Ruby - Krosta
 Diamond - Romb
 
 ======   RUDZI   ======
+Chlorophyte - Chlorofrytka
 Copper - Policjant
 Gold - Złotko
 Iron - Żelazko
@@ -48,12 +49,18 @@ Paint - Szminka
 
 Black - Wrony
 Blue - Przygnębiony
+Cyan - Cyjankowa
 Gray - Szpakowaty
 Green - Nieoświadczony
 Golden - Zezłocony
+Lime - Wapienny
+Orange - Oranżadowy
 Pink - Goździk
 Purple - Szkarłatny
 Red - Rudy
+Sky Blue - Przygnębiony Firmament
+Teal - Cyraneczka
+Violet - Fiołkowy
 Yellow - Tchórzliwy
 
 ======   SKARBY YARRR   ======
@@ -76,11 +83,21 @@ Smooth - Spokojny
 ======   ROŚLINKI   ======
 Flower - Pospolitnik
 
+======   MEBLE   ======
+Candle - Znicz
+Chandelier - Pająk
+
 ======   ITEMKI   ======
 Axe - Cięcie
+Bar - Baton
 Blood - Farbowany
 Greaves - Skwarki
+Gun - Spluwa
+Headgear - Przyłbica
+Helmet - Szyszak
+Mask - Maszkaron
 Moon - Miesiąc
 Pickaxe - Kapryśnytopór
+Plate Mail - Płytowa Poczta
 Potion - Napój
 
