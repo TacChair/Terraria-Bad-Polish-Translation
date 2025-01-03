@@ -22,6 +22,7 @@ Palladium - Ziompalium
 Titanium - Kretynium
 
 ======   MEDŻIK    ======
+Chaos - Bezprawie
 Magic - Magiczna (jak w Kapitanie Bomba "Magiczna Flet")
 Mana - Prestiż
 Orb - Jabłko
@@ -35,10 +36,13 @@ Fish - Żeton
 Fly - Lotnik
 Grasshopper - Pchła z Murawy
 Hoppin Jack - Dźwigarka do Zaprawiania Piwa Chmielem
+Horse - Skoczek
 Lizard - Jaszczur
 Mosquito - Mszasty Rezygnant
+Mouse - Podbite Oko
 Parrot - Zgniła Gafa
 Squirrel - Prawdziwie Rządze
+Turtle - Żółw
 Worm - Czerw
 
 ======   MOBY   ======
@@ -198,6 +202,7 @@ Plate Mail - Płytowa Poczta
 Scalemail - Złuszczona Poczta
 Shield - Puklerz
 Shirt - Podkoszulek
+Shoe - Trzewik
 Suit - Krawaciarz
 Wings - Błotniki
 
@@ -221,6 +226,7 @@ Partisan - Zwolennik
 Pickaxe - Cięty Kaprys
 Pike - Szczupak
 Repeater - Kapuś
+Rifle - Gwintówka
 Saber - Koncerz
 Shotbow - Strzelecki Ukłon
 Spear - Dzida
@@ -255,6 +261,7 @@ Hammer - Iglica
 Hive - Ośrodek Wielkiego Ożywienia
 Honey - Rewelka
 Hook - Atrakcja
+Horseshoe - 
 Husk - Wrak
 Key - Klawisz
 Moon - Miesiąc
@@ -265,6 +272,8 @@ Pressure Plate - Napięty Talerz
 Potion - Napój
 Rainbow - Dżdżysty Ukłon
 Skull - Skrzep
+Shell - Łupina
+Sniper - Szperacz
 Soul - Duch
 Spike - Kłujka
 Sphere - Gałka
