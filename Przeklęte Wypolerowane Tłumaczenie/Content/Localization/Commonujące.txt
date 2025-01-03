@@ -31,7 +31,7 @@ Elemental - Pierwiastkowiec
 Fish - Żeton
 Goblin - Banknot Jednofuntowy
 Golem - Cytrynowy Chodek
-Lihzahrd - Jahszczuchka
+Lihzahrd - Reptilian
 Mimic - Imitator
 Mummy - Miazga
 Skeleton - Kościotrup
@@ -114,10 +114,12 @@ Cursed - Cholerny
 Enchanted - Zafascynowany
 Deep - Chytra
 Giant - Olbrzymi
+Intense - w Napięciu
 Lesser - Gorszy
 Rain - Dżdżysta
 Shadow - Szpiegujący
 Smooth - Spokojny
+Spiky - Kłosokształtny
 Super - Kwadratowy
 Vile - Szmatławy
 Vicious - Okrutny
@@ -137,33 +139,43 @@ Chandelier - Pająk
 Chest - Pudełko
 Door - Podwoje
 Statue - Posążek
-Table - Tablica
+Table - Biesiadnik
 Work Bench - Ławka Robocza
 
 ====== KOSTIUMY ========
 Bucket - Czerpak
 Greaves - Skwarki
+Hat - Kapelusz
 Headgear - Przyłbica
 Helmet - Szyszak
 Mask - Maszkaron
 Pants - Kalesony
+Plate Mail - Płytowa Poczta
 Scalemail - Złuszczona Poczta
 Shirt - Podkoszulek
 Wings - Błotniki
 
-======   ITEMKI   ======
+======   BRONIE   ======
 Axe - Cięcie
+Dart - Fałdzik
+Gun - Spluwa
+Rod - Rózga
+Pickaxe - Cięty Kaprys
+Spear - 
+Sword - Szpada
+Wand - Szczoteczka
+
+======   ITEMKI   ======
+Ball - Kłębek
 Band - Zespół
 Bar - Baton
 Blood - Farbowany
 Coat - Kubraczek
-Dart - Fałdzik
 Fire - Przeciwpożarowy
 Flame - Miłość
 Gravity - Powaga
 Globe - Globus
-Gun - Spluwa
-Hat - Kapelusz
+Gradient - Nachylenie
 Hand - Marynarz
 Hammer - Iglica
 Hive - Ośrodek Wielkiego Ożywienia
@@ -172,13 +184,9 @@ Husk - Wrak
 Key - Klawisz
 Moon - Miesiąc
 Nightmare - Nocna Klacz
-Rod - Rózga
-Pickaxe - Cięty Kaprys
-Plate Mail - Płytowa Poczta
 Potion - Napój
+Rainbow - Dżdżysty Ukłon
 Star - Gwiazdor
-Sword - Szpada
 Soul - Duch
 Trap - Bajzel
-Wand - Szczoteczka
 
