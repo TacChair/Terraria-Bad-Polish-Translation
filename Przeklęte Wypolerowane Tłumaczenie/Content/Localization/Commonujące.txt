@@ -25,15 +25,24 @@ Mana - Prestiż
 
 ======   MOBY   ======
 Bat - Pałka
+Bird - Ptaszek
 Elemental - Pierwiastkowiec
 Fish - Żeton
 Goblin - Banknot Jednofuntowy
 Golem - Cytrynowy Chodek
 Lihzahrd - Jahszczuchka
 Mimic - Imitator
+Mummy - Miazga
 Skeleton - Kościotrup
 Slime - Muł
 Zombie - Bałwan
+
+======   BOSSY   ======
+Eye of Cthulu - Głuchy Judasz
+Brain of Cthulu - Głucha Muzgownica
+Skeletron - Szkieletor
+Skeletron Prime - Rozkwitnięty Szkieletor
+
 
 ======   BIOMY   ======
 Corruption - Fałszowanie
@@ -42,6 +51,7 @@ Desert - Deser
 Dungeon - Ciemnica
 Jungle - Gąszcz
 Hallow- Spuszczone Psy
+Hell - Cholera
 Sky - Firmament
 Temple - Rozciągacz
 
@@ -141,6 +151,7 @@ Globe - Globus
 Greaves - Skwarki
 Gun - Spluwa
 Hat - Kapelusz
+Hand - Marynarz
 Hammer - Iglica
 Headgear - Przyłbica
 Helmet - Szyszak
