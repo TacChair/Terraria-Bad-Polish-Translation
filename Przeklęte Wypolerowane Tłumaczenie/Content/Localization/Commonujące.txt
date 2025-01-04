@@ -93,6 +93,7 @@ Forest - Knieja
 Jungle - Gąszcz
 Hallow - Spuszczone Psy
 Hell - Cholera
+Ocean - Wielka Woda
 Sky - Firmament
 Space - Spacja
 Temple - Rozciągacz
