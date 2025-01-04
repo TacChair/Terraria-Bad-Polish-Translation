@@ -95,7 +95,7 @@ Hell - Cholera
 Sky - Firmament
 Space - Spacja
 Temple - Rozciągacz
-Underground - Konspiracyjność
+Underground - Metro
 Underworld - Świat Przestępczy
 
 ======   KLOCKI   ======
