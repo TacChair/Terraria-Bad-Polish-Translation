@@ -96,6 +96,7 @@ Hell - Cholera
 Ocean - Wielka Woda
 Sky - Firmament
 Space - Spacja
+Surface - Płaszczyzna
 Temple - Rozciągacz
 Underground - Metro
 Underworld - Świat Przestępczy
@@ -110,6 +111,7 @@ Crystal - Zrospaczone Stoisko
 Ice - Lukier
 Glass - Barometr
 Granite - Wieczorna Babcia
+Marble - Rzeźba
 Sand - Piach
 Stone - Pestka
 Sandstone - Piachopestka
