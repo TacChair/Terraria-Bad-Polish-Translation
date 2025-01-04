@@ -84,6 +84,7 @@ Fist - Kułak
 
 ======   BIOMY   ======
 Cave - Komora
+Caverns - Pieczary
 Corruption - Fałszowanie
 Crimson - Purpur
 Desert - Deser
@@ -144,6 +145,7 @@ Trophy - Zdobycz
 Tresure Bag - Woreczek Finansowy
 
 ======   PILLARY   ======
+Pillar - Wyrostek Stawowy
 Nebula - Obłoczek
 Solar - Słońce
 Stardust - Pyłek Gwiazdora
