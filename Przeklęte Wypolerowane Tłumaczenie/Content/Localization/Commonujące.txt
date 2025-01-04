@@ -65,6 +65,8 @@ Nimbus - Gimbus
 Piranha - Pani Lekkich Obyczajów
 Skeleton - Kościotrup
 Slime - Muł
+Spectre - Specjalne Drzewo
+Unicorn - Jednokukurydz
 Wisp - Wiecheć
 Wizard - Czarnoksiężnik
 Zombie - Bałwan
@@ -84,6 +86,7 @@ Queen Bee - Pszczela Dama
 Wall of Flesh - Ogrodzenie Miąższu
 Moon Lord - Władca Miesiąca
 Retinazer i Spazmatism - Siatkówkazer i Skurczotator
+Twins - Dwojaczki 
 
 ======   CZĘŚCI CIAŁA BOSSÓW   ======
 Arm - Wysięgnik
@@ -115,6 +118,7 @@ Block - Kloc
 Wall - Ogrodzenie
 
 Brick - Równygość
+Cloud - Turman
 Crimsand - Purpiach
 Crimstone - Purpestkowy
 Crystal - Zrospaczone Stoisko
@@ -157,6 +161,7 @@ Light - Znicz
 Dark - Śniady
 
 ======   SKARBY YARRR   ======
+Banner - Transparent
 Relic - Zbytek
 Trophy - Zdobycz
 Tresure Bag - Woreczek Finansowy
@@ -178,6 +183,7 @@ Cursed - Cholerny
 Deep - Chytra
 Devil - Kaduk
 Enchanted - Zafascynowany
+Evil - Paskudny
 Frozen - Skostniały
 Fungi - Grzybiasty
 Giant - Olbrzymi
@@ -188,7 +194,9 @@ Intense - w Napięciu
 Lesser - Gorszy
 Molten - Ciekły
 Multicolored - Stukrasny
+Necromantic - Nie Koniecznie Romantyczny
 Rain - Dżdżysta
+Rusty - Ośniedziały
 Shadow - Szpiegujący
 Smooth - Spokojny
 Spiked - Wzbogacony
@@ -220,17 +228,26 @@ Spore - Rozmnóżka
 ======   MEBLE   ======
 Altar - Ołtarz
 Anvil - Zło
+Bed - Grządka
+Bookcase - Pokrowiec na Rejestry
 Candle - Znicz
 Chair - Prezes
 Chandelier - Pająk
 Chest - Pudełko
 Door - Podwoje
+Fence - Meliniarz
+Flag - Bandera
 Forge - Kuźnia
+Lamp - Jagnię
 Lantern - Kaganiec
-Shelf - 
+Shelf - Gzyms
 Shower - Zgraja
+Sign - Sygnał
+Station - Popas
 Statue - Posążek
 Table - Biesiadnik
+Vase - Wazon
+Window - 
 Work Bench - Ławka Robocza
 
 ====== KOSTIUMY ========
@@ -263,6 +280,7 @@ Arrow - Opieprzacz
 Axe - Cięcie
 Bomb - Papieros
 Boomerang - Wybuchowy Odbijacz
+Bottle - Flaszka
 Bullet - Byczek
 Cannon - Kieszonkowiec
 Chainsaw - Dybowe Porzekadło
@@ -295,6 +313,7 @@ Waraxe - Warszawa
 Warhammer - Bojokurek
 
 ======   ITEMKI   ======
+Alchemy - Wszystkie Schematy
 Ball - Kłębek
 Balloon - Dymek
 Band - Zespół
@@ -303,10 +322,13 @@ Blizzard - Zadymka
 Blood - Farbowany
 Bone - Fiszbin
 Book - Rejestr
+Brass - Forsa
+Bubble - Gul Gul
 Bundle - Tobół
 Caster - Pieprzniczka
 Coat - Owłosienie
 Crimtane - Puropalony
+Diabolist - Cukrzykowiec
 Doll - Ślicznotka
 Egg - Jajco
 Emblem - Godło
@@ -318,6 +340,7 @@ Fury - Megiera
 Grave - Mogiła
 Gravity - Powaga
 Globe - Globus
+Gothic - Barbarzyńskie
 Gradient - Nachylenie
 Hammer - Iglica
 Hive - Ośrodek Wielkiego Ożywienia
@@ -326,11 +349,13 @@ Hook - Atrakcja
 Horseshoe - 
 Husk - Wrak
 Ichor - Posoka
+Machine - Aparat
 Jelly - Kisiel
 Key - Klawisz
 Magnet - Potentat
 Man - Człek
 Map - Gęba
+Metal - Masa Szklana
 Moon - Miesiąc
 Nightmare - Nocna Klacz
 Obelisk - Słuchacz Krocza
@@ -343,6 +368,7 @@ Pygmy - Karzełski
 Rainbow - Dżdżysty Ukłon
 Skull - Skrzep
 Shell - Łupina
+Sigil - Znacznik
 Sled - Tobogan
 Sniper - Szperacz
 Snow - Pianka
@@ -351,6 +377,7 @@ Spike - Kłujka
 Spine - Cierń
 Sphere - Gałka
 Star - Gwiazdor
+Sun - Niedziela
 Tentacle - Wąsy
 Torch - Żagiew
 Toy - Cacko
@@ -360,3 +387,11 @@ Vial - Ampułka
 Voodoo - Wiara w Czary
 Warp - Wypaczenie
 Water - Jezioro
+
+======   DIALOGOWE   ======
+Crowded - Zciżbowany
+Home - Ojczyzna
+I Dislike - Idiosynkrazuję
+I Hate - Ja bardzo nie lubić
+I Like - Sympatyzuje
+I Love - Romansuje
