@@ -1326,9 +1326,9 @@
 		"AshWood": "Reduces damage from touching lava"
 	},
 	"Bestiary_Biomes": {
-		"Surface": "Surface",
-		"Graveyard": "Graveyard",
-		"UndergroundJungle": "Underground Jungle",
+		"Surface": "Płaszczyzna",
+		"Graveyard": "Poważny Dziedziniec",
+		"UndergroundJungle": "Konspiracyjny Gąszcz",
 		"TheUnderworld": "The Underworld",
 		"TheDungeon": "The Dungeon",
 		"TheCorruption": "The Corruption",
