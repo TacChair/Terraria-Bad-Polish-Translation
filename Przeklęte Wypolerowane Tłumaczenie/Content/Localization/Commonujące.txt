@@ -31,6 +31,7 @@ Orb - Jabłko
 Beetle - Młotek Drewniany
 Bird - Ptaszek
 Bug - Pluskwa
+Bunny - Trusia
 Butterfly - Latające Masło
 Fish - Żeton
 Fly - Lotnik
@@ -77,16 +78,22 @@ Skeletron - Szkieletor
 Skeletron Prime - Rozkwitnięty Szkieletor
 Destroyer - Kontrtorpedowiec
 Duke Fishron - Książe Romek Żeton
+Plantera - Bydlaczka
 Pumpking - Król Pompka
 Queen Bee - Pszczela Dama
+Wall of Flesh - Ogrodzenie Miąższu
+Moon Lord - Władca Miesiąca
+Retinazer i Spazmatism - Siatkówkazer i Skurczotator
 
 ======   CZĘŚCI CIAŁA BOSSÓW   ======
+Arm - Wysięgnik
 Head - Czoło
 Hand - Marynarz
 Fist - Kułak
 
 ======   BIOMY   ======
 Cave - Komora
+Caverns - Pieczary
 Corruption - Fałszowanie
 Crimson - Purpur
 Desert - Deser
@@ -95,9 +102,13 @@ Forest - Knieja
 Jungle - Gąszcz
 Hallow - Spuszczone Psy
 Hell - Cholera
+Ocean - Wielka Woda
 Sky - Firmament
 Space - Spacja
+Surface - Płaszczyzna
 Temple - Rozciągacz
+Underground - Metro
+Underworld - Świat Przestępczy
 
 ======   KLOCKI   ======
 Block - Kloc
@@ -110,9 +121,14 @@ Crystal - Zrospaczone Stoisko
 Ice - Lukier
 Glass - Barometr
 Granite - Wieczorna Babcia
+Marble - Rzeźba
+Obsidian - Obsesja Indian
+Platform - Peron
 Sand - Piach
+Slab - Kawał
 Stone - Pestka
 Sandstone - Piachopestka
+Tiled - Tafla
 Tree - Choinka
 Wood - Lasek
 
@@ -146,12 +162,14 @@ Trophy - Zdobycz
 Tresure Bag - Woreczek Finansowy
 
 ======   PILLARY   ======
+Pillar - Wyrostek Stawowy
 Nebula - Obłoczek
 Solar - Słońce
 Stardust - Pyłek Gwiazdora
 Vortex - Kłębowisko
 
 ======   PRZYMIOTNIKI   ======
+Bloody - Cholerny
 Bottled - Pijany
 Bright - Bystre
 Broken - Spłukany
@@ -195,6 +213,7 @@ Moss - Torfowisko
 Mushroom - Parweniusz
 Pear - Puszko
 Root - Źródłosłów
+Rose - Sitko
 Seed - Plemię
 Spore - Rozmnóżka
 
@@ -207,6 +226,9 @@ Chandelier - Pająk
 Chest - Pudełko
 Door - Podwoje
 Forge - Kuźnia
+Lantern - Kaganiec
+Shelf - 
+Shower - Zgraja
 Statue - Posążek
 Table - Biesiadnik
 Work Bench - Ławka Robocza
@@ -216,6 +238,7 @@ Boots - Czyścibut
 Breastplate - Piersiopłyt
 Bucket - Czerpak
 Cloak - Przykrywka
+Gauntlet - Pojedynek
 Greaves - Skwarki
 Hat - Kapelusz
 Headgear - Przyłbica
@@ -241,16 +264,19 @@ Axe - Cięcie
 Bomb - Papieros
 Boomerang - Wybuchowy Odbijacz
 Bullet - Byczek
+Cannon - Kieszonkowiec
 Chainsaw - Dybowe Porzekadło
 Claymore - Bardziejtrup
 Dart - Fałdzik
 Drill - Świder
+Fist - Kułak
 Greataxe - Hojnyciach
 Grenade - Gaśnica
 Gun - Spluwa
 Halberd - Sieniobród
 Hammer - Kurek
 Jackhammer - Jackurek
+Knife - Rzezak
 Rod - Rózga
 Partisan - Zwolennik
 Pickaxe - Cięty Kaprys
@@ -258,6 +284,7 @@ Pike - Szczupak
 Repeater - Kapuś
 Rifle - Gwintówka
 Saber - Koncerz
+Scope - Kompetencja
 Shotbow - Strzelecki Ukłon
 Spear - Dzida
 Staff - Pała
@@ -275,13 +302,17 @@ Bar - Baton
 Blizzard - Zadymka
 Blood - Farbowany
 Bone - Fiszbin
+Book - Rejestr
 Bundle - Tobół
 Caster - Pieprzniczka
 Coat - Owłosienie
 Crimtane - Puropalony
+Doll - Ślicznotka
 Egg - Jajco
+Emblem - Godło
 Fire - Przeciwpożarowy
 Flame - Miłość
+Flask - Kolba
 Frost - Fiasko
 Fury - Megiera
 Grave - Mogiła
@@ -298,22 +329,34 @@ Ichor - Posoka
 Jelly - Kisiel
 Key - Klawisz
 Magnet - Potentat
+Man - Człek
+Map - Gęba
 Moon - Miesiąc
 Nightmare - Nocna Klacz
 Obelisk - Słuchacz Krocza
-Pygmy - Karzełski
-Pressure Plate - Napięty Talerz
+Pirate - Plagiator
+Poison - Jad
 Potion - Napój
+Powder - Krzepa
+Pressure Plate - Napięty Talerz
+Pygmy - Karzełski
 Rainbow - Dżdżysty Ukłon
 Skull - Skrzep
 Shell - Łupina
+Sled - Tobogan
 Sniper - Szperacz
 Snow - Pianka
 Soul - Duch
 Spike - Kłujka
+Spine - Cierń
 Sphere - Gałka
 Star - Gwiazdor
 Tentacle - Wąsy
 Torch - Żagiew
+Toy - Cacko
 Trap - Bajzel
+Venom - Przyjaciel
+Vial - Ampułka
+Voodoo - Wiara w Czary
+Warp - Wypaczenie
 Water - Jezioro
