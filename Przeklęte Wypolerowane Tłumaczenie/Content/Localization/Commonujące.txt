@@ -65,14 +65,17 @@ Piranha - Pani Lekkich Obyczajów
 Skeleton - Kościotrup
 Slime - Muł
 Wisp - Wiecheć
+Wizard - Czarnoksiężnik
 Zombie - Bałwan
 
 ======   BOSSY   ======
 Slime King - Król Mułu
 Eye of Cthulu - Głuchy Judasz
+Eater of Worlds - Zjadacz Kul Ziemskich
 Brain of Cthulu - Głucha Muzgownica
 Skeletron - Szkieletor
 Skeletron Prime - Rozkwitnięty Szkieletor
+Destroyer - Kontrtorpedowiec
 Duke Fishron - Książe Romek Żeton
 Pumpking - Król Pompka
 Queen Bee - Pszczela Dama
@@ -84,7 +87,6 @@ Fist - Kułak
 
 ======   BIOMY   ======
 Cave - Komora
-Caverns - Pieczary
 Corruption - Fałszowanie
 Crimson - Purpur
 Desert - Deser
@@ -93,16 +95,13 @@ Forest - Knieja
 Jungle - Gąszcz
 Hallow - Spuszczone Psy
 Hell - Cholera
-Ocean - Wielka Woda
 Sky - Firmament
 Space - Spacja
-Surface - Płaszczyzna
 Temple - Rozciągacz
-Underground - Metro
-Underworld - Świat Przestępczy
 
 ======   KLOCKI   ======
 Block - Kloc
+Wall - Ogrodzenie
 
 Brick - Równygość
 Crimsand - Purpiach
@@ -111,7 +110,6 @@ Crystal - Zrospaczone Stoisko
 Ice - Lukier
 Glass - Barometr
 Granite - Wieczorna Babcia
-Marble - Rzeźba
 Sand - Piach
 Stone - Pestka
 Sandstone - Piachopestka
@@ -148,7 +146,6 @@ Trophy - Zdobycz
 Tresure Bag - Woreczek Finansowy
 
 ======   PILLARY   ======
-Pillar - Wyrostek Stawowy
 Nebula - Obłoczek
 Solar - Słońce
 Stardust - Pyłek Gwiazdora
@@ -161,6 +158,7 @@ Broken - Spłukany
 Celestial - Niebieski
 Cursed - Cholerny
 Deep - Chytra
+Devil - Kaduk
 Enchanted - Zafascynowany
 Frozen - Skostniały
 Fungi - Grzybiasty
@@ -180,6 +178,7 @@ Spiky - Kłosokształtny
 Stained - Zbejcowany
 Strange - Kuriozalny
 Super - Kwadratowy
+Undead - Nienieboszczyk
 Vile - Szmatławy
 Vicious - Okrutny
 Watcher - Zegarmistrz
@@ -318,4 +317,3 @@ Tentacle - Wąsy
 Torch - Żagiew
 Trap - Bajzel
 Water - Jezioro
-
