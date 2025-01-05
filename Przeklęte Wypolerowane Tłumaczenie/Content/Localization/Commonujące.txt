@@ -261,6 +261,7 @@ Sign - Sygnał
 Station - Popas
 Statue - Posążek
 Table - Biesiadnik
+Toilet - Ubranie
 Vase - Wazon
 Window - Frazes
 Work Bench - Ławka Robocza
@@ -359,6 +360,7 @@ Emblem - Godło
 Feather - Szpunt
 Fire - Przeciwpożarowy
 Flame - Miłość
+Flare - Rozszerzenie
 Flask - Kolba
 Frost - Fiasko
 Fury - Megiera
@@ -403,6 +405,7 @@ Spike - Kłujka
 Spine - Cierń
 Sphere - Gałka
 Star - Gwiazdor
+Steampunk - Parowy Kalamburek
 Sun - Niedziela
 Tentacle - Wąsy
 Torch - Żagiew
@@ -412,7 +415,7 @@ Venom - Przyjaciel
 Vial - Ampułka
 Voodoo - Wiara w Czary
 Warp - Wypaczenie
-Watch - Straż
+Watch - Uważaj na
 Water - Jezioro
 
 ======   DIALOGOWE   ======
