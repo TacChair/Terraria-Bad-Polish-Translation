@@ -16,6 +16,7 @@ Gold - Złotko
 Iron - Żelazko
 Lead - Ołówek
 Metorite - Spotkanioryt
+Shroomite - Grzybogrosz
 Silver - Sreberko
 Orrichalcum - Ruda Kreda
 Palladium - Ziompalium
@@ -57,16 +58,20 @@ Elf - Psotnik
 Ghost - Cień
 Goblin - Banknot Jednofuntowy
 Golem - Cytrynowy Chodek
+Harpy - Ględziator
 Hornet - Sieciowy Klakson
+Imp - Skrzat
 Lihzahrd - Reptilian
 Mimic - Imitator
 Mummy - Miazga
 Nimbus - Gimbus
+Paladin - Hałaśliwy Kumpel
 Piranha - Pani Lekkich Obyczajów
 Skeleton - Kościotrup
 Slime - Muł
 Spectre - Specjalne Drzewo
 Unicorn - Jednokukurydz
+Vampire - Strzyga
 Wisp - Wiecheć
 Wizard - Czarnoksiężnik
 Zombie - Bałwan
@@ -106,6 +111,7 @@ Jungle - Gąszcz
 Hallow - Spuszczone Psy
 Hell - Cholera
 Ocean - Wielka Woda
+Overworld - Ponadświat
 Sky - Firmament
 Space - Spacja
 Surface - Płaszczyzna
@@ -119,6 +125,7 @@ Wall - Ogrodzenie
 
 Brick - Równygość
 Cloud - Turman
+Column - Słup
 Crimsand - Purpiach
 Crimstone - Purpestkowy
 Crystal - Zrospaczone Stoisko
@@ -133,6 +140,7 @@ Slab - Kawał
 Stone - Pestka
 Sandstone - Piachopestka
 Tiled - Tafla
+Titanstone - Pestkokretyn
 Tree - Choinka
 Wood - Lasek
 
@@ -191,13 +199,18 @@ Glowing - Promieniujący
 Great - Hojny
 Guardian - Konduktor
 Intense - w Napięciu
+Large - Poważny
 Lesser - Gorszy
+Living - Zamieszkały
+Lucky - Trafiający
 Molten - Ciekły
 Multicolored - Stukrasny
 Necromantic - Nie Koniecznie Romantyczny
 Rain - Dżdżysta
+Rare - Klawy
 Rusty - Ośniedziały
 Shadow - Szpiegujący
+Shining - Awanturujący
 Smooth - Spokojny
 Spiked - Wzbogacony
 Spiky - Kłosokształtny
@@ -240,6 +253,7 @@ Flag - Bandera
 Forge - Kuźnia
 Lamp - Jagnię
 Lantern - Kaganiec
+Music Box - Kwadratowa Partytura
 Shelf - Gzyms
 Shower - Zgraja
 Sign - Sygnał
@@ -247,7 +261,7 @@ Station - Popas
 Statue - Posążek
 Table - Biesiadnik
 Vase - Wazon
-Window - 
+Window - Frazes
 Work Bench - Ławka Robocza
 
 ====== KOSTIUMY ========
@@ -255,11 +269,13 @@ Boots - Czyścibut
 Breastplate - Piersiopłyt
 Bucket - Czerpak
 Cloak - Przykrywka
+Dress - Negliż
 Gauntlet - Pojedynek
 Greaves - Skwarki
 Hat - Kapelusz
 Headgear - Przyłbica
 Helmet - Szyszak
+Hood - Kapiszon
 Leggings - Rajtuzy
 Mask - Maszkaron
 Necklace - Karkówka
@@ -272,6 +288,7 @@ Shield - Puklerz
 Shirt - Podkoszulek
 Shoe - Trzewik
 Suit - Krawaciarz
+Tiara - Diadem
 Tuxedo - Marynarka
 Wings - Błotniki
 
@@ -292,6 +309,7 @@ Greataxe - Hojnyciach
 Grenade - Gaśnica
 Gun - Spluwa
 Halberd - Sieniobród
+Hamaxe - Hamak
 Hammer - Kurek
 Jackhammer - Jackurek
 Knife - Rzezak
@@ -302,7 +320,9 @@ Pike - Szczupak
 Repeater - Kapuś
 Rifle - Gwintówka
 Saber - Koncerz
+Scepter - Berło
 Scope - Kompetencja
+S.D.M.G. - Kwadratowa Spluwa Aparatowego Delfina
 Shotbow - Strzelecki Ukłon
 Spear - Dzida
 Staff - Pała
@@ -326,27 +346,31 @@ Brass - Forsa
 Bubble - Gul Gul
 Bundle - Tobół
 Caster - Pieprzniczka
+Cenx - Grox
 Coat - Owłosienie
 Crimtane - Puropalony
+Day - Dniówka
 Diabolist - Cukrzykowiec
 Doll - Ślicznotka
 Egg - Jajco
 Emblem - Godło
+Feather - Szpunt
 Fire - Przeciwpożarowy
 Flame - Miłość
 Flask - Kolba
 Frost - Fiasko
 Fury - Megiera
-Grave - Mogiła
-Gravity - Powaga
 Globe - Globus
 Gothic - Barbarzyńskie
 Gradient - Nachylenie
+Grave - Mogiła
+Gravity - Powaga
+Gum - Żywica
 Hammer - Iglica
 Hive - Ośrodek Wielkiego Ożywienia
 Honey - Rewelka
 Hook - Atrakcja
-Horseshoe - 
+Horseshoe - Skoczkotrzewik
 Husk - Wrak
 Ichor - Posoka
 Machine - Aparat
@@ -386,6 +410,7 @@ Venom - Przyjaciel
 Vial - Ampułka
 Voodoo - Wiara w Czary
 Warp - Wypaczenie
+Watch - Straż
 Water - Jezioro
 
 ======   DIALOGOWE   ======
