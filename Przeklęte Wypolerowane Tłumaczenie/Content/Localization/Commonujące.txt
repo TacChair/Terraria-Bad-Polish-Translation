@@ -13,6 +13,7 @@ Chlorophyte - Chlorofrytka
 Cobalt - Inny Bochenek
 Copper - Policjant
 Gold - Złotko
+Hellstone - Cholernapestka
 Iron - Żelazko
 Lead - Ołówek
 Metorite - Spotkanioryt
@@ -27,6 +28,7 @@ Chaos - Bezprawie
 Magic - Magiczna (jak w Kapitanie Bomba "Magiczna Flet")
 Mana - Prestiż
 Orb - Jabłko
+Scroll - Zakrętas
 
 ======   ZWIERZĘTA   ======
 Beetle - Młotek Drewniany
@@ -34,6 +36,8 @@ Bird - Ptaszek
 Bug - Pluskwa
 Bunny - Trusia
 Butterfly - Latające Masło
+Cat - Złośliwa Kobieta
+Dog - Facet 
 Fish - Żeton
 Fly - Lotnik
 Grasshopper - Pchła z Murawy
@@ -52,6 +56,7 @@ Worm - Czerw
 
 ======   MOBY   ======
 Bat - Pałka
+Creature - Kreatura
 Demon Eye - Judasz Diabeł
 Elemental - Pierwiastkowiec
 Elf - Psotnik
@@ -63,10 +68,12 @@ Hornet - Sieciowy Klakson
 Imp - Skrzat
 Lihzahrd - Reptilian
 Mimic - Imitator
+Monster - Dziwoląg
 Mummy - Miazga
 Nimbus - Gimbus
 Paladin - Hałaśliwy Kumpel
 Piranha - Pani Lekkich Obyczajów
+Pixie - Chochlik
 Skeleton - Kościotrup
 Slime - Muł
 Spectre - Specjalne Drzewo
@@ -92,9 +99,11 @@ Wall of Flesh - Ogrodzenie Miąższu
 Moon Lord - Władca Miesiąca
 Retinazer i Spazmatism - Siatkówkazer i Skurczotator
 Twins - Dwojaczki 
+Ocram - Kolor
 
 ======   CZĘŚCI CIAŁA BOSSÓW   ======
 Arm - Wysięgnik
+Body - Ścierwo
 Head - Czoło
 Hand - Marynarz
 Fist - Kułak
@@ -134,6 +143,7 @@ Ice - Lukier
 Glass - Barometr
 Granite - Wieczorna Babcia
 Marble - Rzeźba
+Mud - Zaprawa Murarska
 Obsidian - Obsesja Indian
 Platform - Peron
 Sand - Piach
@@ -183,7 +193,7 @@ Stardust - Pyłek Gwiazdora
 Vortex - Kłębowisko
 
 ======   PRZYMIOTNIKI   ======
-Bloody - Cholerny
+Bloody - Farbowany
 Bottled - Pijany
 Bright - Bystre
 Broken - Spłukany
@@ -225,6 +235,7 @@ Watcher - Zegarmistrz
 Wooden - Sztywny
 
 ======   ROŚLINKI   ======
+Apple - Jabłuszko
 Berry - Ikra
 Flower - Pospolitnik
 Fruit - Pedzio
@@ -234,6 +245,7 @@ Leaf - Kartka
 Moss - Torfowisko
 Mushroom - Parweniusz
 Pear - Puszko
+Pumpkin - Rodzina Pompki
 Root - Źródłosłów
 Rose - Sitko
 Seed - Plemię
@@ -242,6 +254,7 @@ Spore - Rozmnóżka
 ======   MEBLE   ======
 Altar - Ołtarz
 Anvil - Zło
+Ash - Jesion
 Bed - Grządka
 Bookcase - Pokrowiec na Rejestry
 Candle - Znicz
@@ -273,6 +286,8 @@ Bucket - Czerpak
 Cloak - Przykrywka
 Dress - Negliż
 Gauntlet - Pojedynek
+Glove - Gochanek
+Goggles - Wytrzeszczone Oczy
 Greaves - Skwarki
 Hat - Kapelusz
 Headgear - Przyłbica
@@ -297,6 +312,7 @@ Wings - Błotniki
 ======   BRONIE   ======
 Arrow - Opieprzacz
 Axe - Cięcie
+Blade - Brzeszczot
 Bomb - Papieros
 Boomerang - Wybuchowy Odbijacz
 Bottle - Flaszka
@@ -315,6 +331,8 @@ Hamaxe - Hamak
 Hammer - Kurek
 Jackhammer - Jackurek
 Knife - Rzezak
+Launcher - Obiadownik
+Machete - 
 Rod - Rózga
 Partisan - Zwolennik
 Pickaxe - Cięty Kaprys
@@ -334,6 +352,7 @@ Trident - Trójszczerb
 Wand - Szczoteczka
 Waraxe - Warszawa
 Warhammer - Bojokurek
+Whip - Kańczug
 
 ======   ITEMKI   ======
 Alchemy - Wszystkie Schematy
@@ -348,6 +367,7 @@ Book - Rejestr
 Brass - Forsa
 Bubble - Gul Gul
 Bundle - Tobół
+Cake - Cegiełka
 Caster - Pieprzniczka
 Cenx - Grox
 Coat - Owłosienie
@@ -370,6 +390,7 @@ Gradient - Nachylenie
 Grave - Mogiła
 Gravity - Powaga
 Gum - Żywica
+Guy - Straszydło
 Hammer - Iglica
 Hive - Ośrodek Wielkiego Ożywienia
 Honey - Rewelka
@@ -378,12 +399,14 @@ Horseshoe - Skoczkotrzewik
 Husk - Wrak
 Ichor - Posoka
 Machine - Aparat
+Jack 'O Lantern - Jacko Kaganiec
 Jelly - Kisiel
 Key - Klawisz
 Magnet - Potentat
 Man - Człek
 Map - Gęba
 Metal - Masa Szklana
+Mold - Pleśń
 Moon - Miesiąc
 Nightmare - Nocna Klacz
 Obelisk - Słuchacz Krocza
@@ -404,11 +427,13 @@ Soul - Duch
 Spike - Kłujka
 Spine - Cierń
 Sphere - Gałka
+Spooky - Szpiegowski
 Star - Gwiazdor
 Steampunk - Parowy Kalamburek
 Sun - Niedziela
 Tentacle - Wąsy
 Torch - Żagiew
+Town - Miasto Prowincjonalne w USA
 Toy - Cacko
 Trap - Bajzel
 Venom - Przyjaciel
