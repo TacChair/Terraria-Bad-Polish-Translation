@@ -112,6 +112,7 @@ Hallow - Spuszczone Psy
 Hell - Cholera
 Ocean - Wielka Woda
 Overworld - Ponadświat
+Shimmer - Migotacz
 Sky - Firmament
 Space - Spacja
 Surface - Płaszczyzna
@@ -324,6 +325,7 @@ Scepter - Berło
 Scope - Kompetencja
 S.D.M.G. - Kwadratowa Spluwa Aparatowego Delfina
 Shotbow - Strzelecki Ukłon
+Shortsword - Ukłod Szpadowy
 Spear - Dzida
 Staff - Pała
 Sword - Szpada
