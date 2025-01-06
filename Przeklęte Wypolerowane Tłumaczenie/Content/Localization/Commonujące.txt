@@ -132,6 +132,7 @@ Underworld - Świat Przestępczy
 ======   KLOCKI   ======
 Block - Kloc
 Wall - Ogrodzenie
+Wallpaper - Wypracowane Ogrodzenie
 
 Brick - Równygość
 Cloud - Turman
@@ -250,6 +251,7 @@ Root - Źródłosłów
 Rose - Sitko
 Seed - Plemię
 Spore - Rozmnóżka
+Thorn - Cierń
 
 ======   MEBLE   ======
 Altar - Ołtarz
@@ -280,12 +282,14 @@ Window - Frazes
 Work Bench - Ławka Robocza
 
 ====== KOSTIUMY ========
-Boots - Czyścibut
+Boots - Czyścibuty
 Breastplate - Piersiopłyt
 Bucket - Czerpak
+Coat - Owłosienie
 Cloak - Przykrywka
 Dress - Negliż
 Gauntlet - Pojedynek
+Gear - Bzdura
 Glove - Gochanek
 Goggles - Wytrzeszczone Oczy
 Greaves - Skwarki
@@ -305,6 +309,7 @@ Shield - Puklerz
 Shirt - Podkoszulek
 Shoe - Trzewik
 Suit - Krawaciarz
+Sweater - Wyzyskiwacz
 Tiara - Diadem
 Tuxedo - Marynarka
 Wings - Błotniki
@@ -317,6 +322,7 @@ Bomb - Papieros
 Boomerang - Wybuchowy Odbijacz
 Bottle - Flaszka
 Bullet - Byczek
+Chakram - Koło
 Cannon - Kieszonkowiec
 Chainsaw - Dybowe Porzekadło
 Claymore - Bardziejtrup
@@ -370,11 +376,11 @@ Bundle - Tobół
 Cake - Cegiełka
 Caster - Pieprzniczka
 Cenx - Grox
-Coat - Owłosienie
 Crimtane - Puropalony
 Day - Dniówka
 Diabolist - Cukrzykowiec
 Doll - Ślicznotka
+Dryad - Sucha Reklama
 Egg - Jajco
 Emblem - Godło
 Feather - Szpunt
@@ -396,6 +402,7 @@ Hive - Ośrodek Wielkiego Ożywienia
 Honey - Rewelka
 Hook - Atrakcja
 Horseshoe - Skoczkotrzewik
+Hunter - Zegarek Kopertowy
 Husk - Wrak
 Ichor - Posoka
 Machine - Aparat
