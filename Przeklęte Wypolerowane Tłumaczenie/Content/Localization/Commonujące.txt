@@ -161,6 +161,7 @@ Wood - Lasek
 
 ======   KOLORY   ======
 Dye - Barwidło
+Hair Dye - Futrzaste Barwidło
 Paint - Szminka
 
 Black - Wrony
@@ -367,6 +368,7 @@ Whip - Kańczug
 
 ======   ITEMKI   ======
 Alchemy - Wszystkie Schematy
+Angel - 
 Ball - Kłębek
 Balloon - Dymek
 Band - Zespół
@@ -375,6 +377,7 @@ Blizzard - Zadymka
 Blood - Farbowany
 Bone - Fiszbin
 Book - Rejestr
+Bottle -  Flaszka
 Brass - Forsa
 Bubble - Gul Gul
 Bundle - Tobół
