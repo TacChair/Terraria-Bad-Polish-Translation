@@ -143,6 +143,7 @@ Crimsand - Purpiach
 Crimstone - Purpestkowy
 Crystal - Zrospaczone Stoisko
 Ice - Lukier
+Gemspark - Cackofircyk
 Glass - Barometr
 Granite - Wieczorna Babcia
 Marble - Rzeźba
@@ -164,6 +165,7 @@ Paint - Szminka
 
 Black - Wrony
 Blue - Przygnębiony
+Brown - Kasztanowy
 Cyan - Cyjankowa
 Gray - Szpakowaty
 Green - Nieoświadczony
@@ -181,6 +183,7 @@ Yellow - Tchórzliwy
 
 Light - Znicz
 Dark - Śniady
+Negative - Przecząca
 
 ======   SKARBY YARRR   ======
 Banner - Transparent
@@ -399,6 +402,7 @@ Grave - Mogiła
 Gravity - Powaga
 Gum - Żywica
 Guy - Straszydło
+Hair - 	Futro
 Hammer - Iglica
 Hive - Ośrodek Wielkiego Ożywienia
 Honey - Rewelka
