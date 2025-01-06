@@ -9,6 +9,7 @@ Diamond - Romb
 ======   RUDZI   ======
 Ore - Rudzi (tak po prostu, np. Rudzi Żelazka)
 
+Adamantite - Durny Adaś
 Chlorophyte - Chlorofrytka
 Cobalt - Inny Bochenek
 Copper - Policjant
@@ -17,6 +18,7 @@ Hellstone - Cholernapestka
 Iron - Żelazko
 Lead - Ołówek
 Metorite - Spotkanioryt
+Mythril - Baśnium
 Shroomite - Grzybogrosz
 Silver - Sreberko
 Orrichalcum - Ruda Kreda
@@ -449,6 +451,29 @@ Voodoo - Wiara w Czary
 Warp - Wypaczenie
 Watch - Uważaj na
 Water - Jezioro
+
+====== EWENTY ========
+Blood Moon - Miesiąc Farbowany
+Solar Eclipse - Solarne Ćmienie
+Frost Moon - Miesiąc Kostniący
+Party - Partia
+Pumpkin Moon - Miesiąc
+
+======= UI ===========
+Any - Który
+Back - Plecy
+Buy - Okup
+Close - Dobij targu
+Equip - Zaopatrzyj
+Hide - Skóra
+Left - Lewy
+Menu - Jadłospis
+More - Raczej
+Place - Posiadłość
+Select - Dobierz
+Show - Impreza
+Switch - Wyłącznik
+Take - Jeść
 
 ======   DIALOGOWE   ======
 Crowded - Zciżbowany
