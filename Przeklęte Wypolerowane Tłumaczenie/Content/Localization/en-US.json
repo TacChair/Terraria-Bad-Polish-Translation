@@ -17654,60 +17654,60 @@
 		"Chatter_16": "{?BloodMoon}The rivers are running red, everyone seem awfully on edge, hmm... it's a trying night, indeed!",
 		"Chatter_17": "{?!Day}The stars at night remind me of glitter on a beautiful, black dress. I shall soon have one made!"
 	},
-"CatChatter": {
-        "Chatter_1": "Miauczeć!",
-        "Chatter_2": "Pomrukiwać...",
-        "Chatter_3": "Miauuuuuuuuuczeć!"
-    },
-    "DogChatter": {
-        "Chatter_1": "Trama!",
-        "Chatter_2": "Kora!",
-        "Chatter_3": "Trama Trama!"
-    },
-    "BunnyChatter": {
-        "Chatter_1": "*Dźwięki kiepskiego gracz*",
-        "Chatter_2": "*Dźwięki trusii*"
-    },
-    "SlimeBlueChatter": {
-        "Chatter_1": "Trzęsiesz Bąbelka? Hm!",
-        "Chatter_2": "Bełkot bełkot żarówka... hamować!",
-        "Chatter_3": "Rozumiemy to! Hmm... bąbelek. Uh-huh."
-    },
-    "SlimeGreenChatter": {
-        "Chatter_1": "Kroplówka!",
-        "Chatter_2": "Skwierk musi skwierczeć!",
-        "Chatter_3": "Joł, Siorbaj nie jęcz!"
-    },
-    "SlimeOldChatter": {
-        "Chatter_1": "Dudni pomruk niezadowolenia!",
-        "Chatter_2": "Kupa... ehm!",
-        "Chatter_3": "Glupota glupota? Pszaw!"
-    },
-    "SlimeRainbowChatter": {
-        "Chatter_1": "Ślina blaknie!",
-        "Chatter_2": "Posypać, zabrzęczeć!",
-        "Chatter_3": "Czochra? Punkcik na ekranie, plama!"
-    },
-    "SlimePurpleChatter": {
-        "Chatter_1": "Bełkot.",
-        "Chatter_2": "*Niezdarnie uspokajać*",
-        "Chatter_3": "Plusk. Lombard... plama."
-    },
-    "SlimeRedChatter": {
-        "Chatter_1": "Szmera, trzęsie się... skleja!!!",
-        "Chatter_2": "Gwizd! Płukać gardło! Wrrrr...",
-        "Chatter_3": "Czkawka... heh."
-    },
-    "SlimeYellowChatter": {
-        "Chatter_1": "Bąbelek, bąbelek! Przegotować bąbelka!",
-        "Chatter_2": "Kleks, także stanik!",
-        "Chatter_3": "Pluć na krawężnik!"
-    },
-    "SlimeCopperChatter": {
-        "Chatter_1": "Punkcik na ekranie, plama, huczy!",
-        "Chatter_2": "Biczem o krawężnik! Pluć na krawężnik!",
-        "Chatter_3": "Zgniatać i gadać!"
-    },
+	"CatChatter": {
+        	"Chatter_1": "Miauczeć!",
+        	"Chatter_2": "Pomrukiwać...",
+        	"Chatter_3": "Miauuuuuuuuuczeć!"
+    	},
+    	"DogChatter": {
+        	"Chatter_1": "Trama!",
+        	"Chatter_2": "Kora!",
+        	"Chatter_3": "Trama Trama!"
+    	},
+    	"BunnyChatter": {
+        	"Chatter_1": "*Dźwięki kiepskiego gracz*",
+        	"Chatter_2": "*Dźwięki trusii*"
+   	 },
+    	"SlimeBlueChatter": {
+        	"Chatter_1": "Trzęsiesz Bąbelka? Hm!",
+        	"Chatter_2": "Bełkot bełkot żarówka... hamować!",
+        	"Chatter_3": "Rozumiemy to! Hmm... bąbelek. Uh-huh."
+    	},
+    	"SlimeGreenChatter": {
+        	"Chatter_1": "Kroplówka!",
+        	"Chatter_2": "Skwierk musi skwierczeć!",
+        	"Chatter_3": "Joł, Siorbaj nie jęcz!"
+    	},
+    	"SlimeOldChatter": {
+        	"Chatter_1": "Dudni pomruk niezadowolenia!",
+        	"Chatter_2": "Kupa... ehm!",
+        	"Chatter_3": "Glupota glupota? Pszaw!"
+    	},
+    	"SlimeRainbowChatter": {
+        	"Chatter_1": "Ślina blaknie!",
+        	"Chatter_2": "Posypać, zabrzęczeć!",
+        	"Chatter_3": "Czochra? Punkcik na ekranie, plama!"
+    	},
+    	"SlimePurpleChatter": {
+        	"Chatter_1": "Bełkot.",
+        	"Chatter_2": "*Niezdarnie uspokajać*",
+        	"Chatter_3": "Plusk. Lombard... plama."
+    	},
+    	"SlimeRedChatter": {
+        	"Chatter_1": "Szmera, trzęsie się... skleja!!!",
+        	"Chatter_2": "Gwizd! Płukać gardło! Wrrrr...",
+        	"Chatter_3": "Czkawka... heh."
+    	},
+   	"SlimeYellowChatter": {
+        	"Chatter_1": "Bąbelek, bąbelek! Przegotować bąbelka!",
+        	"Chatter_2": "Kleks, także stanik!",
+        	"Chatter_3": "Pluć na krawężnik!"
+    	},
+    	"SlimeCopperChatter": {
+        	"Chatter_1": "Punkcik na ekranie, plama, huczy!",
+        	"Chatter_2": "Biczem o krawężnik! Pluć na krawężnik!",
+        	"Chatter_3": "Zgniatać i gadać!"
+    	},
 	"BestiaryGirlSpecialText": {
 		"Party": "So, uh, I can't wear the hat. Sorry. I'm still here for the party, no worries!",
 		"Graveyard1": "My instincts are totally going wild. I really need to get out of here!",
