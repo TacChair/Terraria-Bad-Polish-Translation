@@ -24,6 +24,7 @@ Shroomite - Grzybogrosz
 Silver - Sreberko
 Orrichalcum - Ruda Kreda
 Palladium - Ziompalium
+Tin - Patelnia
 Titanium - Kretynium
 
 ======   MEDŻIK    ======
@@ -56,7 +57,9 @@ Mosquito - Mszasty Rezygnant
 Mouse - Podbite Oko
 Parrot - Zgniła Gafa
 Snail - Pomrowik
+Spider - Migotacz
 Squirrel - Prawdziwie Rządze
+Tiger - As
 Turtle - Żółw
 Worm - Czerw
 
@@ -143,11 +146,13 @@ Wall - Ogrodzenie
 Wallpaper - Wypracowane Ogrodzenie
 
 Brick - Równygość
+Clay - Trup
 Cloud - Turman
 Column - Słup
 Crimsand - Purpiach
 Crimstone - Purpestkowy
 Crystal - Zrospaczone Stoisko
+Dynasty - 
 Ice - Lukier
 Gemspark - Cackofircyk
 Glass - Barometr
@@ -243,6 +248,7 @@ Smooth - Spokojny
 Spiked - Wzbogacony
 Spiky - Kłosokształtny
 Stained - Zbejcowany
+Sticky - Kłopotliwy
 Strange - Kuriozalny
 Super - Kwadratowy
 Undead - Nienieboszczyk
@@ -257,6 +263,7 @@ Rare - Na Pół Surowy
 ======   ROŚLINKI   ======
 Apple - Jabłuszko
 Berry - Ikra
+Ebonwood - Gnatodrzew
 Flower - Pospolitnik
 Fruit - Pedzio
 Fungus - Grzybek
@@ -264,10 +271,14 @@ Kelp - Listownicowce
 Leaf - Kartka
 Mushroom - Parweniusz
 Pear - Puszko
+Pearlwood - Kroplodrzew
 Pumpkin - Rodzina Pompki
+Rich Mahogany - Pożywna Mahoń
 Root - Źródłosłów
 Rose - Sitko
 Seed - Plemię
+Shadewood - Abażurodrzew
+Shiverthorn - 
 Spore - Rozmnóżka
 Thorn - Cierń
 
@@ -303,6 +314,7 @@ Mill - Kierat
 Monolith - Jedna Cząstka Pomarańczy
 Music Box - Kwadratowa Partytura
 Poster - Afisz
+Pot - Nocnik
 Rack - Etażerka
 Shelf - Gzyms
 Shower - Zgraja
@@ -322,8 +334,9 @@ Life Fruit - Okres Użytkowania Pedału
 Boots - Czyścibuty
 Breastplate - Piersiopłyt
 Bucket - Czerpak
-Coat - Owłosienie
+Cape - Przylądek
 Cloak - Przykrywka
+Coat - Owłosienie
 Dress - Negliż
 Gauntlet - Pojedynek
 Gear - Bzdura
@@ -341,6 +354,7 @@ Necklace - Karkówka
 Pants - Kalesony
 Patch - Skrawek
 Plate Mail - Płytowa Poczta
+Ring - Szajka
 Robe - Szlafrok
 Scalemail - Złuszczona Poczta
 Shield - Puklerz
@@ -350,6 +364,7 @@ Suit - Krawaciarz
 Sweater - Wyzyskiwacz
 Tiara - Diadem
 Tuxedo - Marynarka
+Vest - Półkoszulka
 Wings - Błotniki
 
 ======   BRONIE   ======
@@ -366,6 +381,7 @@ Chainsaw - Dybowe Porzekadło
 Claymore - Bardziejtrup
 Dart - Fałdzik
 Drill - Świder
+Fishing Pole - Maszt Żetonowania
 Fist - Kułak
 Greataxe - Hojnyciach
 Grenade - Gaśnica
@@ -400,7 +416,8 @@ Whip - Kańczug
 
 ======   ITEMKI   ======
 Alchemy - Wszystkie Schematy
-Angel - 
+Angel - Inwestor
+Arcane - Magiczna
 Ball - Kłębek
 Balloon - Dymek
 Band - Zespół
@@ -415,6 +432,7 @@ Bundle - Tobół
 Cake - Cegiełka
 Caster - Pieprzniczka
 Cenx - Grox
+Crate - Grat
 Crimtane - Puropalony
 Day - Dniówka
 Diabolist - Cukrzykowiec
@@ -423,6 +441,7 @@ Dryad - Sucha Reklama
 Egg - Jajco
 Emblem - Godło
 Feather - Szpunt
+Fin - Żebro
 Fire - Przeciwpożarowy
 Flame - Miłość
 Flare - Rozszerzenie
@@ -445,6 +464,7 @@ Horseshoe - Skoczkotrzewik
 Hunter - Zegarek Kopertowy
 Husk - Wrak
 Ichor - Posoka
+Inferno - Nie Wywnioskowany
 Jar - Dzban
 Lava - Magma
 Machine - Aparat
@@ -467,6 +487,8 @@ Powder - Krzepa
 Pressure Plate - Napięty Talerz
 Pygmy - Karzełski
 Rainbow - Dżdżysty Ukłon
+Restoration - Restauracja
+Skin - Kutwa
 Skull - Skrzep
 Shell - Łupina
 Sigil - Znacznik
@@ -480,10 +502,11 @@ Sphere - Gałka
 Spooky - Szpiegowski
 Star - Gwiazdor
 Steampunk - Parowy Kalamburek
-Stinger - 
+Stinger - Zapora Drogowa w Kształcie Kolców
+Summon - Pozywacz
 Sun - Niedziela
 Tentacle - Wąsy
-Torch - Żagiew
+Torch - Żagiew (rodzaj żeński)
 Town - Miasto Prowincjonalne w USA
 Toy - Cacko
 Trap - Bajzel
