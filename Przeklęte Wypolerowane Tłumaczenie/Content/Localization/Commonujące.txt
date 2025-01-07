@@ -1,10 +1,11 @@
 Amber - Poranne Piwo
 Amethyst - Jestem Twój
-Topaz - Góraz
-Sapphire - Wynajęty Soczek
+Diamond - Romb
+Ember - Niedopałek
 Emerald - Szmaragdowy
 Ruby - Krosta
-Diamond - Romb
+Sapphire - Wynajęty Soczek
+Topaz - Góraz
 
 ======   RUDZI   ======
 Ore - Rudzi (tak po prostu, np. Rudzi Żelazka)
@@ -33,6 +34,8 @@ Orb - Jabłko
 Scroll - Zakrętas
 
 ======   ZWIERZĘTA   ======
+Critter - Krytyk
+
 Beetle - Młotek Drewniany
 Bird - Ptaszek
 Bug - Pluskwa
@@ -203,11 +206,15 @@ Stardust - Pyłek Gwiazdora
 Vortex - Kłębowisko
 
 ======   PRZYMIOTNIKI   ======
+Ancient - Starodawny
+Aether - Wieczny
 Bloody - Farbowany
 Bottled - Pijany
+Bouncy - Pełen Wigoru
 Bright - Bystre
 Broken - Spłukany
 Celestial - Niebieski
+Cosmic - Pozaziemski
 Cursed - Cholerny
 Deep - Chytra
 Devil - Kaduk
@@ -219,6 +226,7 @@ Giant - Olbrzymi
 Glowing - Promieniujący
 Great - Hojny
 Guardian - Konduktor
+Heavenly - Boski
 Intense - w Napięciu
 Large - Poważny
 Lesser - Gorszy
@@ -228,7 +236,6 @@ Molten - Ciekły
 Multicolored - Stukrasny
 Necromantic - Nie Koniecznie Romantyczny
 Rain - Dżdżysta
-Rare - Klawy
 Rusty - Ośniedziały
 Shadow - Szpiegujący
 Shining - Awanturujący
@@ -244,6 +251,9 @@ Vicious - Okrutny
 Watcher - Zegarmistrz
 Wooden - Sztywny
 
+Uncommon - Niebywały
+Rare - Na Pół Surowy
+
 ======   ROŚLINKI   ======
 Apple - Jabłuszko
 Berry - Ikra
@@ -252,7 +262,6 @@ Fruit - Pedzio
 Fungus - Grzybek
 Kelp - Listownicowce
 Leaf - Kartka
-Moss - Torfowisko
 Mushroom - Parweniusz
 Pear - Puszko
 Pumpkin - Rodzina Pompki
@@ -262,13 +271,22 @@ Seed - Plemię
 Spore - Rozmnóżka
 Thorn - Cierń
 
+Moss - Torfowisko
+Argon - Argumenton
+Helium - Śmigłowcum
+Krypton - Krypton
+Neon - Nowoczesnon
+Xeon - Obcon
+
 ======   MEBLE   ======
 Altar - Ołtarz
 Anvil - Zło
 Ash - Jesion
 Bed - Grządka
 Bookcase - Pokrowiec na Rejestry
+Boulder - Głaz Eratyczny
 Cage - Kabina
+Campfire - Znicz Kolonialny
 Candle - Znicz
 Chair - Prezes
 Chandelier - Pająk
@@ -276,13 +294,15 @@ Chest - Pudełko
 Door - Podwoje
 Fence - Meliniarz
 Flag - Bandera
-Forge - Kuźnia
+Forge - Zakład Metalurgiczny
 Furnace - Piekło
 Lamp - Jagnię
 Lantern - Kaganiec
 Loom - Krosno
 Mill - Kierat
+Monolith - Jedna Cząstka Pomarańczy
 Music Box - Kwadratowa Partytura
+Poster - Afisz
 Rack - Etażerka
 Shelf - Gzyms
 Shower - Zgraja
@@ -294,6 +314,9 @@ Toilet - Ubranie
 Vase - Wazon
 Window - Frazes
 Work Bench - Ławka Robocza
+
+Life Crystal - Okres Użytkowania Szkiełka do Zegarka
+Life Fruit - Okres Użytkowania Pedału
 
 ====== KOSTIUMY ========
 Boots - Czyścibuty
@@ -311,6 +334,7 @@ Hat - Kapelusz
 Headgear - Przyłbica
 Helmet - Szyszak
 Hood - Kapiszon
+Hoodie - Kurtka z Kapturem
 Leggings - Rajtuzy
 Mask - Maszkaron
 Necklace - Karkówka
