@@ -42,6 +42,7 @@ Cat - Złośliwa Kobieta
 Dog - Facet 
 Fish - Żeton
 Fly - Lotnik
+Frog - Krzyżownica
 Grasshopper - Pchła z Murawy
 Guide - Harcerka
 Hoppin Jack - Dźwigarka do Zaprawiania Piwa Chmielem
@@ -265,6 +266,7 @@ Anvil - Zło
 Ash - Jesion
 Bed - Grządka
 Bookcase - Pokrowiec na Rejestry
+Cage - Kabina
 Candle - Znicz
 Chair - Prezes
 Chandelier - Pająk
@@ -273,9 +275,13 @@ Door - Podwoje
 Fence - Meliniarz
 Flag - Bandera
 Forge - Kuźnia
+Furnace - Piekło
 Lamp - Jagnię
 Lantern - Kaganiec
+Loom - Krosno
+Mill - Kierat
 Music Box - Kwadratowa Partytura
+Rack - Etażerka
 Shelf - Gzyms
 Shower - Zgraja
 Sign - Sygnał
@@ -375,7 +381,7 @@ Band - Zespół
 Bar - Baton
 Blizzard - Zadymka
 Blood - Farbowany
-Bone - Fiszbin
+Bone - Gnat
 Book - Rejestr
 Bottle -  Flaszka
 Brass - Forsa
@@ -414,6 +420,8 @@ Horseshoe - Skoczkotrzewik
 Hunter - Zegarek Kopertowy
 Husk - Wrak
 Ichor - Posoka
+Jar - Dzban
+Lava - Magma
 Machine - Aparat
 Jack 'O Lantern - Jacko Kaganiec
 Jelly - Kisiel
@@ -426,6 +434,7 @@ Mold - Pleśń
 Moon - Miesiąc
 Nightmare - Nocna Klacz
 Obelisk - Słuchacz Krocza
+Pipe - Fujarka
 Pirate - Plagiator
 Poison - Jad
 Potion - Napój
@@ -446,6 +455,7 @@ Sphere - Gałka
 Spooky - Szpiegowski
 Star - Gwiazdor
 Steampunk - Parowy Kalamburek
+Stinger - 
 Sun - Niedziela
 Tentacle - Wąsy
 Torch - Żagiew
@@ -458,6 +468,7 @@ Voodoo - Wiara w Czary
 Warp - Wypaczenie
 Watch - Uważaj na
 Water - Jezioro
+Wind - Dęty
 
 ====== EWENTY ========
 Blood Moon - Miesiąc Farbowany
