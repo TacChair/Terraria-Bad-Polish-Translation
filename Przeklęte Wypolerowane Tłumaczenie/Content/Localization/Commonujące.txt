@@ -87,6 +87,8 @@ Wizard - Czarnoksiężnik
 Zombie - Bałwan
 
 ======   BOSSY   ======
+Boss - Kierownik
+
 Slime King - Król Mułu
 Eye of Cthulu - Głuchy Judasz
 Eater of Worlds - Zjadacz Kul Ziemskich
@@ -379,7 +381,6 @@ Ball - Kłębek
 Balloon - Dymek
 Band - Zespół
 Bar - Baton
-Blizzard - Zadymka
 Blood - Farbowany
 Bone - Gnat
 Book - Rejestr
@@ -414,7 +415,7 @@ Guy - Straszydło
 Hair - 	Futro
 Hammer - Iglica
 Hive - Ośrodek Wielkiego Ożywienia
-Honey - Rewelka
+Honey - Kochanie
 Hook - Atrakcja
 Horseshoe - Skoczkotrzewik
 Hunter - Zegarek Kopertowy
@@ -472,10 +473,23 @@ Wind - Dęty
 
 ====== EWENTY ========
 Blood Moon - Miesiąc Farbowany
+Blizzard - Zadymka
+Christmas - Mama Chrystusa
 Solar Eclipse - Solarne Ćmienie
-Frost Moon - Miesiąc Kostniący
 Party - Partia
 Pumpkin Moon - Miesiąc
+Rain - Dżdżystość
+Slime Rain - Mula Dżdżystość
+Sandstorm - Piaskowa Zawierucha
+Windy Day - Niepoważny Świt
+
+Goblin Invasion - Falnga banknotów jednofuntowych
+Pirate Invasion - Falnga korsarzy
+Martian Madness - Marsjańska Wścieklizna
+Old One's Army - Falanga Każdziusieńkiego Sędziwca
+Pumpkin Moon - Miesiąc Rodu Pompki
+Frost Moon - Miesiąc Kostniący
+Frost Legion - Fiasko Legii
 
 ======= UI ===========
 Any - Który
@@ -484,6 +498,7 @@ Buy - Okup
 Close - Dobij targu
 Equip - Zaopatrzyj
 Hide - Skóra
+Join - Wstąp
 Left - Lewy
 Menu - Jadłospis
 More - Raczej
