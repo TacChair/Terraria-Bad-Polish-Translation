@@ -120,6 +120,8 @@ Hand - Marynarz
 Fist - Kułak
 
 ======   BIOMY   ======
+Biome - Mój Życiorys
+
 Cave - Komora
 Caverns - Pieczary
 Corruption - Fałszowanie
@@ -201,7 +203,7 @@ Negative - Przecząca
 Banner - Transparent
 Relic - Zbytek
 Trophy - Zdobycz
-Tresure Bag - Woreczek Finansowy
+Treasure Bag - Woreczek Finansowy
 
 ======   PILLARY   ======
 Pillar - Wyrostek Stawowy
@@ -232,6 +234,7 @@ Glowing - Promieniujący
 Great - Hojny
 Guardian - Konduktor
 Heavenly - Boski
+Hidden - Przyczajony
 Intense - w Napięciu
 Large - Poważny
 Lesser - Gorszy
@@ -418,6 +421,7 @@ Whip - Kańczug
 Alchemy - Wszystkie Schematy
 Angel - Inwestor
 Arcane - Magiczna
+Bait - Postój
 Ball - Kłębek
 Balloon - Dymek
 Band - Zespół
@@ -503,6 +507,7 @@ Spooky - Szpiegowski
 Star - Gwiazdor
 Steampunk - Parowy Kalamburek
 Stinger - Zapora Drogowa w Kształcie Kolców
+Style - Dekoracja
 Summon - Pozywacz
 Sun - Niedziela
 Tentacle - Wąsy
@@ -539,25 +544,67 @@ Frost Moon - Miesiąc Kostniący
 Frost Legion - Fiasko Legii
 
 ======= UI ===========
+All - Zupełnie
 Any - Który
 Back - Plecy
+Bestiary - Najlepszy Diadem
 Buy - Okup
+Cancel - Skreślać
+Catch - Zaczepić
+Change - Przełom
+Clear - Klarowny
 Close - Dobij targu
+Craft - Łódź
+Effect - Konsekwencje
+Emote - Emocja
+Entrance - Ocznik
 Equip - Zaopatrzyj
+Exit - Wylot
+Game - Hazard
 Hide - Skóra
+Inventory - Remanent
 Join - Wstąp
 Left - Lewy
 Menu - Jadłospis
+Misc - Składankowy
 More - Raczej
+Open - Ujawnij 
 Place - Posiadłość
+Quality - Cecha
+Requires - Żąda
+Return - Odwzajemnienie
+Scale - Tabela
 Select - Dobierz
+Setting - Nastawienie Kości
 Show - Impreza
+Stack - Komin
 Switch - Wyłącznik
 Take - Jeść
+Zoom - Brzęczenie
+
+On - Na
+Off - Precz
+Enabled - Łagodzący
+Disabled - Niepełnosprawny 
+
+High - Odurzone Narkotykiem
+Medium - Średnio Wysmażone
+Low - Ciche
+
+Expert - Rzeczoznawca
+Master - Gospodarz
+
+HP - Kropka Sanitarna
+MP - Kropka Prestiżowa
+
+====== Statusy =======
+Damage - Upośledzenie
+Fishing Power - Wartości Żetonu
 
 ======   DIALOGOWE   ======
 Crowded - Zciżbowany
 Home - Ojczyzna
+
 I Dislike - Idiosynkrazuję
 I Hate - Ja bardzo nie lubić
 I Like - Sympatyzuje
