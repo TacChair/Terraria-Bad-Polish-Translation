@@ -578,6 +578,7 @@ Select - Dobierz
 Setting - Nastawienie Kości
 Show - Impreza
 Stack - Komin
+Swap - Przehandlować
 Switch - Wyłącznik
 Take - Jeść
 Zoom - Brzęczenie
@@ -590,6 +591,7 @@ Disabled - Niepełnosprawny
 High - Odurzone Narkotykiem
 Medium - Średnio Wysmażone
 Low - Ciche
+Normal - Prostopadła
 
 Expert - Rzeczoznawca
 Master - Gospodarz
