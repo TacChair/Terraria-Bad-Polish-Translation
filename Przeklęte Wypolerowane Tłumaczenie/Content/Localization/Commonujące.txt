@@ -57,6 +57,7 @@ Lizard - Jaszczur
 Mosquito - Mszasty Rezygnant
 Mouse - Podbite Oko
 Parrot - Zgniła Gafa
+Shrimp - Człowieczyna
 Snail - Pomrowik
 Spider - Migotacz
 Squirrel - Prawdziwie Rządze
@@ -149,6 +150,7 @@ Wall - Ogrodzenie
 Wallpaper - Wypracowane Ogrodzenie
 
 Brick - Równygość
+Cactus - Kaktus
 Clay - Trup
 Cloud - Turman
 Column - Słup
@@ -166,6 +168,7 @@ Obsidian - Obsesja Indian
 Platform - Peron
 Sand - Piach
 Slab - Kawał
+Skyware - Towar Firmamentu
 Stone - Pestka
 Sandstone - Piachopestka
 Tiled - Tafla
@@ -229,6 +232,7 @@ Deep - Chytra
 Devil - Kaduk
 Enchanted - Zafascynowany
 Evil - Paskudny
+Fallen - Poległy
 Frozen - Skostniały
 Fungi - Grzybiasty
 Giant - Olbrzymi
@@ -270,6 +274,7 @@ Rare - Na Pół Surowy
 ======   ROŚLINKI   ======
 Apple - Jabłuszko
 Berry - Ikra
+Cactus - 
 Ebonwood - Gnatodrzew
 Flower - Pospolitnik
 Fruit - Pedzio
@@ -311,6 +316,7 @@ Chandelier - Pająk
 Chair - Prezes
 Chest - Pudełko
 Door - Podwoje
+Dresser - Kredens
 Fence - Meliniarz
 Flag - Bandera
 Forge - Zakład Metalurgiczny
@@ -321,12 +327,14 @@ Loom - Krosno
 Mill - Kierat
 Monolith - Jedna Cząstka Pomarańczy
 Music Box - Kwadratowa Partytura
+Piano - Delikatnie
 Poster - Afisz
 Pot - Nocnik
 Rack - Etażerka
 Shelf - Gzyms
 Shower - Zgraja
 Sign - Sygnał
+Sofa - Kanapka
 Station - Popas
 Statue - Posążek
 Table - Biesiadnik
@@ -501,6 +509,7 @@ Pressure Plate - Napięty Talerz
 Pygmy - Karzełski
 Rainbow - Dżdżysty Ukłon
 Restoration - Restauracja
+Seashell - Morska Łupina
 Skin - Kutwa
 Skull - Skrzep
 Shell - Łupina
