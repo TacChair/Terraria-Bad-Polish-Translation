@@ -24,6 +24,7 @@ Shroomite - Grzybogrosz
 Silver - Sreberko
 Orrichalcum - Ruda Kreda
 Palladium - Ziompalium
+Platinium - Talerznium
 Tin - Patelnia
 Titanium - Kretynium
 
@@ -217,6 +218,7 @@ Ancient - Starodawny
 Aether - Wieczny
 Bloody - Farbowany
 Bottled - Pijany
+Bottomless - Bez Spodni
 Bouncy - Pełen Wigoru
 Bright - Bystre
 Broken - Spłukany
@@ -233,6 +235,7 @@ Giant - Olbrzymi
 Glowing - Promieniujący
 Great - Hojny
 Guardian - Konduktor
+Hardened - Zahartowany
 Heavenly - Boski
 Hidden - Przyczajony
 Intense - w Napięciu
@@ -254,6 +257,7 @@ Stained - Zbejcowany
 Sticky - Kłopotliwy
 Strange - Kuriozalny
 Super - Kwadratowy
+Treacherous - Judaszowski
 Undead - Nienieboszczyk
 Vile - Szmatławy
 Vicious - Okrutny
@@ -302,8 +306,9 @@ Boulder - Głaz Eratyczny
 Cage - Kabina
 Campfire - Znicz Kolonialny
 Candle - Znicz
-Chair - Prezes
+Chamber - Nocnik
 Chandelier - Pająk
+Chair - Prezes
 Chest - Pudełko
 Door - Podwoje
 Fence - Meliniarz
@@ -366,6 +371,7 @@ Shoe - Trzewik
 Suit - Krawaciarz
 Sweater - Wyzyskiwacz
 Tiara - Diadem
+Tunic - Błona
 Tuxedo - Marynarka
 Vest - Półkoszulka
 Wings - Błotniki
@@ -411,6 +417,7 @@ Shortsword - Ukłod Szpadowy
 Spear - Dzida
 Staff - Pała
 Sword - Szpada
+Terraformer - Gruntoformierz
 Trident - Trójszczerb
 Wand - Szczoteczka
 Waraxe - Warszawa
@@ -442,6 +449,7 @@ Day - Dniówka
 Diabolist - Cukrzykowiec
 Doll - Ślicznotka
 Dryad - Sucha Reklama
+Echo - Huczenie
 Egg - Jajco
 Emblem - Godło
 Feather - Szpunt
@@ -452,6 +460,7 @@ Flare - Rozszerzenie
 Flask - Kolba
 Frost - Fiasko
 Fury - Megiera
+Gas - Benzyna
 Globe - Globus
 Gothic - Barbarzyńskie
 Gradient - Nachylenie
@@ -602,6 +611,7 @@ MP - Kropka Prestiżowa
 ====== Statusy =======
 Damage - Upośledzenie
 Fishing Power - Wartości Żetonu
+Spelunker - Grotołaz
 
 ======   DIALOGOWE   ======
 Crowded - Zciżbowany
