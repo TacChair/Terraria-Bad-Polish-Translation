@@ -290,7 +290,7 @@ Root - Źródłosłów
 Rose - Sitko
 Seed - Plemię
 Shadewood - Abażurodrzew
-Shiverthorn - 
+Shiverthorn - Dygotek Kolczasty
 Spore - Rozmnóżka
 Thorn - Cierń
 
@@ -308,6 +308,7 @@ Ash - Jesion
 Bed - Grządka
 Bookcase - Pokrowiec na Rejestry
 Boulder - Głaz Eratyczny
+Bowl - Kula do Gry w Kręgle
 Cage - Kabina
 Campfire - Znicz Kolonialny
 Candle - Znicz
@@ -353,6 +354,7 @@ Bucket - Czerpak
 Cape - Przylądek
 Cloak - Przykrywka
 Coat - Owłosienie
+Costume - Kostium
 Dress - Negliż
 Gauntlet - Pojedynek
 Gear - Bzdura
@@ -364,6 +366,7 @@ Headgear - Przyłbica
 Helmet - Szyszak
 Hood - Kapiszon
 Hoodie - Kurtka z Kapturem
+Jacket - Żakiet
 Leggings - Rajtuzy
 Mask - Maszkaron
 Necklace - Karkówka
@@ -376,12 +379,14 @@ Scalemail - Złuszczona Poczta
 Shield - Puklerz
 Shirt - Podkoszulek
 Shoe - Trzewik
+Skirt - Babeczka
 Suit - Krawaciarz
 Sweater - Wyzyskiwacz
 Tiara - Diadem
 Tunic - Błona
 Tuxedo - Marynarka
 Vest - Półkoszulka
+Wig - Ochrzan
 Wings - Błotniki
 
 ======   BRONIE   ======
@@ -407,6 +412,7 @@ Halberd - Sieniobród
 Hamaxe - Hamak
 Hammer - Kurek
 Jackhammer - Jackurek
+Lance - Kopia
 Knife - Rzezak
 Launcher - Obiadownik
 Machete - 
@@ -453,6 +459,7 @@ Caster - Pieprzniczka
 Cenx - Grox
 Crate - Grat
 Crimtane - Puropalony
+Crown - Ciemię
 Day - Dniówka
 Diabolist - Cukrzykowiec
 Doll - Ślicznotka
