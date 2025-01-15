@@ -36,6 +36,34 @@ Mana - Prestiż
 Orb - Jabłko
 Scroll - Zakrętas
 
+========== NPC ============
+Angler - Żabnica
+Arms Dealer - Rozdający Karty Rękoma
+Demolitionist - Demolka
+Dryad - Sucha Reklama
+DyeTrader - Handlowiec Barwidło
+Clothier - Płachtacz
+Cyborg - Organizm Cybernetyczny
+Goblin Tinkerer - Druciarz Banknot Jednofuntowy
+Golfer - Gracz Golfa
+Guide - Harcerka
+Mechanic - Robotnik
+Merchant - Handlowiec
+Nurse - Pszczoła Karmicielka
+Painter - Szminkator
+PartyGirl - Facetka Wieczornica
+Pirate - Korsarz
+Princess - Królewna
+Santa Claus - Mikołaj Mikołaj
+Steampunker - Parowa Kalamburzystka
+Stylist - Dekorator
+Tavernkeep - Wikt Gospody
+Tax Collector - Komutator Wysiłku
+Truffle - Trufla
+Witch Doctor - Lekarz to Baba
+Wizard - Czarnoksiężnik
+Zoologist - Zwierzyńcowa Logistyk
+
 ======   ZWIERZĘTA   ======
 Critter - Krytyk
 
@@ -157,7 +185,7 @@ Cloud - Turman
 Column - Słup
 Crimsand - Purpiach
 Crimstone - Purpestkowy
-Crystal - Zrospaczone Stoisko
+Crystal - Szkiełko do Zegarka
 Dynasty - 
 Ice - Lukier
 Gemspark - Cackofircyk
@@ -334,9 +362,11 @@ Loom - Krosno
 Mill - Kierat
 Monolith - Jedna Cząstka Pomarańczy
 Music Box - Kwadratowa Partytura
+Painting - Pędzlowanie
 Piano - Delikatnie
 Poster - Afisz
 Pot - Nocnik
+Potted - Konserwowy
 Rack - Etażerka
 Shelf - Gzyms
 Shower - Zgraja
