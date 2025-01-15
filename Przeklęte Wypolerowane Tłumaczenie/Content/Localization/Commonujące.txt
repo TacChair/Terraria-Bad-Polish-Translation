@@ -24,9 +24,10 @@ Shroomite - Grzybogrosz
 Silver - Sreberko
 Orrichalcum - Ruda Kreda
 Palladium - Ziompalium
-Platinium - Talerznium
+Platinum - Talerzinum
 Tin - Patelnia
 Titanium - Kretynium
+Tungsten - Wolfram
 
 ======   MEDŻIK    ======
 Chaos - Bezprawie
@@ -274,7 +275,8 @@ Rare - Na Pół Surowy
 ======   ROŚLINKI   ======
 Apple - Jabłuszko
 Berry - Ikra
-Cactus - 
+Cactus - Kaktus
+Ebonsand - Gnatopiach
 Ebonwood - Gnatodrzew
 Flower - Pospolitnik
 Fruit - Pedzio
@@ -283,6 +285,8 @@ Kelp - Listownicowce
 Leaf - Kartka
 Mushroom - Parweniusz
 Pear - Puszko
+Pearlsand - Kroplopiach
+Pearlstone - Kroplopestka
 Pearlwood - Kroplodrzew
 Pumpkin - Rodzina Pompki
 Rich Mahogany - Pożywna Mahoń
@@ -305,6 +309,7 @@ Xeon - Obcon
 Altar - Ołtarz
 Anvil - Zło
 Ash - Jesion
+Bathtub - Faska Zdrój
 Bed - Grządka
 Bookcase - Pokrowiec na Rejestry
 Boulder - Głaz Eratyczny
@@ -316,6 +321,7 @@ Chamber - Nocnik
 Chandelier - Pająk
 Chair - Prezes
 Chest - Pudełko
+Clock - Strzałka
 Door - Podwoje
 Dresser - Kredens
 Fence - Meliniarz
@@ -348,10 +354,12 @@ Life Crystal - Okres Użytkowania Szkiełka do Zegarka
 Life Fruit - Okres Użytkowania Pedału
 
 ====== KOSTIUMY ========
+Armor - Pancerz
 Boots - Czyścibuty
 Breastplate - Piersiopłyt
 Bucket - Czerpak
 Cape - Przylądek
+Chainmail - Dybowa Poczta
 Cloak - Przykrywka
 Coat - Owłosienie
 Costume - Kostium
@@ -396,6 +404,7 @@ Blade - Brzeszczot
 Bomb - Papieros
 Boomerang - Wybuchowy Odbijacz
 Bottle - Flaszka
+Broadsword - Pałasz
 Bullet - Byczek
 Chakram - Koło
 Cannon - Kieszonkowiec
@@ -486,7 +495,7 @@ Guy - Straszydło
 Hair - 	Futro
 Hammer - Iglica
 Hive - Ośrodek Wielkiego Ożywienia
-Honey - Kochanie
+Honey - Rewelka
 Hook - Atrakcja
 Horseshoe - Skoczkotrzewik
 Hunter - Zegarek Kopertowy
