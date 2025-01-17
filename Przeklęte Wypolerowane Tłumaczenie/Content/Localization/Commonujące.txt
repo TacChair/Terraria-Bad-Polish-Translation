@@ -14,6 +14,7 @@ Adamantite - Durny Adaś
 Chlorophyte - Chlorofrytka
 Cobalt - Inny Bochenek
 Copper - Policjant
+Demonite - Diabłonit
 Gold - Złotko
 Hellstone - Cholernapestka
 Iron - Żelazko
@@ -187,6 +188,9 @@ Crimsand - Purpiach
 Crimstone - Purpestkowy
 Crystal - Szkiełko do Zegarka
 Dynasty - 
+Ebonsand - Gnatopiach
+Ebonstone - Gnatopestka
+Ebonwood - Gnatodrzew
 Ice - Lukier
 Gemspark - Cackofircyk
 Glass - Barometr
@@ -194,6 +198,9 @@ Granite - Wieczorna Babcia
 Marble - Rzeźba
 Mud - Zaprawa Murarska
 Obsidian - Obsesja Indian
+Pearlsand - Kroplopiach
+Pearlstone - Kroplopestka
+Pearlwood - Kroplodrzew
 Platform - Peron
 Sand - Piach
 Slab - Kawał
@@ -276,6 +283,7 @@ Large - Poważny
 Lesser - Gorszy
 Living - Zamieszkały
 Lucky - Trafiający
+Mechanical - Bezwiedny
 Molten - Ciekły
 Multicolored - Stukrasny
 Necromantic - Nie Koniecznie Romantyczny
@@ -304,8 +312,6 @@ Rare - Na Pół Surowy
 Apple - Jabłuszko
 Berry - Ikra
 Cactus - Kaktus
-Ebonsand - Gnatopiach
-Ebonwood - Gnatodrzew
 Flower - Pospolitnik
 Fruit - Pedzio
 Fungus - Grzybek
@@ -313,9 +319,6 @@ Kelp - Listownicowce
 Leaf - Kartka
 Mushroom - Parweniusz
 Pear - Puszko
-Pearlsand - Kroplopiach
-Pearlstone - Kroplopestka
-Pearlwood - Kroplodrzew
 Pumpkin - Rodzina Pompki
 Rich Mahogany - Pożywna Mahoń
 Root - Źródłosłów
@@ -345,6 +348,7 @@ Bowl - Kula do Gry w Kręgle
 Cage - Kabina
 Campfire - Znicz Kolonialny
 Candle - Znicz
+Candelabra - Biustonosz Znicza
 Chamber - Nocnik
 Chandelier - Pająk
 Chair - Prezes
@@ -560,6 +564,7 @@ Skin - Kutwa
 Skull - Skrzep
 Shell - Łupina
 Sigil - Znacznik
+Shard - Czerep
 Sled - Tobogan
 Sniper - Szperacz
 Snow - Pianka
@@ -618,6 +623,7 @@ Catch - Zaczepić
 Change - Przełom
 Clear - Klarowny
 Close - Dobij targu
+Coin - Bilon
 Craft - Łódź
 Effect - Konsekwencje
 Emote - Emocja
