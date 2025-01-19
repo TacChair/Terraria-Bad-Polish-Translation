@@ -568,6 +568,7 @@ Shard - Czerep
 Sled - Tobogan
 Sniper - Szperacz
 Snow - Pianka
+Solution - Rozwiązanie
 Soul - Duch
 Spike - Kłujka
 Spine - Cierń
