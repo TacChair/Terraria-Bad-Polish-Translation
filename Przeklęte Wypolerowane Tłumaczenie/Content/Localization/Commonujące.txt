@@ -203,6 +203,7 @@ Pearlstone - Kroplopestka
 Pearlwood - Kroplodrzew
 Platform - Peron
 Sand - Piach
+Shadewood - Kloszodrzew
 Slab - Kawał
 Skyware - Towar Firmamentu
 Stone - Pestka
@@ -359,6 +360,7 @@ Dresser - Kredens
 Fence - Meliniarz
 Flag - Bandera
 Forge - Zakład Metalurgiczny
+Fountain - Źródło
 Furnace - Piekło
 Lamp - Jagnię
 Lantern - Kaganiec
