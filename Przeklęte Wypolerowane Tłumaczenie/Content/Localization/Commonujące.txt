@@ -179,6 +179,7 @@ Block - Kloc
 Wall - Ogrodzenie
 Wallpaper - Wypracowane Ogrodzenie
 
+Boreal Wood - Sztywna Północ
 Brick - Równygość
 Cactus - Kaktus
 Clay - Trup
@@ -187,7 +188,7 @@ Column - Słup
 Crimsand - Purpiach
 Crimstone - Purpestkowy
 Crystal - Szkiełko do Zegarka
-Dynasty - 
+Dynasty - Paskudne
 Ebonsand - Gnatopiach
 Ebonstone - Gnatopestka
 Ebonwood - Gnatodrzew
@@ -377,6 +378,7 @@ Rack - Etażerka
 Shelf - Gzyms
 Shower - Zgraja
 Sign - Sygnał
+Sink - Rynsztok
 Sofa - Kanapka
 Station - Popas
 Statue - Posążek
@@ -442,10 +444,11 @@ Boomerang - Wybuchowy Odbijacz
 Bottle - Flaszka
 Broadsword - Pałasz
 Bullet - Byczek
-Chakram - Koło
 Cannon - Kieszonkowiec
+Chakram - Koło
 Chainsaw - Dybowe Porzekadło
 Claymore - Bardziejtrup
+Counterweight - Licznik Sztang
 Dart - Fałdzik
 Drill - Świder
 Fishing Pole - Maszt Żetonowania
