@@ -15,6 +15,7 @@ Chlorophyte - Chlorofrytka
 Cobalt - Inny Bochenek
 Copper - Policjant
 Demonite - Diabłonit
+Fossil - Odlew
 Gold - Złotko
 Hellstone - Cholernapestka
 Iron - Żelazko
@@ -213,6 +214,7 @@ Sandstone - Piachopestka
 Tiled - Tafla
 Titanstone - Pestkokretyn
 Tree - Choinka
+Web - Błona Pławna
 Wood - Lasek
 
 ======   KOLORY   ======
@@ -269,6 +271,7 @@ Cosmic - Pozaziemski
 Cursed - Cholerny
 Deep - Chytra
 Devil - Kaduk
+Dripping - Sos
 Enchanted - Zafascynowany
 Evil - Paskudny
 Fallen - Poległy
@@ -326,6 +329,7 @@ Pumpkin - Rodzina Pompki
 Rich Mahogany - Pożywna Mahoń
 Root - Źródłosłów
 Rose - Sitko
+Sapling - Młode Drzewko
 Seed - Plemię
 Shadewood - Abażurodrzew
 Shiverthorn - Dygotek Kolczasty
@@ -348,6 +352,7 @@ Bed - Grządka
 Bookcase - Pokrowiec na Rejestry
 Boulder - Głaz Eratyczny
 Bowl - Kula do Gry w Kręgle
+Bulb - Gruszka
 Cage - Kabina
 Campfire - Znicz Kolonialny
 Candle - Znicz
@@ -364,17 +369,21 @@ Flag - Bandera
 Forge - Zakład Metalurgiczny
 Fountain - Źródło
 Furnace - Piekło
+Geyser - Piecyk Gazowy
 Lamp - Jagnię
 Lantern - Kaganiec
+Log - Raport Wiertniczy
 Loom - Krosno
 Mill - Kierat
 Monolith - Jedna Cząstka Pomarańczy
 Music Box - Kwadratowa Partytura
 Painting - Pędzlowanie
 Piano - Delikatnie
+Picture - Malowidło
 Poster - Afisz
 Pot - Nocnik
 Potted - Konserwowy
+Pylon - Wieża Stalowa
 Rack - Etażerka
 Shelf - Gzyms
 Shower - Zgraja
@@ -384,10 +393,14 @@ Sofa - Kanapka
 Station - Popas
 Statue - Posążek
 Table - Biesiadnik
+Timer - Chronometrażysta
 Toilet - Ubranie
 Vase - Wazon
 Window - Frazes
+Wire - Depesza
 Work Bench - Ławka Robocza
+
+Floor - Klepisko
 
 Life Crystal - Okres Użytkowania Szkiełka do Zegarka
 Life Fruit - Okres Użytkowania Pedału
@@ -471,6 +484,7 @@ Pickaxe - Cięty Kaprys
 Pike - Szczupak
 Repeater - Kapuś
 Rifle - Gwintówka
+Rocket - Świeca Samochodowa
 Saber - Koncerz
 Scepter - Berło
 Scope - Kompetencja
@@ -481,6 +495,7 @@ Spear - Dzida
 Staff - Pała
 Sword - Szpada
 Terraformer - Gruntoformierz
+Turret - Baszta
 Trident - Trójszczerb
 Wand - Szczoteczka
 Waraxe - Warszawa
@@ -488,6 +503,8 @@ Warhammer - Bojokurek
 Whip - Kańczug
 
 ======   ITEMKI   ======
+Item - Paragraf
+
 Alchemy - Wszystkie Schematy
 Angel - Inwestor
 Arcane - Magiczna
@@ -534,6 +551,7 @@ Gum - Żywica
 Guy - Straszydło
 Hair - 	Futro
 Hammer - Iglica
+Heart - Kier
 Hive - Ośrodek Wielkiego Ożywienia
 Honey - Rewelka
 Hook - Atrakcja
