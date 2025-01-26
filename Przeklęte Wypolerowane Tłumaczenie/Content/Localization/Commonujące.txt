@@ -199,6 +199,7 @@ Granite - Wieczorna Babcia
 Marble - Rzeźba
 Mud - Zaprawa Murarska
 Obsidian - Obsesja Indian
+Palm Wood - Czułkowy Lasek
 Pearlsand - Kroplopiach
 Pearlstone - Kroplopestka
 Pearlwood - Kroplodrzew
@@ -564,10 +565,10 @@ Pressure Plate - Napięty Talerz
 Pygmy - Karzełski
 Rainbow - Dżdżysty Ukłon
 Restoration - Restauracja
-Seashell - Morska Łupina
+Seashell - Morski Nabój
 Skin - Kutwa
 Skull - Skrzep
-Shell - Łupina
+Shell - Nabój
 Sigil - Znacznik
 Shard - Czerep
 Sled - Tobogan
