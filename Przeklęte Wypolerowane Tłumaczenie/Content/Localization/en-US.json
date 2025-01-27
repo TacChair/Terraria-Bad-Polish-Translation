@@ -1,7 +1,7 @@
 {
 	"WorldGeneration": {
-		"OceanSand": "Wyprodukowywanie oceanowych piasków",
-		"WavyCaves": "Generating wavy caves"
+		"OceanSand": "Wyprodukowywanie piasków wielkiej wody",
+		"WavyCaves": "Wyprodukowywanie wężykowatych komór"
 	},
 	"LoadingTips_Default": {
 		"1": "Other players can loot your chests! If you don't trust them, use a Safe or Piggy Bank; those items have storage that is exclusive to each player.",
@@ -477,10 +477,10 @@
 		"BossDeerclops": "deerclops"
 	},
 	"Announcement": {
-		"HasBeenDefeated_Single": "{0} has been defeated!",
-		"HasBeenDefeated_Plural": "{0} have been defeated!",
-		"HasAwoken": "{0} has awoken!",
-		"HasArrived": "{0} has arrived!"
+		"HasBeenDefeated_Single": "{0} został pobity!",
+		"HasBeenDefeated_Plural": "{0} został pobity!",
+		"HasAwoken": "{0} ocknął się!",
+		"HasArrived": "{0} doszedł do wniosku!"
 	},
 	"MapObject": {
 		"Tree": "Choinka",
@@ -10450,8 +10450,8 @@
 		"Legendary": "Legendary"
 	},
 	"CaptureBiomeChoice": {
-		"0": "Automatic",
-		"1": "Purity",
+		"0": "Bezmyślny",
+		"1": "Dziwaczny",
 		"2": "{$Bestiary_Biomes.TheCorruption}",
 		"3": "{$Bestiary_Biomes.Jungle}",
 		"4": "{$Bestiary_Biomes.TheHallow}",
@@ -10462,7 +10462,7 @@
 		"9": "{$Bestiary_Biomes.Crimson}",
 		"10": "{$Bestiary_Biomes.Desert}",
 		"11": "{$Bestiary_Biomes.Ocean}",
-		"12": "Glowing Mushroom Fields"
+		"12": "Promieniujące Obszary Parweniuszu"
 	},
 	"Workshop": {
 		"HubDescriptionDefault": "Choose an option for more information.",
@@ -10606,8 +10606,8 @@
 		"Cloudy": "Mętna",
 		"PartlyCloudy": "Poniekąd Mętna",
 		"Clear": "Klarowny",
-		"WestWind": " ({0} mph W)",
-		"EastWind": " ({0} mph E)",
+		"WestWind": " ({0} mile na godzine Wu)",
+		"EastWind": " ({0} mile na godzine E)",
 		"FullMoon": "Luźny Miesiąc",
 		"WaningGibbous": "Ubywa Garbaty",
 		"ThirdQuarter": "Trzecia Dzielnica Miasta",
@@ -10627,7 +10627,7 @@
 		"NoKillCount": "Mordunki hrabii nie płynne",
 		"NoDPS": "N/A",
 		"DPS": "{0} upośledzeń na sekundant",
-		"Speed": "{0} mph",
+		"Speed": "{0} mile na godzine",
 		"CompassEast": "{0}' Wschodni",
 		"CompassWest": "{0}' Zachodni",
 		"CompassCenter": "Ośrodek",
@@ -10727,8 +10727,8 @@
 		"SuperCartDisabled": "Kopalnia Wózków Sklepowych: Prostopadła"
 	},
 	"Controls": {
-		"LeftClick": "Left Click",
-		"RightClick": "Right Click"
+		"LeftClick": "Pozostały Trzask",
+		"RightClick": "Prawidłowy Trzask"
 	},
 	"Social": {
 		"StatusInGame": "Wstąpianie w Internecie.",
@@ -11233,16 +11233,16 @@
 		"TO_INFINITY_AND_BEYOND_Description": "Fly a Kwad Racer into outer space."
 	},
 	"ItemVariant": {
-		"Stronger": "Stronger",
-		"Weaker": "Weaker",
-		"Rebalanced": "Rebalanced",
-		"Enabled": "Enabled",
-		"DisabledBossSummon": "Boss Summoning Disabled"
+		"Stronger": "Esencjonalniejszy",
+		"Weaker": "Mniej Stanowczy",
+		"Rebalanced": "Zrównoważony",
+		"Enabled": "Łagodzący",
+		"DisabledBossSummon": "Kierownik Niepełnosprawny Pozywacz"
 	},
 	"ItemVariantCondition": {
-		"RemixWorld": "Remix Seed",
-		"GetGoodWorld": "Get Good Seed",
-		"EverythingWorld": "Everything Seed"
+		"RemixWorld": "Remiks Plemienia",
+		"GetGoodWorld": "Zdobądź Smaczne Plemię",
+		"EverythingWorld": "Wszystko to Plemię"
 	},
 	"DungeonDefenders2": {
 		"InvasionStart": "The old one's army is approaching!",
@@ -11325,7 +11325,7 @@
 		"67": "Terraria: Also try Don't Starve!"
 	},
 	"SpecialWorldName": {
-		"TheConstant": "The Constant"
+		"TheConstant": "The Konsekwentny"
 	},
 	"RandomWorldName_Legacy": {
 		"1": "Redigit's Kingdom",
@@ -13631,16 +13631,16 @@
 		"12": "Ethan “flibitijibibo” Lee"
 	},
 	"CreditsRollCategory_EndingNotes": {
-		"1": "Thank you for playing!"
+		"1": "Błogosławić cię za grę w hazard!"
 	},
 	"TitleLinks": {
-		"Discord": "Discord",
-		"Reddit": "Reddit",
-		"Instagram": "Instagram",
-		"Twitter": "Twitter",
-		"Forums": "Forums",
-		"Merch": "Store",
-		"Wiki": "Wiki"
+		"Discord": "Niezgoda",
+		"Reddit": "Taki Rudy",
+		"Instagram": "Natychmiastowygram",
+		"Twitter": "Świergot",
+		"Forums": "Fora",
+		"Merch": "Przechowalnia",
+		"Wiki": "Wiktoria"
 	},
 	"LegacyWorldGen": {
 		"0": "Generating world terrain",
@@ -17632,8 +17632,8 @@
 		"Chatter_11": "I have noooo idea how I got here, but it's mega rad."
 	},
 	"BestiaryGirlLycantropeChatter": {
-		"Chatter_1": "Grrr!! Away. Stay. NOW!",
-		"Chatter_2": "Rawgh! Roo! Danger. Me. Wraaaath!"
+		"Chatter_1": "Grrr!! Kysz! Odciąg. TERAZ!",
+		"Chatter_2": "Rawgh! Roo! Niebezpieczeństwo. Ja. Obuuuuuuuuuuuuuuurzenie!"
 	},
 	"PrincessChatter": {
 		"Chatter_1": "I really appreciate all the good you've done for this land! Thank you!",
@@ -17659,55 +17659,55 @@
         	"Chatter_2": "Pomrukiwać...",
         	"Chatter_3": "Miauuuuuuuuuczeć!"
     	},
-    	"DogChatter": {
-        	"Chatter_1": "Trama!",
-        	"Chatter_2": "Kora!",
-        	"Chatter_3": "Trama Trama!"
-    	},
-    	"BunnyChatter": {
-        	"Chatter_1": "*Dźwięki kiepskiego gracz*",
-        	"Chatter_2": "*Dźwięki trusii*"
+    "DogChatter": {
+       	"Chatter_1": "Trama!",
+       	"Chatter_2": "Kora!",
+       	"Chatter_3": "Trama Trama!"
+    },
+    "BunnyChatter": {
+       	"Chatter_1": "*Dźwięki kiepskiego gracz*",
+       	"Chatter_2": "*Dźwięki trusii*"
    	 },
-    	"SlimeBlueChatter": {
-        	"Chatter_1": "Trzęsiesz Bąbelka? Hm!",
-        	"Chatter_2": "Bełkot bełkot żarówka... hamować!",
-        	"Chatter_3": "Rozumiemy to! Hmm... bąbelek. Uh-huh."
-    	},
-    	"SlimeGreenChatter": {
-        	"Chatter_1": "Kroplówka!",
-        	"Chatter_2": "Skwierk musi skwierczeć!",
-        	"Chatter_3": "Joł, Siorbaj nie jęcz!"
-    	},
-    	"SlimeOldChatter": {
-        	"Chatter_1": "Dudni pomruk niezadowolenia!",
-        	"Chatter_2": "Kupa... ehm!",
-        	"Chatter_3": "Glupota glupota? Pszaw!"
-    	},
-    	"SlimeRainbowChatter": {
-        	"Chatter_1": "Ślina blaknie!",
-        	"Chatter_2": "Posypać, zabrzęczeć!",
-        	"Chatter_3": "Czochra? Punkcik na ekranie, plama!"
-    	},
-    	"SlimePurpleChatter": {
-        	"Chatter_1": "Bełkot.",
-        	"Chatter_2": "*Niezdarnie uspokajać*",
-        	"Chatter_3": "Plusk. Lombard... plama."
-    	},
-    	"SlimeRedChatter": {
-        	"Chatter_1": "Szmera, trzęsie się... skleja!!!",
-        	"Chatter_2": "Gwizd! Płukać gardło! Wrrrr...",
-        	"Chatter_3": "Czkawka... heh."
-    	},
+    "SlimeBlueChatter": {
+       	"Chatter_1": "Trzęsiesz Bąbelka? Hm!",
+       	"Chatter_2": "Bełkot bełkot żarówka... hamować!",
+       	"Chatter_3": "Rozumiemy to! Hmm... bąbelek. Uh-huh."
+    },
+    "SlimeGreenChatter": {
+       	"Chatter_1": "Kroplówka!",
+       	"Chatter_2": "Skwierk musi skwierczeć!",
+       	"Chatter_3": "Joł, Siorbaj nie jęcz!"
+    },
+    "SlimeOldChatter": {
+       	"Chatter_1": "Dudni pomruk niezadowolenia!",
+       	"Chatter_2": "Kupa... ehm!",
+       	"Chatter_3": "Glupota glupota? Pszaw!"
+    },
+    "SlimeRainbowChatter": {
+       	"Chatter_1": "Ślina blaknie!",
+       	"Chatter_2": "Posypać, zabrzęczeć!",
+       	"Chatter_3": "Czochra? Punkcik na ekranie, plama!"
+    },
+    "SlimePurpleChatter": {
+       	"Chatter_1": "Bełkot.",
+       	"Chatter_2": "*Niezdarnie uspokajać*",
+       	"Chatter_3": "Plusk. Lombard... plama."
+    },
+    "SlimeRedChatter": {
+       	"Chatter_1": "Szmera, trzęsie się... skleja!!!",
+       	"Chatter_2": "Gwizd! Płukać gardło! Wrrrr...",
+       	"Chatter_3": "Czkawka... heh."
+    },
    	"SlimeYellowChatter": {
-        	"Chatter_1": "Bąbelek, bąbelek! Przegotować bąbelka!",
-        	"Chatter_2": "Kleks, także stanik!",
-        	"Chatter_3": "Pluć na krawężnik!"
-    	},
-    	"SlimeCopperChatter": {
-        	"Chatter_1": "Punkcik na ekranie, plama, huczy!",
-        	"Chatter_2": "Biczem o krawężnik! Pluć na krawężnik!",
-        	"Chatter_3": "Zgniatać i gadać!"
-    	},
+       	"Chatter_1": "Bąbelek, bąbelek! Przegotować bąbelka!",
+       	"Chatter_2": "Kleks, także stanik!",
+       	"Chatter_3": "Pluć na krawężnik!"
+    },
+    "SlimeCopperChatter": {
+       	"Chatter_1": "Punkcik na ekranie, plama, huczy!",
+       	"Chatter_2": "Biczem o krawężnik! Pluć na krawężnik!",
+       	"Chatter_3": "Zgniatać i gadać!"
+    },
 	"BestiaryGirlSpecialText": {
 		"Party": "So, uh, I can't wear the hat. Sorry. I'm still here for the party, no worries!",
 		"Graveyard1": "My instincts are totally going wild. I really need to get out of here!",

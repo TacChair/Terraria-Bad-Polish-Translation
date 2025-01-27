@@ -647,6 +647,7 @@ Cancel - Skreślać
 Catch - Zaczepić
 Change - Przełom
 Clear - Klarowny
+Click - Trzask
 Close - Dobij targu
 Coin - Bilon
 Craft - Łódź
@@ -659,7 +660,7 @@ Game - Hazard
 Hide - Skóra
 Inventory - Remanent
 Join - Wstąp
-Left - Lewy
+Left - Lewy / Pozostały
 Menu - Jadłospis
 Misc - Składankowy
 More - Raczej
