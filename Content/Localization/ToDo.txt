@@ -33,7 +33,7 @@ NO CommonItemTooltip
 NO PaintingArtist
 OK Prefix
 VIP ItemName
-	+ do linijki -5613
+	+ do linijki -5820
 	+ dodać banery
 	
 NO ItemTooltip
