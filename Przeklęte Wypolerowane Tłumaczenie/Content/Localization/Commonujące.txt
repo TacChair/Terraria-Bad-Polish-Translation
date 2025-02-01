@@ -20,6 +20,7 @@ Gold - Złotko
 Hellstone - Cholernapestka
 Iron - Żelazko
 Lead - Ołówek
+Luminite - Światłonit
 Metorite - Spotkanioryt
 Mythril - Baśnium
 Shroomite - Grzybogrosz
