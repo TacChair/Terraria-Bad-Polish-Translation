@@ -178,4 +178,3 @@ NO TownNPCMood_Truffle
 NO TownNPCMood_BestiaryGirl
 NO TownNPCMood_BestiaryGirlTransformed
 NO TownNPCMood_Princess
-elo
