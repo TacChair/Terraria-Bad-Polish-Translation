@@ -202,10 +202,10 @@ Marble - Rzeźba
 Mud - Zaprawa Murarska
 Obsidian - Obsesja Indian
 Palm Wood - Czułkowy Lasek
+Pearl - Kropla
 Pearlsand - Kroplopiach
 Pearlstone - Kroplopestka
 Pearlwood - Kroplodrzew
-Platform - Peron
 Sand - Piach
 Shadewood - Kloszodrzew
 Slab - Kawał
@@ -259,8 +259,8 @@ Stardust - Pyłek Gwiazdora
 Vortex - Kłębowisko
 
 ======   PRZYMIOTNIKI   ======
-Ancient - Starodawny
 Aether - Wieczny
+Ancient - Starodawny
 Bloody - Farbowany
 Bottled - Pijany
 Bottomless - Bez Spodni
@@ -270,6 +270,7 @@ Broken - Spłukany
 Celestial - Niebieski
 Cosmic - Pozaziemski
 Cursed - Cholerny
+Decorative - Ornamentalny
 Deep - Chytra
 Devil - Kaduk
 Dripping - Sos
@@ -348,6 +349,7 @@ Xeon - Obcon
 Altar - Ołtarz
 Anvil - Zło
 Ash - Jesion
+Barrel - Beczułka
 Bathtub - Faska Zdrój
 Bed - Grządka
 Bookcase - Pokrowiec na Rejestry
@@ -381,6 +383,7 @@ Music Box - Kwadratowa Partytura
 Painting - Pędzlowanie
 Piano - Delikatnie
 Picture - Malowidło
+Platform - Peron
 Poster - Afisz
 Pot - Nocnik
 Potted - Konserwowy
@@ -396,7 +399,9 @@ Statue - Posążek
 Table - Biesiadnik
 Timer - Chronometrażysta
 Toilet - Ubranie
+Trapped Chest - Zbajzelowane Pódełko
 Vase - Wazon
+Void Bag - Nieważne Prawnie Branie Do Kieszeni
 Window - Frazes
 Wire - Depesza
 Work Bench - Ławka Robocza
@@ -411,6 +416,7 @@ Armor - Pancerz
 Boots - Czyścibuty
 Breastplate - Piersiopłyt
 Bucket - Czerpak
+Cap - Nakrętka
 Cape - Przylądek
 Chainmail - Dybowa Poczta
 Cloak - Przykrywka
@@ -449,6 +455,9 @@ Tuxedo - Marynarka
 Vest - Półkoszulka
 Wig - Ochrzan
 Wings - Błotniki
+
+====== AKCESORIA =======
+Minecart - Gruba Bryczka
 
 ======   BRONIE   ======
 Arrow - Opieprzacz
@@ -503,9 +512,10 @@ Waraxe - Warszawa
 Warhammer - Bojokurek
 Whip - Kańczug
 
-======   ITEMKI   ======
+======   ITEMKI i INNE   ======
 Item - Paragraf
 
+Absorbant Sponge - Wsiąkające Wycieradło
 Alchemy - Wszystkie Schematy
 Angel - Inwestor
 Arcane - Magiczna
@@ -543,7 +553,9 @@ Flask - Kolba
 Frost - Fiasko
 Fury - Megiera
 Gas - Benzyna
+Galaxy - Droga Mleczna
 Globe - Globus
+Glow - Rumieńce
 Gothic - Barbarzyńskie
 Gradient - Nachylenie
 Grave - Mogiła
@@ -562,6 +574,7 @@ Husk - Wrak
 Ichor - Posoka
 Inferno - Nie Wywnioskowany
 Jar - Dzban
+Kit - Rynsztunek
 Lava - Magma
 Machine - Aparat
 Jack 'O Lantern - Jacko Kaganiec
@@ -577,8 +590,8 @@ Nightmare - Nocna Klacz
 Obelisk - Słuchacz Krocza
 Pipe - Fujarka
 Pirate - Plagiator
+Plush - Włochacz
 Poison - Jad
-Potion - Napój
 Powder - Krzepa
 Pressure Plate - Napięty Talerz
 Pygmy - Karzełski
@@ -638,6 +651,11 @@ Pumpkin Moon - Miesiąc Rodu Pompki
 Frost Moon - Miesiąc Kostniący
 Frost Legion - Fiasko Legii
 
+====== POTKI =========
+Potion - Napój
+
+Healing - Gojenie : Zdrowienie
+
 ======= UI ===========
 All - Zupełnie
 Any - Który
@@ -685,9 +703,13 @@ Off - Precz
 Enabled - Łagodzący
 Disabled - Niepełnosprawny 
 
+Large - Obszarny
+Big - Cielna
 High - Odurzone Narkotykiem
 Medium - Średnio Wysmażone
 Low - Ciche
+Small - Skromny
+
 Normal - Prostopadła
 
 Expert - Rzeczoznawca
