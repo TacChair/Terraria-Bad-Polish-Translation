@@ -708,4 +708,716 @@ Home - Ojczyzna
 I Dislike - Idiosynkrazuję
 I Hate - Ja bardzo nie lubić
 I Like - Sympatyzuje
+=======
+Amber - Poranne Piwo
+Amethyst - Jestem Twój
+Diamond - Romb
+Ember - Niedopałek
+Emerald - Szmaragdowy
+Ruby - Krosta
+Sapphire - Wynajęty Soczek
+Topaz - Góraz
+
+======   RUDZI   ======
+Ore - Rudzi (tak po prostu, np. Rudzi Żelazka)
+
+Adamantite - Durny Adaś
+Chlorophyte - Chlorofrytka
+Cobalt - Inny Bochenek
+Copper - Policjant
+Demonite - Diabłonit
+Fossil - Odlew
+Gold - Złotko
+Hellstone - Cholernapestka
+Iron - Żelazko
+Lead - Ołówek
+Luminite - Światłonit
+Metorite - Spotkanioryt
+Mythril - Baśnium
+Shroomite - Grzybogrosz
+Silver - Sreberko
+Orrichalcum - Ruda Kreda
+Palladium - Ziompalium
+Platinum - Talerzinum
+Tin - Patelnia
+Titanium - Kretynium
+Tungsten - Wolfram
+
+======   MEDŻIK    ======
+Chaos - Bezprawie
+Magic - Magiczna (jak w Kapitanie Bomba "Magiczna Flet")
+Mana - Prestiż
+Orb - Jabłko
+Scroll - Zakrętas
+
+========== NPC ============
+Angler - Żabnica
+Arms Dealer - Rozdający Karty Rękoma
+Demolitionist - Demolka
+Dryad - Sucha Reklama
+DyeTrader - Handlowiec Barwidło
+Clothier - Płachtacz
+Cyborg - Organizm Cybernetyczny
+Goblin Tinkerer - Druciarz Banknot Jednofuntowy
+Golfer - Gracz Golfa
+Guide - Harcerka
+Mechanic - Robotnik
+Merchant - Handlowiec
+Nurse - Pszczoła Karmicielka
+Painter - Szminkator
+PartyGirl - Facetka Wieczornica
+Pirate - Korsarz
+Princess - Królewna
+Santa Claus - Mikołaj Mikołaj
+Steampunker - Parowa Kalamburzystka
+Stylist - Dekorator
+Tavernkeep - Wikt Gospody
+Tax Collector - Komutator Wysiłku
+Truffle - Trufla
+Witch Doctor - Lekarz to Baba
+Wizard - Czarnoksiężnik
+Zoologist - Zwierzyńcowa Logistyk
+
+======   ZWIERZĘTA   ======
+Critter - Krytyk
+
+Beetle - Młotek Drewniany
+Bird - Ptaszek
+Bug - Pluskwa
+Bunny - Trusia
+Butterfly - Latające Masło
+Cat - Złośliwa Kobieta
+Dog - Facet 
+Fish - Żeton
+Fly - Lotnik
+Frog - Krzyżownica
+Grasshopper - Pchła z Murawy
+Guide - Harcerka
+Hoppin Jack - Dźwigarka do Zaprawiania Piwa Chmielem
+Horse - Skoczek
+Ladybug - Boża Krówka
+Lizard - Jaszczur
+Mosquito - Mszasty Rezygnant
+Mouse - Podbite Oko
+Parrot - Zgniła Gafa
+Shrimp - Człowieczyna
+Snail - Pomrowik
+Spider - Migotacz
+Squirrel - Prawdziwie Rządze
+Tiger - As
+Turtle - Żółw
+Worm - Czerw
+
+======   MOBY   ======
+Bat - Pałka
+Creature - Kreatura
+Demon Eye - Judasz Diabeł
+Elemental - Pierwiastkowiec
+Elf - Psotnik
+Ghost - Cień
+Goblin - Banknot Jednofuntowy
+Golem - Cytrynowy Chodek
+Harpy - Ględziator
+Hornet - Sieciowy Klakson
+Imp - Skrzat
+Lihzahrd - Reptilian
+Mimic - Imitator
+Monster - Dziwoląg
+Mummy - Miazga
+Nimbus - Gimbus
+Paladin - Hałaśliwy Kumpel
+Piranha - Pani Lekkich Obyczajów
+Pixie - Chochlik
+Skeleton - Kościotrup
+Slime - Muł
+Spectre - Specjalne Drzewo
+Unicorn - Jednokukurydz
+Vampire - Strzyga
+Wisp - Wiecheć
+Wizard - Czarnoksiężnik
+Zombie - Bałwan
+
+======   BOSSY   ======
+Boss - Kierownik
+
+Slime King - Król Mułu
+Eye of Cthulu - Głuchy Judasz
+Eater of Worlds - Zjadacz Kul Ziemskich
+Brain of Cthulu - Głucha Muzgownica
+Skeletron - Szkieletor
+Skeletron Prime - Rozkwitnięty Szkieletor
+Destroyer - Kontrtorpedowiec
+Duke Fishron - Książe Romek Żeton
+Plantera - Bydlaczka
+Pumpking - Król Pompka
+Queen Bee - Pszczela Dama
+Wall of Flesh - Ogrodzenie Miąższu
+Moon Lord - Władca Miesiąca
+Retinazer i Spazmatism - Siatkówkazer i Skurczotator
+Twins - Dwojaczki 
+Ocram - Kolor
+
+======   CZĘŚCI CIAŁA BOSSÓW   ======
+Arm - Wysięgnik
+Body - Ścierwo
+Head - Czoło
+Hand - Marynarz
+Fist - Kułak
+
+======   BIOMY   ======
+Biome - Mój Życiorys
+
+Cave - Komora
+Caverns - Pieczary
+Corruption - Fałszowanie
+Crimson - Purpur
+Desert - Deser
+Dungeon - Ciemnica
+Forest - Knieja
+Jungle - Gąszcz
+Hallow - Spuszczone Psy
+Hell - Cholera
+Ocean - Wielka Woda
+Overworld - Ponadświat
+Shimmer - Migotacz
+Sky - Firmament
+Space - Spacja
+Surface - Płaszczyzna
+Temple - Rozciągacz
+Underground - Metro
+Underworld - Świat Przestępczy
+
+======   KLOCKI   ======
+Block - Kloc
+Wall - Ogrodzenie
+Wallpaper - Wypracowane Ogrodzenie
+
+Boreal Wood - Sztywna Północ
+Brick - Równygość
+Cactus - Kaktus
+Clay - Trup
+Cloud - Turman
+Column - Słup
+Crimsand - Purpiach
+Crimstone - Purpestkowy
+Crystal - Szkiełko do Zegarka
+Dynasty - Paskudne
+Ebonsand - Gnatopiach
+Ebonstone - Gnatopestka
+Ebonwood - Gnatodrzew
+Ice - Lukier
+Gemspark - Cackofircyk
+Glass - Barometr
+Granite - Wieczorna Babcia
+Marble - Rzeźba
+Mud - Zaprawa Murarska
+Obsidian - Obsesja Indian
+Palm Wood - Czułkowy Lasek
+Pearlsand - Kroplopiach
+Pearlstone - Kroplopestka
+Pearlwood - Kroplodrzew
+Platform - Peron
+Sand - Piach
+Shadewood - Kloszodrzew
+Slab - Kawał
+Skyware - Towar Firmamentu
+Stone - Pestka
+Sandstone - Piachopestka
+Tiled - Tafla
+Titanstone - Pestkokretyn
+Tree - Choinka
+Web - Błona Pławna
+Wood - Lasek
+
+======   KOLORY   ======
+Dye - Barwidło
+Hair Dye - Futrzaste Barwidło
+Paint - Szminka
+
+Black - Wrony
+Blue - Przygnębiony
+Brown - Kasztanowy
+Cyan - Cyjankowa
+Gray - Szpakowaty
+Green - Nieoświadczony
+Golden - Zezłocony
+Lime - Wapienny
+Orange - Oranżadowy
+Pink - Goździk
+Purple - Szkarłatny
+Red - Rudy
+Sky Blue - Przygnębiony Firmament
+Teal - Cyraneczka
+Violet - Fiołkowy
+White - Czysty
+Yellow - Tchórzliwy
+
+Light - Znicz
+Dark - Śniady
+Negative - Przecząca
+
+======   SKARBY YARRR   ======
+Banner - Transparent
+Relic - Zbytek
+Trophy - Zdobycz
+Treasure Bag - Woreczek Finansowy
+
+======   PILLARY   ======
+Pillar - Wyrostek Stawowy
+Nebula - Obłoczek
+Solar - Słońce
+Stardust - Pyłek Gwiazdora
+Vortex - Kłębowisko
+
+======   PRZYMIOTNIKI   ======
+Ancient - Starodawny
+Aether - Wieczny
+Bloody - Farbowany
+Bottled - Pijany
+Bottomless - Bez Spodni
+Bouncy - Pełen Wigoru
+Bright - Bystre
+Broken - Spłukany
+Celestial - Niebieski
+Cosmic - Pozaziemski
+Cursed - Cholerny
+Deep - Chytra
+Devil - Kaduk
+Dripping - Sos
+Enchanted - Zafascynowany
+Evil - Paskudny
+Fallen - Poległy
+Frozen - Skostniały
+Fungi - Grzybiasty
+Giant - Olbrzymi
+Glowing - Promieniujący
+Great - Hojny
+Guardian - Konduktor
+Hardened - Zahartowany
+Heavenly - Boski
+Hidden - Przyczajony
+Intense - w Napięciu
+Large - Poważny
+Lesser - Gorszy
+Living - Zamieszkały
+Lucky - Trafiający
+Mechanical - Bezwiedny
+Molten - Ciekły
+Multicolored - Stukrasny
+Necromantic - Nie Koniecznie Romantyczny
+Rain - Dżdżysta
+Rusty - Ośniedziały
+Shadow - Szpiegujący
+Shining - Awanturujący
+Smooth - Spokojny
+Spiked - Wzbogacony
+Spiky - Kłosokształtny
+Stained - Zbejcowany
+Sticky - Kłopotliwy
+Strange - Kuriozalny
+Super - Kwadratowy
+Treacherous - Judaszowski
+Undead - Nienieboszczyk
+Vile - Szmatławy
+Vicious - Okrutny
+Watcher - Zegarmistrz
+Wooden - Sztywny
+
+Uncommon - Niebywały
+Rare - Na Pół Surowy
+
+======   ROŚLINKI   ======
+Apple - Jabłuszko
+Berry - Ikra
+Cactus - Kaktus
+Flower - Pospolitnik
+Fruit - Pedzio
+Fungus - Grzybek
+Kelp - Listownicowce
+Leaf - Kartka
+Mushroom - Parweniusz
+Pear - Puszko
+Pumpkin - Rodzina Pompki
+Rich Mahogany - Pożywna Mahoń
+Root - Źródłosłów
+Rose - Sitko
+Sapling - Młode Drzewko
+Seed - Plemię
+Shadewood - Abażurodrzew
+Shiverthorn - Dygotek Kolczasty
+Spore - Rozmnóżka
+Thorn - Cierń
+
+Moss - Torfowisko
+Argon - Argumenton
+Helium - Śmigłowcum
+Krypton - Krypton
+Neon - Nowoczesnon
+Xeon - Obcon
+
+======   MEBLE   ======
+Altar - Ołtarz
+Anvil - Zło
+Ash - Jesion
+Bathtub - Faska Zdrój
+Bed - Grządka
+Bookcase - Pokrowiec na Rejestry
+Boulder - Głaz Eratyczny
+Bowl - Kula do Gry w Kręgle
+Bulb - Gruszka
+Cage - Kabina
+Campfire - Znicz Kolonialny
+Candle - Znicz
+Candelabra - Biustonosz Znicza
+Chamber - Nocnik
+Chandelier - Pająk
+Chair - Prezes
+Chest - Pudełko
+Clock - Strzałka
+Door - Podwoje
+Dresser - Kredens
+Fence - Meliniarz
+Flag - Bandera
+Forge - Zakład Metalurgiczny
+Fountain - Źródło
+Furnace - Piekło
+Geyser - Piecyk Gazowy
+Lamp - Jagnię
+Lantern - Kaganiec
+Log - Raport Wiertniczy
+Loom - Krosno
+Mill - Kierat
+Monolith - Jedna Cząstka Pomarańczy
+Music Box - Kwadratowa Partytura
+Painting - Pędzlowanie
+Piano - Delikatnie
+Picture - Malowidło
+Poster - Afisz
+Pot - Nocnik
+Potted - Konserwowy
+Pylon - Wieża Stalowa
+Rack - Etażerka
+Shelf - Gzyms
+Shower - Zgraja
+Sign - Sygnał
+Sink - Rynsztok
+Sofa - Kanapka
+Station - Popas
+Statue - Posążek
+Table - Biesiadnik
+Timer - Chronometrażysta
+Toilet - Ubranie
+Vase - Wazon
+Window - Frazes
+Wire - Depesza
+Work Bench - Ławka Robocza
+
+Floor - Klepisko
+
+Life Crystal - Okres Użytkowania Szkiełka do Zegarka
+Life Fruit - Okres Użytkowania Pedału
+
+====== KOSTIUMY ========
+Armor - Pancerz
+Boots - Czyścibuty
+Breastplate - Piersiopłyt
+Bucket - Czerpak
+Cape - Przylądek
+Chainmail - Dybowa Poczta
+Cloak - Przykrywka
+Coat - Owłosienie
+Costume - Kostium
+Dress - Negliż
+Gauntlet - Pojedynek
+Gear - Bzdura
+Glove - Gochanek
+Goggles - Wytrzeszczone Oczy
+Greaves - Skwarki
+Hat - Kapelusz
+Headgear - Przyłbica
+Helmet - Szyszak
+Hood - Kapiszon
+Hoodie - Kurtka z Kapturem
+Jacket - Żakiet
+Leggings - Rajtuzy
+Mask - Maszkaron
+Necklace - Karkówka
+Pants - Kalesony
+Patch - Skrawek
+Plate Mail - Płytowa Poczta
+Ring - Szajka
+Robe - Szlafrok
+Scalemail - Złuszczona Poczta
+Shield - Puklerz
+Shirt - Podkoszulek
+Shoe - Trzewik
+Skirt - Babeczka
+Suit - Krawaciarz
+Sweater - Wyzyskiwacz
+Tiara - Diadem
+Tunic - Błona
+Tuxedo - Marynarka
+Vest - Półkoszulka
+Wig - Ochrzan
+Wings - Błotniki
+
+======   BRONIE   ======
+Arrow - Opieprzacz
+Axe - Cięcie
+Blade - Brzeszczot
+Bomb - Papieros
+Boomerang - Wybuchowy Odbijacz
+Bottle - Flaszka
+Broadsword - Pałasz
+Bullet - Byczek
+Cannon - Kieszonkowiec
+Chakram - Koło
+Chainsaw - Dybowe Porzekadło
+Claymore - Bardziejtrup
+Counterweight - Licznik Sztang
+Dart - Fałdzik
+Drill - Świder
+Fishing Pole - Maszt Żetonowania
+Fist - Kułak
+Greataxe - Hojnyciach
+Grenade - Gaśnica
+Gun - Spluwa
+Halberd - Sieniobród
+Hamaxe - Hamak
+Hammer - Kurek
+Jackhammer - Jackurek
+Lance - Kopia
+Knife - Rzezak
+Launcher - Obiadownik
+Machete - 
+Rod - Rózga
+Partisan - Zwolennik
+Pickaxe - Cięty Kaprys
+Pike - Szczupak
+Repeater - Kapuś
+Rifle - Gwintówka
+Rocket - Świeca Samochodowa
+Saber - Koncerz
+Scepter - Berło
+Scope - Kompetencja
+S.D.M.G. - Kwadratowa Spluwa Aparatowego Delfina
+Shotbow - Strzelecki Ukłon
+Shortsword - Ukłod Szpadowy
+Spear - Dzida
+Staff - Pała
+Sword - Szpada
+Terraformer - Gruntoformierz
+Turret - Baszta
+Trident - Trójszczerb
+Wand - Szczoteczka
+Waraxe - Warszawa
+Warhammer - Bojokurek
+Whip - Kańczug
+
+======   ITEMKI   ======
+Item - Paragraf
+
+Alchemy - Wszystkie Schematy
+Angel - Inwestor
+Arcane - Magiczna
+Bait - Postój
+Ball - Kłębek
+Balloon - Dymek
+Band - Zespół
+Bar - Baton
+Blood - Farbowany
+Bone - Gnat
+Book - Rejestr
+Bottle -  Flaszka
+Brass - Forsa
+Bubble - Gul Gul
+Bundle - Tobół
+Cake - Cegiełka
+Caster - Pieprzniczka
+Cenx - Grox
+Crate - Grat
+Crimtane - Puropalony
+Crown - Ciemię
+Day - Dniówka
+Diabolist - Cukrzykowiec
+Doll - Ślicznotka
+Dryad - Sucha Reklama
+Echo - Huczenie
+Egg - Jajco
+Emblem - Godło
+Feather - Szpunt
+Fin - Żebro
+Fire - Przeciwpożarowy
+Flame - Miłość
+Flare - Rozszerzenie
+Flask - Kolba
+Frost - Fiasko
+Fury - Megiera
+Gas - Benzyna
+Globe - Globus
+Gothic - Barbarzyńskie
+Gradient - Nachylenie
+Grave - Mogiła
+Gravity - Powaga
+Gum - Żywica
+Guy - Straszydło
+Hair - 	Futro
+Hammer - Iglica
+Heart - Kier
+Hive - Ośrodek Wielkiego Ożywienia
+Honey - Rewelka
+Hook - Atrakcja
+Horseshoe - Skoczkotrzewik
+Hunter - Zegarek Kopertowy
+Husk - Wrak
+Ichor - Posoka
+Inferno - Nie Wywnioskowany
+Jar - Dzban
+Lava - Magma
+Machine - Aparat
+Jack 'O Lantern - Jacko Kaganiec
+Jelly - Kisiel
+Key - Klawisz
+Magnet - Potentat
+Man - Człek
+Map - Gęba
+Metal - Masa Szklana
+Mold - Pleśń
+Moon - Miesiąc
+Nightmare - Nocna Klacz
+Obelisk - Słuchacz Krocza
+Pipe - Fujarka
+Pirate - Plagiator
+Poison - Jad
+Potion - Napój
+Powder - Krzepa
+Pressure Plate - Napięty Talerz
+Pygmy - Karzełski
+Rainbow - Dżdżysty Ukłon
+Restoration - Restauracja
+Seashell - Morski Nabój
+Skin - Kutwa
+Skull - Skrzep
+Shell - Nabój
+Sigil - Znacznik
+Shard - Czerep
+Sled - Tobogan
+Sniper - Szperacz
+Snow - Pianka
+Solution - Rozwiązanie
+Soul - Duch
+Spike - Kłujka
+Spine - Cierń
+Sphere - Gałka
+Spooky - Szpiegowski
+Star - Gwiazdor
+Steampunk - Parowy Kalamburek
+Stinger - Zapora Drogowa w Kształcie Kolców
+Style - Dekoracja
+Summon - Pozywacz
+Sun - Niedziela
+Tentacle - Wąsy
+Torch - Żagiew (rodzaj żeński)
+Town - Miasto Prowincjonalne w USA
+Toy - Cacko
+Trap - Bajzel
+Venom - Przyjaciel
+Vial - Ampułka
+Voodoo - Wiara w Czary
+Warp - Wypaczenie
+Watch - Uważaj na
+Water - Jezioro
+Wind - Dęty
+
+====== EWENTY ========
+Blood Moon - Miesiąc Farbowany
+Blizzard - Zadymka
+Christmas - Mama Chrystusa
+Solar Eclipse - Solarne Ćmienie
+Party - Partia
+Pumpkin Moon - Miesiąc
+Rain - Dżdżystość
+Slime Rain - Mula Dżdżystość
+Sandstorm - Piaskowa Zawierucha
+Windy Day - Niepoważny Świt
+
+Goblin Invasion - Falnga banknotów jednofuntowych
+Pirate Invasion - Falnga korsarzy
+Martian Madness - Marsjańska Wścieklizna
+Old One's Army - Falanga Każdziusieńkiego Sędziwca
+Pumpkin Moon - Miesiąc Rodu Pompki
+Frost Moon - Miesiąc Kostniący
+Frost Legion - Fiasko Legii
+
+======= UI ===========
+All - Zupełnie
+Any - Który
+Back - Plecy
+Bestiary - Najlepszy Diadem
+Buy - Okup
+Cancel - Skreślać
+Catch - Zaczepić
+Change - Przełom
+Clear - Klarowny
+Click - Trzask
+Close - Dobij targu
+Coin - Bilon
+Craft - Łódź
+Effect - Konsekwencje
+Emote - Emocja
+Entrance - Ocznik
+Equip - Zaopatrzyj
+Exit - Wylot
+Game - Hazard
+Hide - Skóra
+Inventory - Remanent
+Join - Wstąp
+Left - Lewy / Pozostały
+Menu - Jadłospis
+Misc - Składankowy
+More - Raczej
+Open - Ujawnij 
+Place - Posiadłość
+Quality - Cecha
+Requires - Żąda
+Return - Odwzajemnienie
+Scale - Tabela
+Select - Dobierz
+Setting - Nastawienie Kości
+Show - Impreza
+Stack - Komin
+Swap - Przehandlować
+Switch - Wyłącznik
+Take - Jeść
+Zoom - Brzęczenie
+
+On - Na
+Off - Precz
+Enabled - Łagodzący
+Disabled - Niepełnosprawny 
+
+High - Odurzone Narkotykiem
+Medium - Średnio Wysmażone
+Low - Ciche
+Normal - Prostopadła
+
+Expert - Rzeczoznawca
+Master - Gospodarz
+
+HP - Kropka Sanitarna
+MP - Kropka Prestiżowa
+
+====== Statusy =======
+Damage - Upośledzenie
+Fishing Power - Wartości Żetonu
+Spelunker - Grotołaz
+
+======   DIALOGOWE   ======
+Crowded - Zciżbowany
+Home - Ojczyzna
+
+I Dislike - Idiosynkrazuję
+I Hate - Ja bardzo nie lubić
+I Like - Sympatyzuje
+>>>>>>> a55d5f73b2adb61d224c26027b0408a61c067d95:Przeklęte Wypolerowane Tłumaczenie/Content/Localization/Commonujące.txt
 I Love - Romansuje
