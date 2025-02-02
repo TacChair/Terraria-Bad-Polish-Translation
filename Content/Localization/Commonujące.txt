@@ -516,6 +516,7 @@ Whip - Kańczug
 Item - Paragraf
 
 Absorbant Sponge - Wsiąkające Wycieradło
+Acid - Cierpkie
 Alchemy - Wszystkie Schematy
 Angel - Inwestor
 Arcane - Magiczna
