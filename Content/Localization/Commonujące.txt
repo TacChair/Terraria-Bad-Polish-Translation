@@ -101,6 +101,7 @@ Worm - Czerw
 Bat - Pałka
 Creature - Kreatura
 Demon Eye - Judasz Diabeł
+Dragon - Huzar
 Elemental - Pierwiastkowiec
 Elf - Psotnik
 Ghost - Cień
