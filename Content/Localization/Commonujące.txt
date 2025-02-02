@@ -182,7 +182,14 @@ Block - Kloc
 Wall - Ogrodzenie
 Wallpaper - Wypracowane Ogrodzenie
 
+Ash Wood - Jesionowy Lasek
 Boreal Wood - Sztywna Północ
+Ebonwood - Gnatodrzew
+Palm Wood - Czułkowy Lasek
+Pearlwood - Kroplodrzew
+Shadewood - Kloszodrzew
+
+Blocker - Klocker
 Brick - Równygość
 Cactus - Kaktus
 Clay - Trup
@@ -194,7 +201,6 @@ Crystal - Szkiełko do Zegarka
 Dynasty - Paskudne
 Ebonsand - Gnatopiach
 Ebonstone - Gnatopestka
-Ebonwood - Gnatodrzew
 Ice - Lukier
 Gemspark - Cackofircyk
 Glass - Barometr
@@ -202,13 +208,10 @@ Granite - Wieczorna Babcia
 Marble - Rzeźba
 Mud - Zaprawa Murarska
 Obsidian - Obsesja Indian
-Palm Wood - Czułkowy Lasek
 Pearl - Kropla
 Pearlsand - Kroplopiach
 Pearlstone - Kroplopestka
-Pearlwood - Kroplodrzew
 Sand - Piach
-Shadewood - Kloszodrzew
 Slab - Kawał
 Skyware - Towar Firmamentu
 Stone - Pestka
@@ -301,6 +304,7 @@ Rusty - Ośniedziały
 Shadow - Szpiegujący
 Shining - Awanturujący
 Smooth - Spokojny
+Spicy - Drastyczny
 Spiked - Wzbogacony
 Spiky - Kłosokształtny
 Stained - Zbejcowany
@@ -312,6 +316,7 @@ Undead - Nienieboszczyk
 Vile - Szmatławy
 Vicious - Okrutny
 Watcher - Zegarmistrz
+Wild - Nieoswojony
 Wooden - Sztywny
 
 Uncommon - Niebywały
@@ -366,6 +371,7 @@ Chandelier - Pająk
 Chair - Prezes
 Chest - Pudełko
 Clock - Strzałka
+Couch - Wersalka
 Door - Podwoje
 Dresser - Kredens
 Fence - Meliniarz
@@ -549,6 +555,7 @@ Emblem - Godło
 Feather - Szpunt
 Fin - Żebro
 Fire - Przeciwpożarowy
+Fishing Bobber - Żeton na Szturchnięcie Piwa
 Flame - Miłość
 Flare - Rozszerzenie
 Flask - Kolba
@@ -556,7 +563,7 @@ Frost - Fiasko
 Fury - Megiera
 Gas - Benzyna
 Galaxy - Droga Mleczna
-Globe - Globus
+Globe - Gałka Oczna
 Glow - Rumieńce
 Gothic - Barbarzyńskie
 Gradient - Nachylenie
@@ -653,6 +660,9 @@ Pumpkin Moon - Miesiąc Rodu Pompki
 Frost Moon - Miesiąc Kostniący
 Frost Legion - Fiasko Legii
 
+Day - Świt
+Night - Wieczór
+Midnight - Środek Wieczoru
 ====== POTKI =========
 Potion - Napój
 
@@ -719,6 +729,9 @@ Master - Gospodarz
 
 HP - Kropka Sanitarna
 MP - Kropka Prestiżowa
+
+Trash - Tandeta
+Slot - Żłobek
 
 ====== Statusy =======
 Damage - Upośledzenie
