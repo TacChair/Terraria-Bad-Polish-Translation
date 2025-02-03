@@ -274,6 +274,7 @@ Broken - Spłukany
 Celestial - Niebieski
 Cosmic - Pozaziemski
 Cursed - Cholerny
+Dead - Śnięty
 Decorative - Ornamentalny
 Deep - Chytra
 Devil - Kaduk
@@ -721,6 +722,7 @@ High - Odurzone Narkotykiem
 Medium - Średnio Wysmażone
 Low - Ciche
 Small - Skromny
+Little - Małostkowy
 
 Normal - Prostopadła
 
@@ -746,3 +748,6 @@ I Dislike - Idiosynkrazuję
 I Hate - Ja bardzo nie lubić
 I Like - Sympatyzuje
 I Love - Romansuje
+
+Happy - Błogosławiony
+Happiness - Błogostan
