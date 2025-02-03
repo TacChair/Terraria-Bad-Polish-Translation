@@ -408,6 +408,7 @@ Table - Biesiadnik
 Timer - Chronometrażysta
 Toilet - Ubranie
 Trapped Chest - Zbajzelowane Pódełko
+Trap Door - Podwoje Bajzelu
 Vase - Wazon
 Void Bag - Nieważne Prawnie Branie Do Kieszeni
 Window - Frazes
