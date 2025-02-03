@@ -104,6 +104,7 @@ Demon Eye - Judasz Diabeł
 Dragon - Huzar
 Elemental - Pierwiastkowiec
 Elf - Psotnik
+Gentleman - Mężczyzna Kulturalny
 Ghost - Cień
 Goblin - Banknot Jednofuntowy
 Golem - Cytrynowy Chodek
@@ -147,12 +148,14 @@ Retinazer i Spazmatism - Siatkówkazer i Skurczotator
 Twins - Dwojaczki 
 Ocram - Kolor
 
-======   CZĘŚCI CIAŁA BOSSÓW   ======
+Deerclops - Klopsik Rogaty
+======   CZĘŚCI CIAŁ   ======
 Arm - Wysięgnik
 Body - Ścierwo
+Fist - Kułak
 Head - Czoło
 Hand - Marynarz
-Fist - Kułak
+Tail - Miotła
 
 ======   BIOMY   ======
 Biome - Mój Życiorys
@@ -330,6 +333,7 @@ Cactus - Kaktus
 Flower - Pospolitnik
 Fruit - Pedzio
 Fungus - Grzybek
+Grass Seeds - Plemiona Muraw
 Kelp - Listownicowce
 Leaf - Kartka
 Mushroom - Parweniusz
@@ -428,10 +432,12 @@ Bucket - Czerpak
 Cap - Nakrętka
 Cape - Przylądek
 Chainmail - Dybowa Poczta
+Chestplate - Pódełkopłyt
 Cloak - Przykrywka
 Coat - Owłosienie
 Costume - Kostium
 Dress - Negliż
+Fur - Zwierzyna
 Gauntlet - Pojedynek
 Gear - Bzdura
 Glove - Gochanek
@@ -439,6 +445,7 @@ Goggles - Wytrzeszczone Oczy
 Greaves - Skwarki
 Hat - Kapelusz
 Headgear - Przyłbica
+Helm - Sterownica
 Helmet - Szyszak
 Hood - Kapiszon
 Hoodie - Kurtka z Kapturem
@@ -461,6 +468,7 @@ Sweater - Wyzyskiwacz
 Tiara - Diadem
 Tunic - Błona
 Tuxedo - Marynarka
+Uniform - Jednolity
 Vest - Półkoszulka
 Wig - Ochrzan
 Wings - Błotniki
@@ -662,6 +670,8 @@ Pumpkin Moon - Miesiąc Rodu Pompki
 Frost Moon - Miesiąc Kostniący
 Frost Legion - Fiasko Legii
 
+Weather - Aura
+
 Day - Świt
 Night - Wieczór
 Midnight - Środek Wieczoru
@@ -724,6 +734,7 @@ Medium - Średnio Wysmażone
 Low - Ciche
 Small - Skromny
 Little - Małostkowy
+Tiny - Malusieńki
 
 Normal - Prostopadła
 
