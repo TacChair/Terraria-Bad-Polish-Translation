@@ -141,6 +141,7 @@ Destroyer - Kontrtorpedowiec
 Duke Fishron - Książe Romek Żeton
 Plantera - Bydlaczka
 Queen Bee - Pszczela Dama
+Queen Slime - Mula Dama
 Wall of Flesh - Ogrodzenie Miąższu
 Moon Lord - Władca Miesiąca
 Retinazer i Spazmatism - Siatkówkazer i Skurczotator
@@ -641,7 +642,8 @@ Style - Dekoracja
 Summon - Pozywacz
 Sun - Niedziela
 Tentacle - Wąsy
-Torch - Żagiew (rodzaj żeński)
+Torch - Palnik
+Tower - Holownik
 Town - Miasto Prowincjonalne w USA
 Toy - Cacko
 Trap - Bajzel
