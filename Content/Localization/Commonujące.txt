@@ -140,21 +140,23 @@ Skeletron Prime - Rozkwitnięty Szkieletor
 Destroyer - Kontrtorpedowiec
 Duke Fishron - Książe Romek Żeton
 Plantera - Bydlaczka
-Pumpking - Król Pompka
 Queen Bee - Pszczela Dama
 Wall of Flesh - Ogrodzenie Miąższu
 Moon Lord - Władca Miesiąca
 Retinazer i Spazmatism - Siatkówkazer i Skurczotator
 Twins - Dwojaczki 
-Ocram - Kolor
 
 Deerclops - Klopsik Rogaty
+Pumpking - Król Pompka
+Torch God - Boski Palnik
+Ocram - Kolor
 ======   CZĘŚCI CIAŁ   ======
 Arm - Wysięgnik
 Body - Ścierwo
 Fist - Kułak
 Head - Czoło
 Hand - Marynarz
+Legs - Udźce	(Udziec)
 Tail - Miotła
 
 ======   BIOMY   ======
@@ -168,9 +170,10 @@ Desert - Deser
 Dungeon - Ciemnica
 Forest - Knieja
 Jungle - Gąszcz
-Hallow - Spuszczone Psy
+Hallow - Szczute Psy
 Hell - Cholera
 Ocean - Wielka Woda
+Otherworld - Odmiennoświat
 Overworld - Ponadświat
 Shimmer - Migotacz
 Sky - Firmament
@@ -303,7 +306,6 @@ Mechanical - Bezwiedny
 Molten - Ciekły
 Multicolored - Stukrasny
 Necromantic - Nie Koniecznie Romantyczny
-Rain - Dżdżysta
 Rusty - Ośniedziały
 Shadow - Szpiegujący
 Shining - Awanturujący
@@ -505,6 +507,7 @@ Lance - Kopia
 Knife - Rzezak
 Launcher - Obiadownik
 Machete - 
+Mace - 
 Rod - Rózga
 Partisan - Zwolennik
 Pickaxe - Cięty Kaprys
@@ -657,10 +660,6 @@ Christmas - Mama Chrystusa
 Solar Eclipse - Solarne Ćmienie
 Party - Partia
 Pumpkin Moon - Miesiąc
-Rain - Dżdżystość
-Slime Rain - Mula Dżdżystość
-Sandstorm - Piaskowa Zawierucha
-Windy Day - Niepoważny Świt
 
 Goblin Invasion - Falnga banknotów jednofuntowych
 Pirate Invasion - Falnga korsarzy
@@ -671,6 +670,10 @@ Frost Moon - Miesiąc Kostniący
 Frost Legion - Fiasko Legii
 
 Weather - Aura
+Rain - Dżdżystość
+Slime Rain - Mula Dżdżystość
+Sandstorm - Piaskowa Zawierucha
+Windy Day - Niepoważny Świt
 
 Day - Świt
 Night - Wieczór
@@ -747,10 +750,14 @@ MP - Kropka Prestiżowa
 Trash - Tandeta
 Slot - Żłobek
 
+Time - Godzina Śmierci
+Second - Drugi
+
 ====== Statusy =======
 Damage - Upośledzenie
 Fishing Power - Wartości Żetonu
 Spelunker - Grotołaz
+-proof - Dowód Istnienia
 
 ======   DIALOGOWE   ======
 Crowded - Zciżbowany
