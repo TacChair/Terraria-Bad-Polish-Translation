@@ -131,25 +131,37 @@ Zombie - Bałwan
 ======   BOSSY   ======
 Boss - Kierownik
 
-Slime King - Król Mułu
-Eye of Cthulu - Głuchy Judasz
-Eater of Worlds - Zjadacz Kul Ziemskich
 Brain of Cthulu - Głucha Muzgownica
-Skeletron - Szkieletor
-Skeletron Prime - Rozkwitnięty Szkieletor
 Destroyer - Kontrtorpedowiec
 Duke Fishron - Książe Romek Żeton
+Eater of Worlds - Zjadacz Kul Ziemskich
+Eye of Cthulu - Głuchy Judasz
+Empress of Light - Mało Ważna Cesarzowa
+Lunatic Cultist - Wariat Witacz
+Golem - Cytrynowy Chodek
+Moon Lord - Władca Miesiąca
 Plantera - Bydlaczka
 Queen Bee - Pszczela Dama
 Queen Slime - Mula Dama
+Skeletron - Szkieletor
+Skeletron Prime - Rozkwitnięty Szkieletor
+Slime King - Król Mułu
 Wall of Flesh - Ogrodzenie Miąższu
-Moon Lord - Władca Miesiąca
+
 Retinazer i Spazmatism - Siatkówkazer i Skurczotator
 Twins - Dwojaczki 
 
+Betsy - Zakładacz
+Dark Mage - Śniady Mag
 Deerclops - Klopsik Rogaty
+Everscream - Do Licha Zabawny Facetk
+Flying Dutchman - Latający Niemiecki Gość
+Martian Saucer - Marsjańska Panewka
+Mourning Wood - Sztywny Lament
+Ice Queen - Królowa Lukru
 Pumpking - Król Pompka
 Torch God - Boski Palnik
+Ogre - Ludojad
 Ocram - Kolor
 ======   CZĘŚCI CIAŁ   ======
 Arm - Wysięgnik
@@ -198,6 +210,7 @@ Shadewood - Kloszodrzew
 
 Blocker - Klocker
 Brick - Równygość
+Board - Szachownica
 Cactus - Kaktus
 Clay - Trup
 Cloud - Turman
@@ -242,6 +255,7 @@ Gray - Szpakowaty
 Green - Nieoświadczony
 Golden - Zezłocony
 Lime - Wapienny
+Maroon - Kasztanowaty
 Orange - Oranżadowy
 Pink - Goździk
 Purple - Szkarłatny
@@ -324,6 +338,7 @@ Vile - Szmatławy
 Vicious - Okrutny
 Watcher - Zegarmistrz
 Wild - Nieoswojony
+Wondering - Błądzący
 Wooden - Sztywny
 
 Uncommon - Niebywały
@@ -559,7 +574,6 @@ Cenx - Grox
 Crate - Grat
 Crimtane - Puropalony
 Crown - Ciemię
-Day - Dniówka
 Diabolist - Cukrzykowiec
 Doll - Ślicznotka
 Dryad - Sucha Reklama
@@ -677,6 +691,7 @@ Slime Rain - Mula Dżdżystość
 Sandstorm - Piaskowa Zawierucha
 Windy Day - Niepoważny Świt
 
+Morning - Przedpołudnie
 Day - Świt
 Night - Wieczór
 Midnight - Środek Wieczoru
@@ -749,6 +764,8 @@ Master - Gospodarz
 HP - Kropka Sanitarna
 MP - Kropka Prestiżowa
 
+Cursor - Przesuwka
+Title - Krzta
 Trash - Tandeta
 Slot - Żłobek
 
