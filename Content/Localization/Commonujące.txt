@@ -107,7 +107,6 @@ Elf - Psotnik
 Gentleman - Mężczyzna Kulturalny
 Ghost - Cień
 Goblin - Banknot Jednofuntowy
-Golem - Cytrynowy Chodek
 Harpy - Ględziator
 Hornet - Sieciowy Klakson
 Imp - Skrzat
@@ -387,8 +386,8 @@ Bowl - Kula do Gry w Kręgle
 Bulb - Gruszka
 Cage - Kabina
 Campfire - Znicz Kolonialny
-Candle - Znicz
-Candelabra - Biustonosz Znicza
+Candle - Kandela
+Candelabra - Biustonosz Kandela
 Chamber - Nocnik
 Chandelier - Pająk
 Chair - Prezes
@@ -582,7 +581,7 @@ Egg - Jajco
 Emblem - Godło
 Feather - Szpunt
 Fin - Żebro
-Fire - Przeciwpożarowy
+Fire - Znicz
 Fishing Bobber - Żeton na Szturchnięcie Piwa
 Flame - Miłość
 Flare - Rozszerzenie
@@ -675,7 +674,6 @@ Blizzard - Zadymka
 Christmas - Mama Chrystusa
 Solar Eclipse - Solarne Ćmienie
 Party - Partia
-Pumpkin Moon - Miesiąc
 
 Goblin Invasion - Falnga banknotów jednofuntowych
 Pirate Invasion - Falnga korsarzy
