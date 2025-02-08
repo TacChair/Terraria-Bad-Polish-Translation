@@ -550,6 +550,7 @@ Wand - Szczoteczka
 Waraxe - Warszawa
 Warhammer - Bojokurek
 Whip - Kańczug
+Yoyo - Kretyn
 
 ======   ITEMKI i INNE   ======
 Item - Paragraf
@@ -574,6 +575,7 @@ Bundle - Tobół
 Cake - Cegiełka
 Caster - Pieprzniczka
 Cenx - Grox
+Coil - Wężownica
 Crate - Grat
 Crimtane - Puropalony
 Crown - Ciemię
@@ -637,6 +639,7 @@ Pressure Plate - Napięty Talerz
 Pygmy - Karzełski
 Rainbow - Dżdżysty Ukłon
 Restoration - Restauracja
+Rope - Stryczek
 Seashell - Morski Nabój
 Skin - Kutwa
 Skull - Skrzep
