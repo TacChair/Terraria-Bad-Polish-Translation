@@ -162,6 +162,7 @@ Pumpking - Król Pompka
 Torch God - Boski Palnik
 Ogre - Ludojad
 Ocram - Kolor
+
 ======   CZĘŚCI CIAŁ   ======
 Arm - Wysięgnik
 Body - Ścierwo
@@ -183,6 +184,7 @@ Desert - Deser
 Dungeon - Ciemnica
 Forest - Knieja
 Jungle - Gąszcz
+Graveyard - Poważny Dziedziniec
 Hallow - Szczute Psy
 Hell - Cholera
 Ocean - Wielka Woda
@@ -340,6 +342,7 @@ Undead - Nienieboszczyk
 Vile - Szmatławy
 Vicious - Okrutny
 Watcher - Zegarmistrz
+Wicked - Figlarny
 Wild - Nieoswojony
 Wondering - Błądzący
 Wooden - Sztywny
@@ -457,6 +460,7 @@ Chestplate - Pódełkopłyt
 Cloak - Przykrywka
 Coat - Owłosienie
 Costume - Kostium
+Cowl - Ceber
 Dress - Negliż
 Fur - Zwierzyna
 Gauntlet - Pojedynek
@@ -525,8 +529,7 @@ Jackhammer - Jackurek
 Lance - Kopia
 Knife - Rzezak
 Launcher - Obiadownik
-Machete - 
-Mace - 
+Mace - Buzdygan
 Rod - Rózga
 Partisan - Zwolennik
 Pickaxe - Cięty Kaprys
@@ -565,6 +568,7 @@ Ball - Kłębek
 Balloon - Dymek
 Band - Zespół
 Bar - Baton
+Beam - Balansjer
 Blood - Farbowany
 Bone - Gnat
 Book - Rejestr
@@ -695,6 +699,8 @@ Rain - Dżdżystość
 Slime Rain - Mula Dżdżystość
 Sandstorm - Piaskowa Zawierucha
 Windy Day - Niepoważny Świt
+
+Full Moon - Napchany Miesiąc
 
 Morning - Przedpołudnie
 Day - Świt
