@@ -165,6 +165,7 @@ Ocram - Kolor
 ======   CZĘŚCI CIAŁ   ======
 Arm - Wysięgnik
 Body - Ścierwo
+Ears - Kłosie
 Fist - Kułak
 Head - Czoło
 Hand - Marynarz
@@ -221,6 +222,7 @@ Dynasty - Paskudne
 Ebonsand - Gnatopiach
 Ebonstone - Gnatopestka
 Ice - Lukier
+Gemcorn - Cackokukurydza
 Gemspark - Cackofircyk
 Glass - Barometr
 Granite - Wieczorna Babcia
@@ -308,6 +310,7 @@ Giant - Olbrzymi
 Glowing - Promieniujący
 Great - Hojny
 Guardian - Konduktor
+Hanging - Powieszenie Zbrodniarza
 Hardened - Zahartowany
 Heavenly - Boski
 Hidden - Przyczajony
@@ -320,6 +323,7 @@ Mechanical - Bezwiedny
 Molten - Ciekły
 Multicolored - Stukrasny
 Necromantic - Nie Koniecznie Romantyczny
+Royal - Niebywały
 Rusty - Ośniedziały
 Shadow - Szpiegujący
 Shining - Awanturujący
@@ -575,7 +579,6 @@ Crimtane - Puropalony
 Crown - Ciemię
 Diabolist - Cukrzykowiec
 Doll - Ślicznotka
-Dryad - Sucha Reklama
 Echo - Huczenie
 Egg - Jajco
 Emblem - Godło
@@ -592,6 +595,7 @@ Gas - Benzyna
 Galaxy - Droga Mleczna
 Globe - Gałka Oczna
 Glow - Rumieńce
+Glowstick - Rumieńcokij
 Gothic - Barbarzyńskie
 Gradient - Nachylenie
 Grave - Mogiła
@@ -729,7 +733,7 @@ Open - Ujawnij
 Place - Posiadłość
 Quality - Cecha
 Requires - Żąda
-Return - Odwzajemnienie
+Return - Riposta
 Scale - Tabela
 Select - Dobierz
 Setting - Nastawienie Kości
