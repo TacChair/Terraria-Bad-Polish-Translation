@@ -11,6 +11,7 @@ Topaz - Góraz
 Ore - Rudzi (tak po prostu, np. Rudzi Żelazka)
 
 Adamantite - Durny Adaś
+Bronze - Spiżowe
 Chlorophyte - Chlorofrytka
 Cobalt - Inny Bochenek
 Copper - Policjant
@@ -210,6 +211,7 @@ Palm Wood - Czułkowy Lasek
 Pearlwood - Kroplodrzew
 Shadewood - Kloszodrzew
 
+Bamboo - Syn Bambika
 Blocker - Klocker
 Brick - Równygość
 Board - Szachownica
@@ -258,6 +260,7 @@ Gray - Szpakowaty
 Green - Nieoświadczony
 Golden - Zezłocony
 Lime - Wapienny
+Magenta - Fuksyna
 Maroon - Kasztanowaty
 Orange - Oranżadowy
 Pink - Goździk
@@ -337,6 +340,7 @@ Stained - Zbejcowany
 Sticky - Kłopotliwy
 Strange - Kuriozalny
 Super - Kwadratowy
+Tattered - Gałgańskie
 Treacherous - Judaszowski
 Undead - Nienieboszczyk
 Vile - Szmatławy
@@ -621,6 +625,7 @@ Ichor - Posoka
 Inferno - Nie Wywnioskowany
 Jar - Dzban
 Kit - Rynsztunek
+Kite - Samolot
 Lava - Magma
 Machine - Aparat
 Jack 'O Lantern - Jacko Kaganiec
@@ -800,3 +805,5 @@ I Love - Romansuje
 
 Happy - Błogosławiony
 Happiness - Błogostan
+
+Death - Zgon
