@@ -33,7 +33,7 @@ NO CommonItemTooltip
 NO PaintingArtist
 OK Prefix
 VIP ItemName
-	+ przetłumaczyć linijki 6440 - 7115
+	+ przetłumaczyć linijki 6440 - 6962
 	+ dodać banery
 	
 NO ItemTooltip
