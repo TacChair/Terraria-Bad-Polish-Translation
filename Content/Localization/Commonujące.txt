@@ -802,6 +802,11 @@ I Dislike - Idiosynkrazuję
 I Hate - Ja bardzo nie lubić
 I Like - Sympatyzuje
 I Love - Romansuje
+I prefer - Awansuje <kogoś>
+
+I'm feeling - Jestem bomba
+I'm used - Jestem wykorzystany
+I'm far - Jestem w znacznym stopniu
 
 Happy - Błogosławiony
 Happiness - Błogostan

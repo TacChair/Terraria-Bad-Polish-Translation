@@ -32,9 +32,7 @@ NO StardewTalk
 NO CommonItemTooltip
 NO PaintingArtist
 OK Prefix
-VIP ItemName
-	+ dodać banery
-	
+OK ItemName
 NO ItemTooltip
 NO Error
 NO Key
@@ -87,7 +85,7 @@ OK NPCName
 NO ProjectileName
 NO TownNPCHousingFailureReasons
 VIP ..Names
-	+ Nie działają?
+	+ Nie działają? (odpowiedź: na multiplayer)
 	+ CatNames/DogNames/BunnyNames/SlimeNames
 NO AnglerQuestChatter
 NO BartenderChatter
@@ -150,7 +148,7 @@ NO GolferQuestsChatterApprentice
 NO GolferQuestsChatterBeginner
 OK TownNPCMoodBiomes
 OK TownNPCMood
-NO TownNPCMood_Guide
+OK TownNPCMood_Guide
 NO TownNPCMood_Merchant
 NO TownNPCMood_Nurse
 NO TownNPCMood_Painter
