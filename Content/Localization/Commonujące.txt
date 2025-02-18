@@ -812,3 +812,21 @@ Happy - Błogosławiony
 Happiness - Błogostan
 
 Death - Zgon
+
+======   TOOLTIPY   ======
+
+Able to - Utalentowany w
+Can also apply coatings - Potrafi również smarować panierki
+Critical strike chance - ryzyko poważnego chluśnięcia
+Damage - upośledzenie
+Increased - wzmożone
+Increases maximum mana - Wzmaga maksymalny prestiż
+Melee - utarczka
+Movement speed - chyżość wypróżniania
+Permanently - 
+Ranged - kuchenka
+Reduced mana cost - zniżka na cenę prestiżu
+Save ammo - ocalenie strzeliwa
+Shoots - filmuje
+Summons - Pozywa
+Used to make - Przyzwyczajony do konstruowania

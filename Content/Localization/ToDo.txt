@@ -34,6 +34,7 @@ NO PaintingArtist
 OK Prefix
 OK ItemName
 NO ItemTooltip
+	+ do linijki 7912
 NO Error
 NO Key
 NO Language
