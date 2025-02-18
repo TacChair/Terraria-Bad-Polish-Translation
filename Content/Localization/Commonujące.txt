@@ -816,11 +816,13 @@ Death - Zgon
 ======   TOOLTIPY   ======
 
 Able to - Utalentowany w
+Activates when a player steps on it - Ożywia, gdy aktor po niej stepuje
 Can also apply coatings - Potrafi również smarować panierki
 Critical strike chance - ryzyko poważnego chluśnięcia
 Damage - upośledzenie
 Increased - wzmożone
 Increases maximum mana - Wzmaga maksymalny prestiż
+Increases your max number of minions by - Wzmaga twój maksymalny wpiernicz sługusom o
 Melee - utarczka
 Movement speed - chyżość wypróżniania
 Permanently - 
@@ -829,4 +831,6 @@ Reduced mana cost - zniżka na cenę prestiżu
 Save ammo - ocalenie strzeliwa
 Shoots - filmuje
 Summons - Pozywa
+Summons ... to fight for you - Pozywa ... by sprzeczał się dla ciebie
+Used for basic crafting - Przyzwyczajony do nudnych rzemiosł
 Used to make - Przyzwyczajony do konstruowania
