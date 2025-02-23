@@ -33,6 +33,7 @@ NO CommonItemTooltip
 NO PaintingArtist
 OK Prefix
 OK ItemName
+	+Illegal Gun parts
 NO ItemTooltip
 	+ do linijki 7926
 NO Error
