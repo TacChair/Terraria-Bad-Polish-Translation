@@ -820,12 +820,20 @@ Activates when a player steps on it - Ożywia, gdy aktor po niej stepuje
 Can also apply coatings - Potrafi również smarować panierki
 Critical strike chance - ryzyko poważnego chluśnięcia
 Damage - upośledzenie
+Defense - Obronność
+Fall damage - Jesienne upośledzenia
 Increased - wzmożone
+Increases jump height - Wzmaga inensywność susów
 Increases maximum mana - Wzmaga maksymalny prestiż
 Increases your max number of minions by - Wzmaga twój maksymalny wpiernicz sługusom o
+Knockback - Odmowa
+Life regeneration - Resustytacja okresu użytkowania
 Melee - utarczka
+Minor - Nieletnie
 Movement speed - chyżość wypróżniania
 Permanently - 
+Powerful - możny
+Range - Donośność
 Ranged - kuchenka
 Reduced mana cost - zniżka na cenę prestiżu
 Save ammo - ocalenie strzeliwa
