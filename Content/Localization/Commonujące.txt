@@ -817,21 +817,30 @@ Death - Zgon
 
 Able to - Utalentowany w
 Activates when a player steps on it - Ożywia, gdy aktor po niej stepuje
+Cause - powoduje
 Can also apply coatings - Potrafi również smarować panierki
+Can be placed in - Potrafi być ulokowany pośród
+chance to not consume - ryzyko nie zjedzenia
 Critical strike chance - ryzyko poważnego chluśnięcia
 Damage - upośledzenie
 Defense - Obronność
+Enemies are more likely to target you - Nieprzyjaciele są bardziej obiecujący w kierowaniu się tobą
 Fall damage - Jesienne upośledzenia
+Hold - Piastować
 Increased - wzmożone
 Increases jump height - Wzmaga inensywność susów
 Increases maximum mana - Wzmaga maksymalny prestiż
 Increases your max number of minions by - Wzmaga twój maksymalny wpiernicz sługusom o
+Inflict - wyrządzać
+Into - W sprawie
 Knockback - Odmowa
 Life regeneration - Resustytacja okresu użytkowania
 Melee - utarczka
 Minor - Nieletnie
+Multiple - sklep sieciowy
+Nearby - Pobliskich
 Movement speed - chyżość wypróżniania
-Permanently - 
+Permanently - Trwale
 Powerful - możny
 Range - Donośność
 Ranged - kuchenka
@@ -840,5 +849,7 @@ Save ammo - ocalenie strzeliwa
 Shoots - filmuje
 Summons - Pozywa
 Summons ... to fight for you - Pozywa ... by sprzeczał się dla ciebie
+Taking - Zjedzeniu
 Used for basic crafting - Przyzwyczajony do nudnych rzemiosł
 Used to make - Przyzwyczajony do konstruowania
+View - Opinia
