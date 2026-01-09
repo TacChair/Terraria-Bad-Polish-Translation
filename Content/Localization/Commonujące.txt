@@ -717,9 +717,11 @@ Potion - Napój
 Healing - Gojenie : Zdrowienie
 
 ======= UI ===========
+After - Według
 All - Zupełnie
 Any - Który
 Back - Plecy
+Before - Wobec
 Bestiary - Najlepszy Diadem
 Buy - Okup
 Cancel - Skreślać
@@ -790,6 +792,8 @@ Second - Drugi
 
 ====== Statusy =======
 Damage - Upośledzenie
+Damage taken - Wzięte Upośledzenia
+Defence - Pozwany
 Fishing Power - Wartości Żetonu
 Spelunker - Grotołaz
 -proof - Dowód Istnienia
@@ -815,20 +819,24 @@ Death - Zgon
 
 ======   TOOLTIPY   ======
 
+Ability - Dar
 Able to - Utalentowany w
 Activates when a player steps on it - Ożywia, gdy aktor po niej stepuje
 Cause - powoduje
 Can also apply coatings - Potrafi również smarować panierki
 Can be placed in - Potrafi być ulokowany pośród
-chance to not consume - ryzyko nie zjedzenia
+Chance - ryzyko
+Chance to not consume - ryzyko nie zjedzenia
 Critical strike chance - ryzyko poważnego chluśnięcia
 Damage - upośledzenie
 Defense - Obronność
 Enemies are more likely to target you - Nieprzyjaciele są bardziej obiecujący w kierowaniu się tobą
 Fall damage - Jesienne upośledzenia
 Grants the ability - Przyznaje talent
+Greatly - Hojnie
 Hold - Piastować
-Increased - wzmożone
+Immune - Ubezpieczony
+Increased - wzmożył
 Increases jump height - Wzmaga inensywność susów
 Increases maximum mana - Wzmaga maksymalny prestiż
 Increases your max number of minions by - Wzmaga twój maksymalny wpiernicz sługusom o
@@ -846,11 +854,15 @@ Powerful - możny
 Range - Donośność
 Ranged - kuchenka
 Reduced mana cost - zniżka na cenę prestiżu
+Reduce - zaniżyć
 Save ammo - ocalenie strzeliwa
+Shoot - filmować
 Shoots - filmuje
+Striking enemies - strajkujących nieprzyjaciół
 Summons - Pozywa
 Summons ... to fight for you - Pozywa ... by sprzeczał się dla ciebie
 Taking - Zjedzeniu
+Target - Kierować
 Used for basic crafting - Przyzwyczajony do nudnych rzemiosł
 Used to make - Przyzwyczajony do konstruowania
 View - Opinia
