@@ -22,7 +22,7 @@ Hellstone - Cholernapestka
 Iron - Żelazko
 Lead - Ołówek
 Luminite - Światłonit
-Metorite - Spotkanioryt
+Meteorite - Spotkanioryt
 Mythril - Baśnium
 Shroomite - Grzybogrosz
 Silver - Sreberko
@@ -826,6 +826,7 @@ Damage - upośledzenie
 Defense - Obronność
 Enemies are more likely to target you - Nieprzyjaciele są bardziej obiecujący w kierowaniu się tobą
 Fall damage - Jesienne upośledzenia
+Grants the ability - Przyznaje talent
 Hold - Piastować
 Increased - wzmożone
 Increases jump height - Wzmaga inensywność susów
