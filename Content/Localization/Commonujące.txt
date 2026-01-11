@@ -641,6 +641,7 @@ Nightmare - Nocna Klacz
 Obelisk - Słuchacz Krocza
 Pipe - Fujarka
 Pirate - Plagiator
+Plant - Fabryka
 Plush - Włochacz
 Poison - Jad
 Powder - Krzepa
@@ -827,8 +828,10 @@ Can also apply coatings - Potrafi również smarować panierki
 Can be placed in - Potrafi być ulokowany pośród
 Chance - ryzyko
 Chance to not consume - ryzyko nie zjedzenia
+Cooldown - Ostudzenie
 Critical strike chance - ryzyko poważnego chluśnięcia
 Damage - upośledzenie
+Decrease - uszczupla
 Defense - Obronność
 Enemies are more likely to target you - Nieprzyjaciele są bardziej obiecujący w kierowaniu się tobą
 Fall damage - Jesienne upośledzenia
@@ -850,19 +853,25 @@ Multiple - sklep sieciowy
 Nearby - Pobliskich
 Movement speed - chyżość wypróżniania
 Permanently - Trwale
+Pickup - pikap
 Powerful - możny
 Range - Donośność
 Ranged - kuchenka
 Reduced mana cost - zniżka na cenę prestiżu
 Reduce - zaniżyć
+Restore - Odrestaurowuje
 Save ammo - ocalenie strzeliwa
+Sell well - wykantować studnię
 Shoot - filmować
 Shoots - filmuje
+Spawn - Ikra
 Striking enemies - strajkujących nieprzyjaciół
 Summons - Pozywa
 Summons ... to fight for you - Pozywa ... by sprzeczał się dla ciebie
 Taking - Zjedzeniu
 Target - Kierować
+Tool range - donośność kujonów
 Used for basic crafting - Przyzwyczajony do nudnych rzemiosł
 Used to make - Przyzwyczajony do konstruowania
 View - Opinia
+When damaged - W przypadku upośledzenia
