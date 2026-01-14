@@ -112,6 +112,7 @@ Harpy - Ględziator
 Hornet - Sieciowy Klakson
 Imp - Skrzat
 Lihzahrd - Reptilian
+Merfolk - Syrludka
 Mimic - Imitator
 Monster - Dziwoląg
 Mummy - Miazga
@@ -820,6 +821,7 @@ Death - Zgon
 
 ======   TOOLTIPY   ======
 
+Accessory - Współwinny
 Ability - Dar
 Able to - Utalentowany w
 Activates when a player steps on it - Ożywia, gdy aktor po niej stepuje
@@ -829,6 +831,7 @@ Can also apply coatings - Potrafi również smarować panierki
 Can be placed in - Potrafi być ulokowany pośród
 Chance - ryzyko
 Chance to not consume - ryzyko nie zjedzenia
+Confuse - bałamucić
 Cooldown - Ostudzenie
 Critical strike chance - ryzyko poważnego chluśnięcia
 Damage - upośledzenie
@@ -840,6 +843,7 @@ Falling - incydent
 Grants the ability - Przyznaje talent
 Greatly - Hojnie
 Hold - Piastować
+Holder - Okaziciel
 Immune - Ubezpieczony
 Immunity - obojętność na
 Increased - wzmożył
