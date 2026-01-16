@@ -838,6 +838,7 @@ Damage - upośledzenie
 Decrease - uszczupla
 Defense - Obronność
 Enemies are more likely to target you - Nieprzyjaciele są bardziej obiecujący w kierowaniu się tobą
+Essence - wyciąg
 Fall damage - Jesienne upośledzenia
 Falling - incydent
 Grants the ability - Przyznaje talent
@@ -860,6 +861,7 @@ Multiple - sklep sieciowy
 Nearby - Pobliskich
 Movement speed - chyżość wypróżniania
 Permanently - Trwale
+Pet - Pieszczoch
 Pickup - pikap
 Powerful - możny
 Provides - dostarcza
@@ -874,6 +876,7 @@ Save ammo - ocalenie strzeliwa
 Sell well - wykantować studnię
 Shoot - filmować
 Shoots - filmuje
+Spreads - Rozpościera
 A small explosion that will destroy most tiles - Skromny wybuch, który zrujnuje większość dachówek
 Spawn - Ikra
 Striking enemies - strajkujących nieprzyjaciół
