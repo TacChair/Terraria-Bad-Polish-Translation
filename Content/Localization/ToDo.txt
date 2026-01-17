@@ -75,7 +75,7 @@ OK TitleLinks
 NO LegacyWorldGen
 NO LegacyDialog
 NO LegacyMenu
-NO LegacyTooltip
+OK LegacyTooltip
 OK LegacyMultiplayer
 OK LegacyMisc
 NO LegacyInterface

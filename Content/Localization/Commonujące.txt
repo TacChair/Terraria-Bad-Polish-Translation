@@ -112,6 +112,7 @@ Harpy - Ględziator
 Hornet - Sieciowy Klakson
 Imp - Skrzat
 Lihzahrd - Reptilian
+Merfolk - Syrludka
 Mimic - Imitator
 Monster - Dziwoląg
 Mummy - Miazga
@@ -820,25 +821,32 @@ Death - Zgon
 
 ======   TOOLTIPY   ======
 
+Accessory - Współwinny
 Ability - Dar
 Able to - Utalentowany w
 Activates when a player steps on it - Ożywia, gdy aktor po niej stepuje
+Breathing - smakowanie
 Cause - powoduje
 Can also apply coatings - Potrafi również smarować panierki
 Can be placed in - Potrafi być ulokowany pośród
 Chance - ryzyko
 Chance to not consume - ryzyko nie zjedzenia
+Confuse - bałamucić
 Cooldown - Ostudzenie
 Critical strike chance - ryzyko poważnego chluśnięcia
 Damage - upośledzenie
 Decrease - uszczupla
 Defense - Obronność
 Enemies are more likely to target you - Nieprzyjaciele są bardziej obiecujący w kierowaniu się tobą
+Essence - wyciąg
 Fall damage - Jesienne upośledzenia
+Falling - incydent
 Grants the ability - Przyznaje talent
 Greatly - Hojnie
 Hold - Piastować
+Holder - Okaziciel
 Immune - Ubezpieczony
+Immunity - obojętność na
 Increased - wzmożył
 Increases jump height - Wzmaga inensywność susów
 Increases maximum mana - Wzmaga maksymalny prestiż
@@ -846,6 +854,7 @@ Increases your max number of minions by - Wzmaga twój maksymalny wpiernicz słu
 Inflict - wyrządzać
 Into - W sprawie
 Knockback - Odmowa
+Length of invincibility - rozciągłość niezwyciężoności
 Life regeneration - Resustytacja okresu użytkowania
 Melee - utarczka
 Minor - Nieletnie
@@ -853,17 +862,24 @@ Multiple - sklep sieciowy
 Nearby - Pobliskich
 Movement speed - chyżość wypróżniania
 Permanently - Trwale
+Pet - Pieszczoch
 Pickup - pikap
 Powerful - możny
+Provides - dostarcza
 Range - Donośność
 Ranged - kuchenka
+Reduced damage taken by - Zniżki na zażyte upośledzenia
 Reduced mana cost - zniżka na cenę prestiżu
 Reduce - zaniżyć
+Resistance - ruch oporu
 Restore - Odrestaurowuje
 Save ammo - ocalenie strzeliwa
 Sell well - wykantować studnię
 Shoot - filmować
 Shoots - filmuje
+Social slot - stadny żłobek
+Spreads - Rozpościera
+Small explosion that will destroy most tiles - Skromny wybuch, który zrujnuje większość dachówek
 Spawn - Ikra
 Striking enemies - strajkujących nieprzyjaciół
 Summons - Pozywa
@@ -873,5 +889,6 @@ Target - Kierować
 Tool range - donośność kujonów
 Used for basic crafting - Przyzwyczajony do nudnych rzemiosł
 Used to make - Przyzwyczajony do konstruowania
+Vanity - Próżny
 View - Opinia
 When damaged - W przypadku upośledzenia

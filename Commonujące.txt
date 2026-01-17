@@ -854,6 +854,7 @@ Increases your max number of minions by - Wzmaga twój maksymalny wpiernicz słu
 Inflict - wyrządzać
 Into - W sprawie
 Knockback - Odmowa
+Length of invincibility - rozciągłość niezwyciężoności
 Life regeneration - Resustytacja okresu użytkowania
 Melee - utarczka
 Minor - Nieletnie
@@ -876,8 +877,9 @@ Save ammo - ocalenie strzeliwa
 Sell well - wykantować studnię
 Shoot - filmować
 Shoots - filmuje
+Social slot - stadny żłobek
 Spreads - Rozpościera
-A small explosion that will destroy most tiles - Skromny wybuch, który zrujnuje większość dachówek
+Small explosion that will destroy most tiles - Skromny wybuch, który zrujnuje większość dachówek
 Spawn - Ikra
 Striking enemies - strajkujących nieprzyjaciół
 Summons - Pozywa
@@ -887,5 +889,6 @@ Target - Kierować
 Tool range - donośność kujonów
 Used for basic crafting - Przyzwyczajony do nudnych rzemiosł
 Used to make - Przyzwyczajony do konstruowania
+Vanity - Próżny
 View - Opinia
 When damaged - W przypadku upośledzenia
