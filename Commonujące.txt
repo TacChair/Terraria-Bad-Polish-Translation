@@ -877,6 +877,7 @@ Save ammo - ocalenie strzeliwa
 Sell well - wykantować studnię
 Shoot - filmować
 Shoots - filmuje
+Slow - Nierychły
 Social slot - stadny żłobek
 Spreads - Rozpościera
 Small explosion that will destroy most tiles - Skromny wybuch, który zrujnuje większość dachówek
