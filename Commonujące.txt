@@ -821,6 +821,7 @@ Death - Zgon
 
 ======   TOOLTIPY   ======
 
+Absorb - Pasjonować 
 Accessory - Współwinny
 Ability - Dar
 Able to - Utalentowany w
@@ -861,6 +862,7 @@ Minor - Nieletnie
 Multiple - sklep sieciowy
 Nearby - Pobliskich
 Movement speed - chyżość wypróżniania
+Owner - Pryncypał
 Permanently - Trwale
 Pet - Pieszczoch
 Pickup - pikap
@@ -887,6 +889,7 @@ Summons - Pozywa
 Summons ... to fight for you - Pozywa ... by sprzeczał się dla ciebie
 Taking - Zjedzeniu
 Target - Kierować
+Team - Zaprząg
 Tool range - donośność kujonów
 Used for basic crafting - Przyzwyczajony do nudnych rzemiosł
 Used to make - Przyzwyczajony do konstruowania
