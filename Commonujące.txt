@@ -844,6 +844,7 @@ Enemies are more likely to target you - Nieprzyjaciele są bardziej obiecujący 
 Essence - wyciąg
 Fall damage - Jesienne upośledzenia
 Falling - incydent
+Fragment - Kruszyna
 Grants the ability - Przyznaje talent
 Greatly - Hojnie
 Hold - Piastować
@@ -896,6 +897,7 @@ Taking - Zjedzeniu
 Target - Kierować
 Team - Zaprząg
 Tool range - donośność kujonów
+UFO - Nieutożsamiona Idea Cwaności 
 Used for basic crafting - Przyzwyczajony do nudnych rzemiosł
 Used to make - Przyzwyczajony do konstruowania
 Vanity - Próżny
