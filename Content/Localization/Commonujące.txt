@@ -816,6 +816,7 @@ I'm far - Jestem w znacznym stopniu
 
 Happy - Błogosławiony
 Happiness - Błogostan
+Like - Analogicznie
 
 Death - Zgon
 
