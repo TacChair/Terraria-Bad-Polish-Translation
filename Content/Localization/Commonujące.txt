@@ -821,16 +821,19 @@ Death - Zgon
 
 ======   TOOLTIPY   ======
 
+Absorb - Pasjonować 
 Accessory - Współwinny
 Ability - Dar
 Able to - Utalentowany w
 Activates when a player steps on it - Ożywia, gdy aktor po niej stepuje
+Baby - Dziecinny
 Breathing - smakowanie
 Cause - powoduje
 Can also apply coatings - Potrafi również smarować panierki
 Can be placed in - Potrafi być ulokowany pośród
 Chance - ryzyko
 Chance to not consume - ryzyko nie zjedzenia
+Climb walls - postępowanie po równychgościach
 Confuse - bałamucić
 Cooldown - Ostudzenie
 Critical strike chance - ryzyko poważnego chluśnięcia
@@ -841,6 +844,7 @@ Enemies are more likely to target you - Nieprzyjaciele są bardziej obiecujący 
 Essence - wyciąg
 Fall damage - Jesienne upośledzenia
 Falling - incydent
+Fragment - Kruszyna
 Grants the ability - Przyznaje talent
 Greatly - Hojnie
 Hold - Piastować
@@ -853,14 +857,17 @@ Increases maximum mana - Wzmaga maksymalny prestiż
 Increases your max number of minions by - Wzmaga twój maksymalny wpiernicz sługusom o
 Inflict - wyrządzać
 Into - W sprawie
+Is following you - gonić
 Knockback - Odmowa
 Length of invincibility - rozciągłość niezwyciężoności
 Life regeneration - Resustytacja okresu użytkowania
 Melee - utarczka
 Minor - Nieletnie
+Mount - Rower
 Multiple - sklep sieciowy
 Nearby - Pobliskich
 Movement speed - chyżość wypróżniania
+Owner - Pryncypał
 Permanently - Trwale
 Pet - Pieszczoch
 Pickup - pikap
@@ -873,10 +880,12 @@ Reduced mana cost - zniżka na cenę prestiżu
 Reduce - zaniżyć
 Resistance - ruch oporu
 Restore - Odrestaurowuje
+Rideable - wierzchowny
 Save ammo - ocalenie strzeliwa
 Sell well - wykantować studnię
 Shoot - filmować
 Shoots - filmuje
+Slow - Nierychły
 Social slot - stadny żłobek
 Spreads - Rozpościera
 Small explosion that will destroy most tiles - Skromny wybuch, który zrujnuje większość dachówek
@@ -886,7 +895,9 @@ Summons - Pozywa
 Summons ... to fight for you - Pozywa ... by sprzeczał się dla ciebie
 Taking - Zjedzeniu
 Target - Kierować
+Team - Zaprząg
 Tool range - donośność kujonów
+UFO - Nieutożsamiona Idea Cwaności 
 Used for basic crafting - Przyzwyczajony do nudnych rzemiosł
 Used to make - Przyzwyczajony do konstruowania
 Vanity - Próżny
