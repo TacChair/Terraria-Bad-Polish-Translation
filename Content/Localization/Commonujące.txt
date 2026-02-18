@@ -862,6 +862,8 @@ Is following you - gonić
 Knockback - Odmowa
 Length of invincibility - rozciągłość niezwyciężoności
 Life regeneration - Resustytacja okresu użytkowania
+Liquid - Skroplony
+Logic Gate - Dorzeczne Wrota
 Melee - utarczka
 Minor - Nieletnie
 Mount - Rower
